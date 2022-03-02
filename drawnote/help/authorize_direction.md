@@ -1,13 +1,1 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Hello<title/>
-<head/>
-
-<body>
-    <div>
-      Hello!
-    </div>
-<body/>
-<html/>
+![Help](res/help_authorize_direction.jpg)
