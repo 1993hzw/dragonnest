@@ -7,7 +7,7 @@
         urlParams = new URLSearchParams(window.location.search);
         lang = urlParams.get('lang')
         console.log(lang)
-        if (lang.startsWith("zh")) {
+        if (lang && lang.startsWith("zh")) {
             window.location.href = "zh-tw"
         } else {
             window.location.href = "index_default"
