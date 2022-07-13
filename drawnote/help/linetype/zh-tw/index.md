@@ -1,7 +1,7 @@
-### Cornell Note
+### 康奈爾筆記
 
-![Help](res/conorell.jpg)
+<img src="res/conorell.jpg"  height="60%">
 
-### Accenture Note
+### 埃森哲筆記
 
-![Help](res/accenture.jpg)
+<img src="res/accenture.jpg"  height="60%">

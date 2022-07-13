@@ -1,7 +1,7 @@
 ### Cornell Note
 
-![Help](res/conorell.jpg)
+<img src="res/conorell.jpg"  height="60%">
 
 ### Accenture Note
 
-![Help](res/accenture.jpg)
+<img src="res/accenture.jpg"  height="60%">
