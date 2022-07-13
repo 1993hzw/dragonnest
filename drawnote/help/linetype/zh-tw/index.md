@@ -4,4 +4,4 @@
 
 ### 埃森哲筆記
 
-![Help](res/conorell.png)
+![Help](res/accenture.png)

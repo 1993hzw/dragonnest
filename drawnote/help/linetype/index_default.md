@@ -4,4 +4,4 @@
 
 ### Accenture Note
 
-![Help](res/conorell.png)
+![Help](res/accenture.png)
