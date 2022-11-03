@@ -1,0 +1,9 @@
+{
+	"versionCode":2211253,
+	"versionName":"4.1.0",
+	"fileSize":"5.99MB",
+	"apkUrl":"https://github.com/1993hzw/dragonnest/raw/gh-pages/drawnote/drawnote-4.1.0-v2211253-t2211031114-inland-release.apk",
+	"required":false,
+	"releaseDate":"2022-11-03",
+	"releaseNotes":["支持自动备份", "笔记列表支持九宫格显示", "增加打印选项"， "支持同时插入多张图片", "其他优化"]
+}
