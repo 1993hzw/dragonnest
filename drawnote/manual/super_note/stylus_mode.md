@@ -1,3 +1,5 @@
+[用户手册](/dragonnest/drawnote/manual) > [超级笔记](/dragonnest/drawnote/manual/super_note) >
+
 触控笔模式
 ---
 #### 操作步骤
