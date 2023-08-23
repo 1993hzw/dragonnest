@@ -1,28 +1,32 @@
 **Haftungsausschluss**
 
-Willkommen bei DrawNote (im Folgenden als "Anwendung" bezeichnet). Bevor Sie die Anwendung verwenden, lesen Sie bitte den folgenden Haftungsausschluss sorgfältig durch. Durch Herunterladen, Installieren, Zugreifen oder Verwenden dieser Anwendung erklären Sie, dass Sie die folgenden Geschäftsbedingungen gelesen, verstanden und akzeptiert haben. Wenn Sie diesen Bedingungen nicht zustimmen, verwenden Sie diese Anwendung bitte nicht.
+Herzlich willkommen bei der Nutzung von DrawNote (im Folgenden als "Anwendung" bezeichnet). Bitte lesen Sie vor der Nutzung der Anwendung den folgenden Haftungsausschluss sorgfältig durch. Durch das Herunterladen, Installieren, Zugreifen oder Verwenden dieser Anwendung erklären Sie, dass Sie die folgenden Bedingungen und Konditionen gelesen, verstanden und akzeptiert haben. Wenn Sie mit diesen Bedingungen nicht einverstanden sind, verwenden Sie bitte die Anwendung nicht.
 
-1. **Datensicherheit und Datenschutz**
+- **Datensicherheit und Datenschutz**
 
-Die Anwendung bietet eine lokale Datensperrfunktion, beachten Sie jedoch, dass diese Funktion nur für Daten auf Ihrem lokalen Gerät gilt. Bei aktivierter Datensperrfunktion werden die Daten auf Ihrem lokalen Gerät verschlüsselt und geschützt. Bei Durchführung von Datensicherungen, Cloud-Synchronisationen oder Exportvorgängen wird der Sperrstatus jedoch nicht synchronisiert. Das bedeutet, dass Sie, wenn Sie Notizen sperren, sie sichern und dann diese Notizen auf anderen Geräten wiederherstellen, sie nicht erneut entsperren müssen, um ihren Inhalt anzeigen zu können. Stellen Sie daher vor Durchführung dieser Vorgänge sicher, dass Ihre Daten sicher sind und Sie die damit verbundenen Risiken vollständig verstehen, um Datenverlust oder -lecks zu verhindern.
+Die Anwendung bietet eine lokale Datensperrfunktion, beachten Sie jedoch, dass diese Funktion nur auf Daten auf Ihrem lokalen Gerät angewendet wird. Bei aktivierter Datensperrfunktion werden die Daten auf Ihrem lokalen Gerät verschlüsselt und geschützt. Bei Durchführung von Datensicherung, Cloud-Synchronisation oder Exportoperationen wird der Sperrstatus nicht synchronisiert. Das bedeutet, dass Sie gesperrte Notizen sichern und dann auf anderen Geräten wiederherstellen können, ohne sie erneut entsperren zu müssen, um den Inhalt anzeigen zu können. Daher stellen Sie vor Durchführung dieser Operationen bitte sicher, dass Ihre Daten sicher sind, und verstehen Sie die damit verbundenen Risiken vollständig, um Datenverlust oder -lecks zu vermeiden.
 
-2. **Datensicherung und Synchronisation**
+- **Datensicherung und Synchronisation**
 
-Die Anwendung bietet Funktionen zur Datensicherung und Synchronisation, jedoch könnten diese Funktionen eine Integration mit Diensten oder Plattformen von Drittanbietern beinhalten. Wir werden angemessene Sicherheitsmaßnahmen zum Schutz Ihrer Daten ergreifen, können jedoch nicht für die Sicherheit oder Datenschutzmaßnahmen von Drittanbieterdiensten garantieren. Sie sollten die Datenschutzrichtlinien und -bedingungen von Drittanbieterdiensten eigenständig verstehen und bestätigen.
+Die Anwendung bietet Funktionen zur Datensicherung und -synchronisation, beachten Sie jedoch, dass diese Funktionen möglicherweise die Integration mit Diensten oder Plattformen von Drittanbietern beinhalten. Wir werden angemessene Sicherheitsmaßnahmen zum Schutz Ihrer Daten ergreifen, können jedoch nicht die Sicherheit oder Datenschutzmaßnahmen von Drittanbieterdiensten garantieren. Sie sollten die Datenschutzrichtlinien und -bedingungen von Drittanbieterdiensten selbstständig verstehen und bestätigen.
 
-3. **Risiken und Verantwortlichkeiten bei der Nutzung**
+- **Premium-Funktionen**
 
-Die mit der Nutzung dieser Anwendung verbundenen Risiken tragen Sie selbst. Wir übernehmen keine Haftung für Datenverlust, -beschädigung, -leckage oder andere Probleme, die durch die Nutzung dieser Anwendung verursacht werden. Wir garantieren nicht für die Anwendbarkeit, Richtigkeit, Vollständigkeit oder Zuverlässigkeit der Anwendung. Bei der Verwendung dieser Anwendung sollten Sie stets Backups Ihrer Daten erstellen.
+Die Anwendung unterstützt In-App-Käufe zur Freischaltung von Premium-Funktionen. Benutzer, die Premium-Funktionen erwerben, erhalten zusätzliche Funktionen. Der Kauf von Premium-Funktionen bedeutet jedoch nicht, dass die Anwendung ohne Mängel oder Fehler ist. Wir werden uns bemühen, die Qualität der Premium-Funktionen sicherzustellen, können jedoch keine ausdrücklichen oder stillschweigenden Garantien für die Verfügbarkeit oder Anwendbarkeit der Funktionalitäten geben.
 
-4. **Rechtliche Konformität**
+- **Risiken und Verantwortlichkeiten bei der Nutzung**
 
-Bei der Nutzung dieser Anwendung müssen Sie alle geltenden Gesetze und Vorschriften einhalten. Sie dürfen diese Anwendung nicht für rechtswidrige, ungesetzliche oder die Rechte Dritter verletzende Zwecke verwenden.
+Das Risiko der Nutzung dieser Anwendung liegt bei Ihnen. Wir übernehmen keine Verantwortung für Datenverlust, Schäden, Lecks oder andere Probleme, die durch die Nutzung dieser Anwendung verursacht werden. Wir garantieren nicht die Anwendbarkeit, Genauigkeit, Vollständigkeit oder Zuverlässigkeit der Anwendung. Bei der Nutzung dieser Anwendung stellen Sie bitte immer sicher, dass Sie eine angemessene Datensicherung durchführen.
 
-5. **Änderungen der Haftungsausschlussbedingungen**
+- **Rechtliche Konformität**
 
-Wir behalten uns das Recht vor, diesen Haftungsausschluss jederzeit zu ändern oder zu aktualisieren. Änderungen werden ohne weitere Benachrichtigung auf dieser Seite veröffentlicht. Bitte überprüfen Sie regelmäßig diesen Haftungsausschluss, um die neuesten Informationen zu erhalten.
+Bei der Nutzung dieser Anwendung müssen Sie alle anwendbaren Gesetze und Vorschriften einhalten. Sie dürfen diese Anwendung nicht für rechtswidrige, ungesetzliche oder die Rechte anderer verletzende Zwecke verwenden.
 
-Durch die Nutzung dieser Anwendung erklären Sie, dass Sie sich verpflichten, die oben genannten Bestimmungen einzuhalten und die mit der Nutzung dieser Anwendung verbundenen Risiken zu verstehen. Bei Fragen oder Bedenken können Sie uns gerne über die folgende E-Mail-Adresse für weitere Erklärungen oder Unterstützung kontaktieren.
+- **Änderungen des Haftungsausschlusses**
+
+Wir behalten uns das Recht vor, diesen Haftungsausschluss jederzeit zu ändern oder zu aktualisieren. Änderungen werden ohne weitere Benachrichtigung auf dieser Seite veröffentlicht. Überprüfen Sie daher regelmäßig diesen Haftungsausschluss für die neuesten Informationen.
+
+Durch die Nutzung dieser Anwendung erklären Sie sich mit den oben genannten Bestimmungen einverstanden und verstehen die mit der Nutzung dieser Anwendung verbundenen Risiken. Wenn Sie Fragen oder Bedenken haben, kontaktieren Sie uns bitte jederzeit über die folgende E-Mail-Adresse, um weitere Erklärungen oder Unterstützung zu erhalten.
 
 Datum: 23. August 2023
 
