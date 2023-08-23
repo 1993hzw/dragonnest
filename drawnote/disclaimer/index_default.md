@@ -31,4 +31,5 @@ By using this Application, you agree to comply with the above provisions and und
 Date: August 23, 2023
 
 DrawNote Team
+
 Contact Email: dragonnestapp@gmail.com

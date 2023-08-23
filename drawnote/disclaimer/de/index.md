@@ -31,4 +31,5 @@ Durch die Nutzung dieser Anwendung erklären Sie sich mit den oben genannten Bes
 Datum: 23. August 2023
 
 DrawNote Team
+
 Kontakt-E-Mail: dragonnestapp@gmail.com
