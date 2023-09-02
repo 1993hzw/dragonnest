@@ -8,4 +8,4 @@
 
 - [新建笔记](new_note.md)
 
-- [超级笔记](super_note)
+- [超级笔记](super_note/index.md)
