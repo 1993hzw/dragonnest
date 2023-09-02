@@ -9,4 +9,8 @@
 
 - [移动工具栏](move_toolbar.md)
 
-- [触控笔模式](stylus_mode.md)
+- [移动笔盒工具栏](stylus_mode.md)
+
+- [触控笔模式](move_pencil_toolbar.md)
+
+- [页面设置](page_settings.md)

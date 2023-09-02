@@ -9,6 +9,6 @@
 
 - [富文本样式](rich_text_style.md)
 
-- [页面设置](stylus_mode.md)
+- [页面设置](page_settings.md)
 
-- [导出为TXT](stylus_mode.md)
+- [导出为TXT](export_as_txt.md)
