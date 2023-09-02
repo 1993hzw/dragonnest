@@ -9,3 +9,5 @@
 - [新建笔记](new_note.md)
 
 - [超级笔记](super_note/index.md)
+
+- [文字笔记](text_note/index.md)
