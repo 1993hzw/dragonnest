@@ -11,4 +11,4 @@
 
 2.选择横向或竖向排列方式，并确认选择。
 
-![](imgs/move_toolbar.png)
+![](imgs/move_pencil_toolbar.png)
