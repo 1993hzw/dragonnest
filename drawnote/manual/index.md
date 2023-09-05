@@ -13,6 +13,6 @@
 - [思维导图](mind_mapping/index.md)
 - [文件夹](folder/index.md)
 - [待办事项清单](to_do/index.md)
-- [数据备份和恢复](mind_mapping/index.md)
+- [数据备份和恢复](data_backup_and_recovery/index.md)
 - [其他](mind_mapping/index.md)
 - [常见问题](mind_mapping/index.md)
