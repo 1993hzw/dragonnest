@@ -35,8 +35,8 @@
 
 - [音频标记](audio_marker.md)
 
-- [关联笔记]()
+- [关联笔记](associated_notes.md)
 
-- [选择模式]()
+- [选择模式](select_mode.md)
 
-- [画布视图]()
+- [画布视图](canvas_view.md)
