@@ -21,4 +21,4 @@
 
 - [其他](other/index.md)
 
-- [常见问题](mind_mapping/index.md)
+- [常见问题](q_a/index.md)
