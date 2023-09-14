@@ -2,7 +2,7 @@
 
 
 
-其他
+更多
 ---
 
 - [阅读模式和编辑模式](reading_mode_and_editing_mode.md)

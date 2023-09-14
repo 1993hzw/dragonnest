@@ -19,6 +19,6 @@
 
 - [数据备份和恢复](data_backup_and_recovery/index.md)
 
-- [其他](other/index.md)
+- [更多](other/index.md)
 
 - [常见问题](q_a/index.md)
