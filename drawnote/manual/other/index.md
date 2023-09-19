@@ -9,7 +9,7 @@
 
 - [字体库](font_library.md)
 
-- [荧光笔效果](font_library.md)
+- [荧光笔效果](highlighter_effect.md)
 
 - [设置默认字体](set_default_font.md)
 
