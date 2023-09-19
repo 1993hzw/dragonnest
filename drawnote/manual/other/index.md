@@ -9,6 +9,8 @@
 
 - [字体库](font_library.md)
 
+- [荧光笔效果](font_library.md)
+
 - [设置默认字体](set_default_font.md)
 
 - [在线搜索](online_search.md)
