@@ -1,4 +1,4 @@
-[用户手册](/dragonnest/drawnote/manual) > [更多](/dragonnest/drawnote/manual/other) >
+[用户手册](/dragonnest/drawnote/manual) > [更多](/dragonnest/drawnote/manual/more) >
 
 设置默认字体
 ---
@@ -18,4 +18,4 @@
 ![](imgs/set_default_font2.png)
 
 #### 提示
-除了设置默认字体，您可以在设置页面，设置画笔色板颜色位置、设置默认文本大小。
+除了设置默认字体，您可以在设置页面，设置画笔色板颜色位置、设置默认文本大小等。

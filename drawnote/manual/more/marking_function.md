@@ -1,4 +1,4 @@
-[用户手册](/dragonnest/drawnote/manual) > [更多](/dragonnest/drawnote/manual/other) >
+[用户手册](/dragonnest/drawnote/manual) > [更多](/dragonnest/drawnote/manual/more) >
 
 标记功能
 ---
