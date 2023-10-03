@@ -14,3 +14,8 @@
 3.勾选确认。
 
 ![](imgs/move_pencil_toolbar.png)
+
+#### 提示
+- 按住笔盒工具栏上的圆形按钮，即可拖动笔盒工具栏并调整其位置。
+
+![](imgs/move_pencil_toolbar2.png)
