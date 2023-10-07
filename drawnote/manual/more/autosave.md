@@ -16,3 +16,9 @@
 
 ![](imgs/autosave1.png)
 ![](imgs/autosave2.png)
+
+#### 提示
+- 编辑笔记时按系统返回键的提示可自定义，响应方式包括：再次点击退出编辑、请求确认和保存并退出。
+
+
+  ![](imgs/autosave3.png)
