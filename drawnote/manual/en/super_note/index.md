@@ -21,5 +21,3 @@ Combine elements like handwriting, drawing, text, images, audio recording, table
 - [Associated Notes](associated_notes.md)
 - [Select Mode](select_mode.md)
 - [Canvas View](canvas_view.md)
-
-If you need further assistance or have more content to translate, please feel free to ask!
