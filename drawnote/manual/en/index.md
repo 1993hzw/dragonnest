@@ -1,10 +1,9 @@
-Here's the translation of your message:
 
 ![Icon](imgs/icon.png)
 
-**Youdao Notes**
+**DrawNote**
 
-Welcome to experience Youdao Notes! As a multifunctional integrated application, Youdao Notes brings together various features such as note-taking, writing, mind mapping, to-do lists, handwriting, and drawing. It is suitable for users across different domains. This manual will provide detailed information about the various features and operations of Youdao Notes to help you get started.
+Welcome to experience DrawNote! As a multifunctional integrated application, DrawNote brings together various features such as note-taking, writing, mind mapping, to-do lists, handwriting, and drawing. It is suitable for users across different domains. This manual will provide detailed information about the various features and operations of DrawNote to help you get started.
 
 ### User Manual
 

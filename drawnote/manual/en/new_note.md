@@ -1,8 +1,7 @@
-Here's the translation of your message:
 
 **Creating a New Note**
 
-Youdao Notes offers various flexible note types to meet different usage scenarios:
+DrawNote offers various flexible note types to meet different usage scenarios:
 
 - **Super Notes** - Combine elements like handwriting, drawing, text, images, audio recording, tables, mind maps, and more on a flexible canvas to fully express your creativity and artistic talent.
 
