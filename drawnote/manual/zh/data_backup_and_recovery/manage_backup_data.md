@@ -1,4 +1,4 @@
-[用户手册](/dragonnest/drawnote/manual) > [数据备份和恢复](/dragonnest/drawnote/manual/data_backup_and_recovery) >
+[用户手册](/dragonnest/drawnote/manual/zh) > [数据备份和恢复](/dragonnest/drawnote/manual/zh/data_backup_and_recovery) >
 
 管理备份数据
 ---

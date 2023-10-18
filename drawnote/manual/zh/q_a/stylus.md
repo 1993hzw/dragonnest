@@ -1,4 +1,4 @@
-[用户手册](/dragonnest/drawnote/manual) > [常见问题](/dragonnest/drawnote/manual/q_a) >
+[用户手册](/dragonnest/drawnote/manual/zh) > [常见问题](/dragonnest/drawnote/manual/zh/q_a) >
 
 画布无法用触控笔绘画怎么回事？
 ---
