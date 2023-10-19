@@ -1,24 +1,22 @@
-
-[User Manual](/dragonnest/drawnote/manual/zh) >
-
-Creating New Notes
+新建笔记
 ---
-Provides various flexible types of notes, including Super Notes, Text Notes, and Mind Maps, to meet different usage scenarios.
+有为笔记提供多种灵活的笔记类型，包括超级笔记、文字笔记和思维导图，以满足不同的使用场景。
 
-- Super Notes - Merge handwritten, drawings, text, images, recordings, tables, mind maps, and other elements together, utilizing a flexible canvas to fully express your creativity and artistic talent.
+- 超级笔记 - 将手写、绘图、文字、图片、录音、表格、思维导图等元素融合在一起，利用灵活的画布充分表达您的创意和艺术才华。
 
-- Text Notes - Focus on text recording, supporting rich text formatting and image insertion, making your notes more diverse and visual.
 
-- Mind Maps - Help you quickly capture ideas and organize knowledge, presenting complex concepts with clear graphical structures.
+- 文字笔记 - 专注于文字记录，支持富文本设置以及插入图片，让您的记录更具多样性和可视化。
 
-#### Steps
 
-On the application's homepage, click the "+" icon in the bottom right corner, choose the type of note you want to create, and begin your creative process.
+- 思维导图 - 帮助您迅速捕捉想法并整理知识，以清晰的图形结构展现复杂的概念。
+#### 操作步骤
+
+在应用首页，点击右下角的“+”号，选择要创建的笔记类型，开始创作。
 
 ![new_note](imgs/new_note01.png)
 
-#### Tips
+#### 提示
 
-- When creating a new note by clicking the "+ button" in the "Folders" section, the new note will automatically be categorized under the current folder.
+- 在「文件夹」处点击“+”按钮新建笔记时，新笔记将自动分类至当前文件夹。
 
-- You can also utilize the quick access shortcuts in the menu at the top to quickly access different creative features of Super Notes.
+- 您还可以利用菜单顶部的快捷入口，快速进入超级笔记的不同功能创作界面。

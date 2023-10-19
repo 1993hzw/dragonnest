@@ -1,6 +1,6 @@
-**Insert Mind Maps**
-
-- **Operation Steps**
+Insert Mind Maps
+---
+#### Operation Steps
 
     1. Click on the "+" button in the toolbar.
 

@@ -1,6 +1,6 @@
-Certainly, here's the translation of the content you provided into English:
 
-**Super Note**
+Super Note
+---
 
 Combine elements like handwriting, drawing, text, images, audio recording, tables, mind maps, and more on a flexible canvas to fully express your creativity and artistic talent.
 
