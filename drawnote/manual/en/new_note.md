@@ -11,7 +11,7 @@ DrawNote offers a variety of flexible note types to meet different user scenario
 #### How to Create
 On the app's homepage, tap the "+" icon in the bottom right corner. Then, select the type of note you want to create to start your note.
 
-![Create a New Note](imgs/new_note01.png)
+![Create a New Note](imgs/new_note.png)
 
 #### Tips
 
