@@ -4,7 +4,7 @@ Privacy Lock
 ---
 With Privacy Lock, you can lock specific notes and folders.
 
-#### Operating Steps
+#### Steps
 
 1. Long-press the note or folder you want to lock/unlock.
 

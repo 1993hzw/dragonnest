@@ -4,7 +4,7 @@ Marking Function
 ---
 The marking function helps you highlight key points and attract attention, suitable for teaching and presentations.
 
-#### Operating Steps
+#### Steps
 - Click the "Mark" button in the toolbar to perform marking demonstrations on the canvas.
 
 - You can adjust the thickness of the marking lines and choose marking colors. Additionally, you can set an automatic clearing time for the markings or manually clear them.

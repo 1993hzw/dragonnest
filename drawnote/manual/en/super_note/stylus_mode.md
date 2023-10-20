@@ -1,11 +1,14 @@
-**Stylus Mode**
+[User Manual](/dragonnest/drawnote/manual/en) > [Super Note](/dragonnest/drawnote/manual/en/super_note) >
 
-**Operation Steps:**
+Stylus Mode
+---
 
-In the Super Note page, click on the "⋮" More button in the upper right corner of the screen, and check the "Stylus Mode."
+#### Steps
 
-![Stylus Mode](imgs/stylus_mode.png)
+1. Within the Super Note page, tap the "⋮" more button located at the top right of the screen.
+2. Check the Stylus Mode option to activate.
+   ![](imgs/stylus_mode.png)
 
-**Tips:**
-- Before entering Stylus Mode, make sure you have successfully connected your stylus.
-- When in Stylus Mode, there will be a "Disable Finger Touch" button at the top of the page. You can click on this button to prevent accidental finger touches.
+#### Tip
+- Before entering Stylus Mode, please ensure that the stylus is successfully connected.
+- After activating Stylus Mode, an icon indicating "No finger touch allowed" will be displayed at the top of the page. You can tap this icon to prevent unintentional touches by the fingers.

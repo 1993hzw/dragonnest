@@ -1,24 +1,23 @@
 [User Manual](/dragonnest/drawnote/manual/en) > [Super Note](/dragonnest/drawnote/manual/en/super_note) >
 
-Audio Markers
+Audio Marker
 ---
-Audio markers, similar to bookmarks, help you quickly locate and replay key parts of the audio when recording or listening.
+The audio marker is similar to a bookmark, helping you quickly locate and replay key sections during audio recording or playback.
 
 #### Steps
 
-While recording or playing audio, click the "Mark" button to insert a marker at the current time.
+During recording or playback, click the "Marker" button to insert a marker at the current time.
 
 ![](imgs/audio_marker1.png)
 
 #### Tips
 
-1. **Adjust Audio Speed and Add Markers** - Easily done in the toolbar.
+1. **Adjust audio speed and add markers** - Easily done in the toolbar.
 
-2. **Edit Audio and Marker Names** - Click the rightmost "≡" button, then the "Pencil" button.
+2. **Edit recording and marker names** - Click the "≡" button on the right, then click the "Pencil" button.
 
-3. **Download Audio** - Click the leftmost "⋮" button to download.
+3. **Download audio** - Click the "⋮" button on the left to download.
 
-4. **View Audio Marker Records** - Review markers in the expanded menu; clicking a marker lets you quickly jump to that point in the audio.
+4. **View audio marker history** - View markers in the expanded menu; click on a marker to quickly jump to and play the audio.
 
 ![](imgs/audio_marker3.png)
-

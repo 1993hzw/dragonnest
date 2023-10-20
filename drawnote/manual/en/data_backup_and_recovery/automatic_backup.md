@@ -2,7 +2,7 @@
 
 Automatic Backup
 ---
-#### Operating Steps
+#### Steps
 
 1. Tap "My" on the main page.
 

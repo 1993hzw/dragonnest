@@ -1,20 +1,25 @@
-**Select Mode**
+[User Manual](/dragonnest/drawnote/manual/en) > [Super Note](/dragonnest/drawnote/manual/en/super_note) >
 
-Select mode provides various ways to make selections:
+Select Mode
+---
 
-- Lasso Selection: Select elements within a closed area formed by the lasso.
-- Path Selection: Select elements covered by a path.
-- Rectangle Selection: Select elements within a rectangular area.
+The select mode provides various selection tools:
 
-**Operation Steps:**
+- Lasso Selection - Selects elements within the enclosed area formed by the lasso.
 
-1. Click the "Select Mode" button in the toolbar to choose your preferred selection method.
+- Path Selection - Selects elements covered by the path.
 
-2. Click on the canvas and drag to select the content you want to edit, whether it's a single element or multiple elements.
+- Rectangle Selection - Selects elements within the rectangular area.
 
-3. Perform actions like rotating, zooming, resizing, merging, cutting, deleting, and more on the selected elements.
+#### Steps
 
-![Select Mode](imgs/select_mode2.png)
+1. Click on the "Select Mode" button in the toolbar and choose the desired selection tool.
 
-**Tips:**
-When dealing with multiple overlapping elements, you can use filters to precisely select specific content, enhancing your management and organization efficiency.
+2. Tap or swipe on the canvas to select content, which can be a single or multiple elements.
+
+3. Perform actions on the selected items such as rotate, enlarge, shrink, merge, cut, delete, and more.
+
+![](imgs/select_mode2.png)
+
+#### Tip
+When multiple elements overlap, you can turn on the filter to precisely select specific content, enhancing management and organization efficiency.

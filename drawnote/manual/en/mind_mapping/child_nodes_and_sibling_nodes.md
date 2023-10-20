@@ -2,7 +2,7 @@
 
 Difference Between Child Nodes and Sibling Nodes
 ---
-#### Operating Steps
+
 
 In mind mapping, "child nodes" and "sibling nodes" are two commonly used concepts to represent different levels of relationships and connections:
 

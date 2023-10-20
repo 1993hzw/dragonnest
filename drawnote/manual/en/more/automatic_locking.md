@@ -4,7 +4,7 @@ Automatic Lock
 ---
 Automatic lock refers to the application automatically locking after a period of inactivity to enhance privacy and data security, preventing unauthorized access.
 
-#### Operating Steps
+#### Steps
 
 1. Tap "My" on the main page.
 

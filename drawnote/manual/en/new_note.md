@@ -1,22 +1,20 @@
+Create a New Note
+---
+DrawNote offers a variety of flexible note types to meet different user scenarios, including Super Note, Text Note, and Mind Mapping.
 
-**Creating a New Note**
+- **Super Note** - A comprehensive note that combines handwriting, drawing, text, images, audio recordings, tables, and mind maps. It allows you to fully express your creativity and artistic talent on a flexible canvas.
 
-Youdao Notes offers various flexible note types to meet different usage scenarios:
+- **Text Note** - Focused on text recording and supports rich text settings as well as image insertions, making your notes more diverse and visual.
 
-- **Super Notes:** Combine elements like handwriting, drawing, text, images, audio recording, tables, and mind maps on a flexible canvas to fully express your creativity and artistic talents.
+- **Mind Mapping** - Helps you quickly capture ideas and organize knowledge, presenting complex concepts in a clear graphical structure.
 
-- **Text Notes:** Focus on text recording, supporting rich text formatting and image insertion for more diverse and visual notes.
+#### How to Create
+On the app's homepage, tap the "+" icon in the bottom right corner. Then, select the type of note you want to create to start your note.
 
-- **Mind Mapping:** Help you quickly capture ideas and organize knowledge, presenting complex concepts in a clear graphical structure.
+![Create a New Note](imgs/new_note01.png)
 
-**Procedure**
+#### Tips
 
-On the app's homepage, click the "+" button in the bottom right corner, select the type of note you want to create, and begin your creative process.
+- When you tap the "+" button in the 'Folder' section to create a new note, the note will automatically be categorized under the current folder.
 
-![new_note](imgs/new_note01.png)
-
-**Tips**
-
-- When creating a new note by clicking the "+" button in the "Folders" section, the new note will automatically be categorized into the current folder.
-
-- You can also use the quick access buttons at the top of the menu to quickly enter the different creative interfaces of Super Notes.
+- You can also utilize the shortcuts at the top of the menu to quickly access various creation interfaces within Super Note.

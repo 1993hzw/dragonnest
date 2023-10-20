@@ -1,10 +1,10 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [Text Note](/dragonnest/drawnote/manual/en/text_note) >
+[User Manual](/dragonnest/drawnote/manual/en) >
 
-**Rich Text Styles**
+Text Note
+---
+Text Note focuses on text recording, supporting rich text settings. You can adjust font, color, and even insert images.
 
-Text Notes focus on text-based content and support rich text formatting. You can adjust settings such as font, color, and insert images.
-
-- [Rich Text Styles](rich_text_style.md)
+- [Rich Text Style](rich_text_style.md)
 
 - [Page Settings](page_settings.md)
 

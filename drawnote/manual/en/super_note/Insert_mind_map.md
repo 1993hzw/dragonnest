@@ -1,9 +1,11 @@
-Insert Mind Maps
+[User Manual](/dragonnest/drawnote/manual/en) > [Super Note](/dragonnest/drawnote/manual/en/super_note) >
+
+Insert Mind Map
 ---
-#### Operation Steps
+#### Steps
 
-    1. Click on the "+" button in the toolbar.
+1. Click the "+" button in the toolbar.
 
-    2. Select "Insert Mind Maps" to add a mind map to your notes.
+2. Choose "Insert Mind Map" to add the mind map to your notes.
 
-  ![](imgs/Insert_mind_map.png)
+![](imgs/Insert_mind_map.png)

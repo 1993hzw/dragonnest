@@ -4,7 +4,7 @@ Auto Save
 ---
 Auto save prevents accidental data loss.
 
-#### Operating Steps
+#### Steps
 
 1. Tap "My" on the main page.
 

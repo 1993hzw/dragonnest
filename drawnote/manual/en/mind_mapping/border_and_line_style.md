@@ -2,7 +2,7 @@
 
 Borders and Line Styles
 ---
-#### Operating Steps
+#### Steps
 
 1. Click on the node frame you want to set.
 

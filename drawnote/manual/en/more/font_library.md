@@ -4,7 +4,7 @@ Font Library
 ---
 The font library allows you to save commonly used fonts, which you can then select for text in text notes or text editing fields.
 
-#### Operating Steps
+#### Steps
 1. Tap "My" on the main page.
 
 2. Access the font library.

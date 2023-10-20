@@ -3,7 +3,7 @@
 Select Multiple Folders or Notes
 ---
 
-#### Operating Steps
+#### Steps
 1. On the "Folder" page, long-press a folder or note.
 
 2. In the popup menu, click "Select Multiple" to enter multi-selection mode.

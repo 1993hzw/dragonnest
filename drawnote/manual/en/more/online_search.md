@@ -2,7 +2,7 @@
 
 Online Search
 ---
-#### Operating Steps
+#### Steps
 Click the "Online Search" button in the toolbar to start an online search.
 
 ![Online Search](imgs/online_search.png)

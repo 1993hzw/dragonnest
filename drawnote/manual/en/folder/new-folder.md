@@ -2,7 +2,7 @@
 
 Create New Folder
 ---
-#### Operating Steps
+#### Steps
 
 1. Tap "Folder" on the main page.
 

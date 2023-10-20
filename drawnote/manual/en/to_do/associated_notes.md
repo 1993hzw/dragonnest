@@ -1,7 +1,11 @@
 [User Manual](/dragonnest/drawnote/manual/en) > [To-Do List](/dragonnest/drawnote/manual/en/to_do) >
 
-**Associated Notes**
+Associate Notes
+---
+You can choose to associate relevant notes when creating a to-do item.
 
-You can choose to associate related notes when creating to-do items. This way, you can easily jump to the related notes by clicking on the to-do items. When viewing notes, you'll also see markers associated with to-do items, reminding you to complete the relevant tasks.
+This way, you can effortlessly navigate to the linked notes by simply clicking on the to-do item.
 
-![Associated Notes](imgs/associated_notes.png)
+Additionally, when viewing a note, you can see markers related to the to-do item, serving as reminders to complete the associated tasks.
+
+![](imgs/associated_notes.png)

@@ -1,18 +1,20 @@
-**Insert Text**
+[User Manual](/dragonnest/drawnote/manual/en) > [Super Note](/dragonnest/drawnote/manual/en/super_note) >
 
-- **Operation Steps**
+Insert Text
+---
+#### Steps
 
-    1. Click the "T" button in the toolbar.
+1. Click the "T" button in the toolbar.
 
-    2. Click or swipe on the screen to insert text content at the desired location.
+2. Tap or swipe on the screen area to insert text at the desired location.
 
-  ![](imgs/insert_text.png)
+![](imgs/insert_text.png)
 
-- **Tips**
-    - After selecting a text box, you can perform operations such as rotation, alignment, and editing. Click "More" to create a copy, copy, cut, and lock the text box.
+#### Tips
+- Once the text box is selected, you can rotate, align, edit, and more. By clicking on “More”, you can also create a duplicate, copy, cut, and lock the text box.
 
   ![](imgs/insert_text1.png)
 
-    - In the text editing box, after selecting the text, you can format it, including color, size, bold, underline, and more.
+- In the text editing box, once the text is selected, you can set its format, including color, size, bold, underline, and more.
 
-  ![](imgs/insert_text2.png)
+![](imgs/insert_text2.png)

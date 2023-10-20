@@ -1,22 +1,24 @@
+
 [User Manual](/dragonnest/drawnote/manual/en) > [Super Note](/dragonnest/drawnote/manual/en/super_note) >
 
 Associated Notes
 ---
-The Associated Notes feature allows you to easily connect related notes, improving note organization and search efficiency.
+
+The associated notes feature allows you to easily link related notes, enhancing the organization and search efficiency of your notes.
 #### Steps
 
 1. Click the "+" button in the toolbar.
 
-2. Click "Associated Notes" and select the notes you want to associate.
+2. Click "Associated Notes" and select the note you want to link.
 
-3. Optionally, give a name to the associated notes.
+3. Name the associated note (optional).
 
-4. Click "Confirm" to add the selected notes to the current note.
+4. Click "Confirm" to add the linked note to the current note.
 
 ![](imgs/associated_notes1.png)
 
 #### Tips
 
-- Naming associated notes helps with faster retrieval and management.
+- Naming the associated notes helps in quicker search and management.
 
-- Use "Time Order" or "Folders" filters for quicker note selection.
+- Using the "Chronological Order" or "Folder" filter can help in faster note selection.

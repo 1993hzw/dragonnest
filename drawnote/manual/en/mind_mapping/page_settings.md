@@ -2,7 +2,7 @@
 
 Page Settings
 ---
-#### Operating Steps
+#### Steps
 
 Click on the "Page Settings" icon in the bottom toolbar to open the page settings menu, where you can customize the page background, mind mapping style, and more.
 

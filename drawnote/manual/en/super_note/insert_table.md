@@ -1,30 +1,34 @@
-**Insert a Table**
+[User Manual](/dragonnest/drawnote/manual/en) > [Super Note](/dragonnest/drawnote/manual/en/super_note) >
 
-- **Operation Steps**
+Insert Table
+---
+#### Steps
 
-    1. Click the "+" button in the toolbar.
+1. Click the "+" button in the toolbar.
 
-    2. Choose "Insert Table" to add a table to your notes.
+2. Choose "Insert Table" to add a table to your notes.
 
-  ![](imgs/insert_table1.png)
+![](imgs/insert_table1.png)
 
-- **Tips**
-    - Set the number of cells - Slide or input a number to select the desired number of cells.
-    - Adjust table width and height - Slide the size slider or input numbers to set the default size of cells.
+#### Tips
+- Set the number of cells - Slide or input numbers to choose the required number of cells.
 
-  ![](imgs/insert_table2.png)
+![](imgs/insert_table2.png)
 
-    - Edit cell format - After selecting a cell, you can set its size, color, and clear its content.
-    - Edit cell text format - After selecting a cell, you can edit text content and format, including color, font size, bold, underline, and alignment.
+- Adjust table width and height - Slide the size slider or input numbers to set the default cell size.
 
-  ![](imgs/insert_table3.png)
+- Edit cell format - Once a cell is selected, you can set its size, color, and clear its content.
 
-    - Set the format for an entire row or column - After selecting a row or column, you can perform operations such as merging cells, setting background colors, and clearing content.
+- Edit text format in cells - Once a cell is selected, you can edit its text content and format, including color, font size, bold, underline, and alignment.
 
-    - Insert an entire row or column - After selecting a row or column, click the "Insert" button to add new rows or columns.
+![](imgs/insert_table3.png)
 
-  ![](imgs/insert_table4.png)
+- Set the format for an entire row or column - Once a row or column is selected, you can merge cells, set the background color, clear content, and more.
 
-    - Customize the table's appearance - Click the "Settings" button in the bottom left corner of the canvas and set the table's background color and border color.
+- Insert a whole row or column - Once a row or column is selected, click the "Insert" button to add a new row or column.
 
-  ![](imgs/insert_table5.png)
+![](imgs/insert_table4.png)
+
+- Set table appearance - Click the "Settings" button at the bottom left of the canvas, and in the menu, set the table's background and border color.
+
+![](imgs/insert_table5.png)

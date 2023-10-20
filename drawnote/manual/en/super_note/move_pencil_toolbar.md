@@ -1,19 +1,21 @@
-**Move Pencil Toolbar**
+[User Manual](/dragonnest/drawnote/manual/en) > [Super Note](/dragonnest/drawnote/manual/en/super_note) >
 
-You can adjust the horizontal or vertical position of the brush toolbar on the canvas to easily move it up, down, left, or right.
+Move Pencil Toolbar
+---
 
-**Operation Steps:**
+You can adjust the pencil toolbar's horizontal or vertical position on the canvas, allowing for easy up-down or left-right movement.
 
-1. On the brush box page, select "Toolbar Style."
+#### Steps
 
-2. Choose the horizontal or vertical arrangement.
+1. In the pencil box page, select "Toolbar Style".
+
+2. Choose horizontal or vertical alignment.
 
 3. Check to confirm.
 
-   ![Toolbar Style](imgs/move_pencil_toolbar.png)
+![](imgs/move_pencil_toolbar.png)
 
-**Tips:**
+#### Tips
+- Hold the circular button on the pencil toolbar to drag and adjust its position.
 
-- By holding down the circular button on the pencil toolbar, you can drag and adjust its position.
-
-  ![Drag Toolbar](imgs/move_pencil_toolbar2.png)
+![](imgs/move_pencil_toolbar2.png)
