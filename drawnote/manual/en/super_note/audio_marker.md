@@ -20,4 +20,4 @@ During recording or playback, click the "Marker" button to insert a marker at th
 
 4. **View audio marker history** - View markers in the expanded menu; click on a marker to quickly jump to and play the audio.
 
-![](imgs/audio_marker2.png)
+![](imgs/audio_marker1.png)

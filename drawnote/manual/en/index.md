@@ -1,6 +1,5 @@
-[Image: Logo of 有为笔记]
 
-**有为笔记**
+DrawNote
 ------
 Welcome to DrawNote! As a multifunctional integrated application, DrawNote combines various features such as note-taking, writing, mind mapping, to-do lists, handwriting, and drawing, catering to a wide range of users across different fields. This manual offers a comprehensive guide on all the functionalities and operations of DrawNote, assisting you to get started quickly.
 
