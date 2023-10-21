@@ -6,9 +6,10 @@ The canvas view is the interface for viewing and editing notes, containing coord
 
 - To facilitate browsing large or content-rich pages, you can set a default view.
 
+
 - Click the "Jump to Default View" button to quickly return to your set default view position.
 
-![](imgs/canvas_view.png)
+![](imgs/canvas_view1.png)
 
 #### Lock Zoom Ratio
 After checking "Lock Zoom Ratio", the canvas will maintain its current zoom level, preventing gesture-based zooming.

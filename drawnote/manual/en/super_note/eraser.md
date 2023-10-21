@@ -18,7 +18,7 @@ Click the "Eraser" button in the toolbar.
 
 - Selection Mode - Directly deletes the selected entire element and supports setting filter criteria. This mode leaves no trace after erasing.
 
-![](imgs/eraser1.png)
+![](imgs/eraser.png)
 
 #### Tips
 - Click "Clear All" to empty the entire canvas.
