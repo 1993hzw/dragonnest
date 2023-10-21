@@ -8,4 +8,4 @@ Insert Mind Mapping
 
 2. Choose "Insert Mind Mapping" to add the mind map to your notes.
 
-![](imgs/Insert_mind_mapping.png)
+![](imgs/insert_mind_mapping.png)
