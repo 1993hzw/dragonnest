@@ -8,15 +8,15 @@ You can configure the orientation, size, background color, and lines of the canv
 
 Click on the "Page Settings" button in the toolbar.
 
-![](imgs/page_settings.png)
+![](imgs/page_settings1.png)
 
 #### Infinite Canvas
 
 We offer three infinite canvas orientations to cater to your specific needs and preferences:
 
 - Infinite - Expands infinitely in both horizontal and vertical directions, with a zoom range of 0.02x--200x.
-- Infinite Horizontal - Expands infinitely in the horizontal direction with a zoom range of 0.2x--1x.
-- Infinite Vertical - Expands infinitely in the vertical direction with a zoom range of 0.2x--1x.
+- Horizontal Infinite - Expands infinitely in the horizontal direction with a zoom range of 0.2x--1x.
+- Vertical Infinite - Expands infinitely in the vertical direction with a zoom range of 0.2x--1x.
 
 #### Canvas Size
 

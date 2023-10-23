@@ -10,4 +10,4 @@ Record Audio
 
 3. Click the "Stop" button to finish recording.
 
-![](imgs/record_audio.png)
+![](imgs/record_audio1.png)

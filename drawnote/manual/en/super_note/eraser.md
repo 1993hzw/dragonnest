@@ -13,7 +13,7 @@ Click the "Eraser" button in the toolbar.
 - Fill Mode - Similar to the normal mode but can quickly erase a fan-shaped area.
 
 
-- Cut Mode - Splits elements into multiple independent parts, only applicable to lines and some geometric shapes. This mode leaves no trace after erasing.
+- Cutting Mode - Splits elements into multiple independent parts, only applicable to lines and some geometric shapes. This mode leaves no trace after erasing.
 
 
 - Selection Mode - Directly deletes the selected entire element and supports setting filter criteria. This mode leaves no trace after erasing.

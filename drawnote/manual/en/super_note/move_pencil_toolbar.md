@@ -18,4 +18,4 @@ You can adjust the pencil toolbar's horizontal or vertical position on the canva
 #### Tips
 - Hold the circular button on the pencil toolbar to drag and adjust its position.
 
-![](imgs/move_pencil_toolbar2.png)
+![](imgs/move_pencil_toolbar.png)

@@ -6,6 +6,6 @@ Move Toolbar
 
 1. Click the "⋮" button in the top right corner of the canvas.
 
-2. Choose the toolbar position: "Move toolbar to the bottom" or "Move toolbar to the top".
+2. Choose the toolbar position: "Move Toolbar to the Bottom" or "Move Toolbar to the Top".
 
-![](imgs/move_toolbar.png)
+![](imgs/move_toolbar1.png)

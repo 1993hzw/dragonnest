@@ -8,7 +8,7 @@ Insert Table
 
 2. Choose "Insert Table" to add a table to your notes.
 
-![](imgs/insert_table.png)
+![](imgs/insert_table6.png)
 
 #### Tips
 - Set the number of cells - Slide or input numbers to choose the required number of cells.

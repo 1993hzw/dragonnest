@@ -14,7 +14,7 @@ Insert Web Link
 
 5. Confirm the operation to insert the link.
 
-![](imgs/insert_web_link1.png)
+![](imgs/insert_web_link.png)
 
 #### Tips
 - Give the link a descriptive name to make it easier to find and locate later.
