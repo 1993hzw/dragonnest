@@ -13,5 +13,6 @@ Borders and Line Styles
 ![Borders and Line Styles](imgs/border_and_line_style1.png)
 
 #### Tips
+Click the blue double checkmarks on the right.   To apply the style to subnodes, sibling nodes, or both sibling and subnodes.
 
-Click the blue double checkmarks on the right to apply the style to child nodes, sibling nodes, or both sibling and child nodes.
+![Borders and Line Styles](imgs/border_and_line_style2.png)

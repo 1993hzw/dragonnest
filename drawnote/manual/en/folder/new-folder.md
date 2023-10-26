@@ -12,7 +12,7 @@ Create New Folder
 
 4. Click the confirm button.
 
-![New Folder](imgs/new_folder.png)
+![New Folder](imgs/new_folder1.png)
 
 #### Tips
 - You can choose the folder's color or customize the cover when creating or editing a folder.

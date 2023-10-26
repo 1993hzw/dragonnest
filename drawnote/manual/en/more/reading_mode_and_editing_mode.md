@@ -2,7 +2,7 @@
 
 Reading Mode and Editing Mode
 ---
-Reading mode and editing mode are two states of notes used to view and modify note content.
+Reading mode and Editing mode are two states of notes used to view and modify note content.
 
 #### Reading Mode
 - Select the note you want to view and click to enter reading mode.

@@ -10,4 +10,4 @@ Select Multiple Folders or Notes
 
 3. Choose the folders or notes you want to modify and perform batch actions such as moving or deleting.
 
-![Select Multiple Folders or Notes](imgs/select_multiple_folders_or_notes.png)
+![Select Multiple Folders or Notes](imgs/select_multiple_folders_or_notes1.png)
