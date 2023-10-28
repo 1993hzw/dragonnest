@@ -1,8 +1,8 @@
 [User Manual](/dragonnest/drawnote/manual/en) > [More](/dragonnest/drawnote/manual/en/more) >
 
-Automatic Lock
+Auto Lock
 ---
-Automatic lock refers to the application automatically locking after a period of inactivity to enhance privacy and data security, preventing unauthorized access.
+Auto lock refers to the application automatically locking after a period of inactivity.  To enhance privacy and data security, preventing unauthorized access.
 
 #### Steps
 
@@ -10,9 +10,9 @@ Automatic lock refers to the application automatically locking after a period of
 
 2. Access settings.
 
-3. Click on "Automatic Lock & Privacy Lock."
+3. Click on "Auto Lock & Privacy Lock."
 
-4. Turn on the "Automatic Lock" toggle and select the automatic lock time.
+4. Turn on the "Auto Lock" toggle and select the auto lock time.
 
-![Automatic Locking 1](imgs/automatic_locking1.png)
-![Automatic Locking 2](imgs/automatic_locking2.png)
+![Automatic Locking 1](imgs/auto_locking.png)
+![Automatic Locking 2](imgs/auto_locking1.png)

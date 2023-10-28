@@ -14,10 +14,11 @@ Auto save prevents accidental data loss.
 
 4. Enable the toggle and select the auto-save time.
 
-![Auto Save 1](imgs/autosave1.png)
-![Auto Save 2](imgs/autosave2.png)
+![Auto Save 1](imgs/autosave.png)
+![Auto Save 2](imgs/autosave1.png)
 
 #### Tips
-- The prompt for the behavior when pressing the system back button during note editing can be customized. Response options include: exit editing with a single click, request confirmation, and save and exit.
+- Customizable response for clicking the Back key during editing. Response methods include：Cilck again to exit editing, Ask for confirmation,Exit and save.
 
-  ![Auto Save 3](imgs/autosave3.png)
+
+  ![Auto Save 3](imgs/autosave2.png)
