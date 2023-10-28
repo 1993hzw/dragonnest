@@ -11,7 +11,7 @@ There are two methods to export/share notes.
 
 3. Select "Save" or "Share" and choose the sharing method to complete the action.
 
-![Export/Share Notes Method 1](imgs/export_share_notes3.png)
+![Export/Share Notes Method 1](imgs/export_share_notes.png)
 
 #### Method 2
 1. In reading mode, click the "⋮" more icon in the top right corner.
@@ -22,4 +22,4 @@ There are two methods to export/share notes.
 
 4. Click "Save" or "Share" and choose the sharing method to complete the action.
 
-![Export/Share Notes Method 2](imgs/export_share_notes4.png)
+![Export/Share Notes Method 2](imgs/export_share_notes1.jpg)
