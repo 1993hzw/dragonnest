@@ -10,7 +10,7 @@ With Privacy Lock, you can lock specific notes and folders.
 
 2. In the pop-up menu, click "Lock"/"Unlock" to lock or unlock the note or folder.
 
-![Privacy Lock](imgs/privacy_lock.png)
+![Privacy Lock](imgs/privacy_lock1.png)
 
 #### Tips
 - Locked content cannot be searched directly.

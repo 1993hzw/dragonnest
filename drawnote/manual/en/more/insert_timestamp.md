@@ -9,4 +9,4 @@ In text notes, swipe left and tap the "+" icon, then select "Insert Timestamp" a
 
 In Super Notes and Mind Mapping, select a text box, open the text menu, swipe left and tap the "+" icon, then choose "Insert Timestamp" and confirm.
 
-![Insert Timestamp](imgs/insert_timestamp.png)
+![Insert Timestamp](imgs/insert_timestamp1.png)
