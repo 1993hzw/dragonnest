@@ -8,4 +8,4 @@ Apart from easily recording text, you can also customize the font color, size, b
 
 Moreover, we've introduced quick input features such as inserting links, inserting timestamps, and inserting pictures to enhance your editing efficiency.
 
-![](imgs/rich_text_style.png)
+![](imgs/rich_text_style1.png)

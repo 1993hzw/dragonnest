@@ -6,4 +6,4 @@ Export as TXT
 
 While in the reading mode of Text Note, tap on the "⋮" button located at the top right of the screen and select "Export as TXT".
 
-![](imgs/export_as_txt.png)
+![](imgs/export_as_txt1.png)

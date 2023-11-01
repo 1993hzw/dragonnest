@@ -15,7 +15,7 @@ The associated notes feature allows you to easily link related notes, enhancing 
 
 4. Click "Confirm" to add the linked note to the current note.
 
-![](imgs/associated_notes1.png)
+![](imgs/associated_notes.png)
 
 #### Tips
 

@@ -6,4 +6,4 @@ In the Super Note page, click the "⋮" More button in the upper right corner of
 
 Once in Stylus Mode, a "Disable Finger Touch" button will appear at the top of the page. You can click this button to prevent accidental touches with your fingers.
 
-![Stylus Mode](imgs/stylus_mode.png)
+![Stylus Mode](imgs/mistouch.png)
