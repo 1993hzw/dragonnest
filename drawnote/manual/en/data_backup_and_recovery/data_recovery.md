@@ -14,13 +14,13 @@ Data Recovery
 
 5. Click "Confirm" to restore the data.
 
-![Data Recovery](imgs/data_recovery.png)
+![Data Recovery](imgs/data_recovery1.png)
 
 #### Tips
 When recovering backup data, there are three strategies to choose from:
 
-- Overwrite the same notes - Replace the current notes with the backup content.
-- Skip the same notes - Keep the current notes unchanged when the backup content is the same.
-- Automatically merge - Merge the backup and existing notes based on the latest modification time.
+- Overwrite same notes - Replace the current notes with the backup content.
+- Skip same notes - Keep the current notes unchanged when the backup content is the same.
+- Auto merge - Merge the backup and existing notes based on the latest modification time.
 
 Choose the appropriate strategy based on your needs and regularly back up to prevent data loss.
