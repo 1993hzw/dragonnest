@@ -2,7 +2,7 @@
 
 Set Default Font
 ---
-The font library allows you to save commonly used fonts, which you can then select for text in text notes or text editing fields.
+The font library allows you to save commonly used fonts, which you can then select for text in text notes or text box.
 
 #### Adding Fonts
 1. Tap "My" on the main page.

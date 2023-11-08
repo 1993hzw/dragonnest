@@ -9,12 +9,12 @@ Reading mode and Editing mode are two states of notes used to view and modify no
 
 - If you are currently editing a note, click the "√" icon in the upper left corner to switch to reading mode.
 
-![Reading Mode and Editing Mode](imgs/reading_mode.png)
+![Reading Mode and Editing Mode](imgs/reading_mode1.png)
 
 #### Editing Mode
 - If you are currently reading a note, click the "Pen" icon in the lower right corner to switch to editing mode for note modification and editing.
 
-![Reading Mode and Editing Mode](imgs/editing_mode1.png)
+![Reading Mode and Editing Mode](imgs/editing_mode.png)
 In reading mode, you can:
 
 - View note content and zoom in or out for information.

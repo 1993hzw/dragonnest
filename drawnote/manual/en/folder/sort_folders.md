@@ -2,7 +2,7 @@
 
 Sort Folders
 ---
-There are multiple ways to sort folders. You can sort them by name, modification date, creation date, and more, or you can manually arrange them.
+There are multiple ways to sort folders. You can sort them by Name, Date modified, Date Created, and more, or you can manually arrange them.
 
 #### Select a Sorting Method
 On the "Folder" page, click the "Sort By" button and choose your preferred sorting method.
