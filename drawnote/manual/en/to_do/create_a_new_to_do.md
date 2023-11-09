@@ -4,7 +4,7 @@ Create a New To-Do Item
 ---
 #### Steps
 
-1. Navigate to the 'To-Do List' page.
+1. Navigate to the 'To-Do' page.
 
 2. Click the "+" button.
 
