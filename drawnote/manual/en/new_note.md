@@ -1,3 +1,5 @@
+[User Manual](/dragonnest/drawnote/manual/en) >
+
 Create a New Note
 ---
 DrawNote offers a variety of flexible note types to meet different user scenarios, including Super Note, Text Note, and Mind Mapping.
