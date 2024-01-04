@@ -9,7 +9,7 @@
 
 - [螢光筆效果](highlighter_effect.md)
 
-- [設置預設字體](set_default_font.md)
+- [設置默認字體](set_default_font.md)
 
 - [在線搜索](online_search.md)
 
