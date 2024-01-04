@@ -38,4 +38,7 @@
 
 - [选择模式](select_mode.md)
 
+- [放大镜](magnifier.md)
+
 - [画布视图](canvas_view.md)
+
