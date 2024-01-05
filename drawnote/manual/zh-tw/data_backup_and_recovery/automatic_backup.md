@@ -13,4 +13,4 @@
 4. 開啟 "自動備份" 按鈕並選擇備份間隔時間，以保護資料並因應意外情況。
 
 
-![](imgs/automatic_backup.png)
+![](imgs/auto_backup.png)

@@ -10,4 +10,4 @@
 
 3. 選中要修改的資料夾或筆記，執行批量移動或刪除等操作。
 
-![](imgs/select_multiple_folders_or_notes.png)
+![](imgs/select_multiple_folders_or_note.png)

@@ -15,7 +15,7 @@
 
 - [文件夾](folder/index.md)
 
-- [待辦事項清單](to_do/index.md)
+- [待辦事項列表](to_do/index.md)
 
 - [數據備份和恢復](data_backup_and_recovery/index.md)
 
