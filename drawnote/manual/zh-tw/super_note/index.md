@@ -34,7 +34,7 @@
 
 - [音訊標記](audio_marker.md)
 
-- [相關筆記](associated_notes.md)
+- [關聯筆記](associated_notes.md)
 
 - [選擇模式](select_mode.md)
 
