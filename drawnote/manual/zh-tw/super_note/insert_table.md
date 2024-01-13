@@ -31,8 +31,8 @@
 
 - 插入整行或整列 - 選中行或列後，點擊“插入”按鈕，即可插入新的行或列。
 
-![](imgs/insert_table4.png)
+![](imgs/insert_table3.png)
 
 - 設置表格外觀 - 點擊畫布左下角的“設置”按鈕，在菜單中，設置表格的背景色和邊框顏色。
 
-![](imgs/insert_table5.png)
+![](imgs/insert_table4.png)
