@@ -8,4 +8,4 @@
 
 2.選擇工具列位置：“將工具列移至底部”或“將工具列移至底部”。
 
-![](imgs/move_toolbar.png)
+![](imgs/move_toolbar1.png)

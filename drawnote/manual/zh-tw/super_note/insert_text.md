@@ -18,4 +18,4 @@
 
 - 在文本編輯框中，選中文字後，可設置格式，包括顏色、大小、加粗、下劃線等。
 
-![](imgs/insert_text2.png)
+![](imgs/insert_text3.png)

@@ -13,9 +13,9 @@
 
 3.勾選確認。
 
-![](imgs/move_pencil_toolbar.png)
+![](imgs/move_pencil_toolbar1.png)
 
 #### 提示
 - 按住筆盒工具列上的圓形按鈕，即可拖動筆盒工具列並調整其位置。
 
-![](imgs/move_pencil_toolbar2.png)
+![](imgs/move_pencil_toolbar3.png)
