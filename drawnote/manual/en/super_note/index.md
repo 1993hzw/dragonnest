@@ -27,6 +27,8 @@ Combine handwriting, drawings, text, images, recordings, tables, mind maps, and 
 
 - [Insert Web Link](insert_web_link.md)
 
+- [Magnifier](magnifier.md)
+
 - [Import Audio](import_audio.md)
 
 - [Record Audio](record_audio.md)

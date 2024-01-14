@@ -10,9 +10,9 @@ Borders and Line Styles
 
 3. In the pop-up window, choose the desired style options, such as border shape, border color, fill color, line style, and line color.
 
-![Borders and Line Styles](imgs/border_and_line_style1.png)
+![Borders and Line Styles](imgs/border_and_line_style.png)
 
 #### Tips
 Click the blue double checkmarks on the right.   To apply the style to subnodes, sibling nodes, or both sibling and subnodes.
 
-![Borders and Line Styles](imgs/border_and_line_style2.png)
+![Borders and Line Styles](imgs/border_and_line_style1.png)

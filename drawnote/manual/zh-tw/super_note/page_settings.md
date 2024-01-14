@@ -8,7 +8,7 @@
 
 點擊工具列中的“頁面設置”按鈕。
 
-![](imgs/page_settings.png)
+![](imgs/page_settings1.png)
 
 #### 無限畫布
 
