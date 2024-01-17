@@ -1,4 +1,4 @@
-**Avertissement**
+**Clause de non-responsabilité**
 
 Bienvenue sur DrawNote (ci-après désignée comme "l'Application"). Avant de commencer à utiliser l'Application, veuillez lire attentivement l'avertissement suivant. En téléchargeant, installant, accédant ou utilisant cette Application, vous indiquez que vous avez lu, compris et accepté de respecter les termes et conditions suivants. Si vous n'êtes pas d'accord avec ces termes, veuillez ne pas utiliser cette Application.
 

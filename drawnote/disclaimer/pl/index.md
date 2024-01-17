@@ -1,4 +1,4 @@
-**Ostrzeżenie**
+**Oświadczenie**
 
 Witaj w DrawNote (zwanej dalej "Aplikacją"). Przed rozpoczęciem korzystania z Aplikacji prosimy o dokładne przeczytanie poniższego ostrzeżenia. Pobierając, instalując, uzyskując dostęp lub korzystając z tej Aplikacji, wyrażasz zgodę na przeczytanie, zrozumienie i akceptację poniższych warunków i postanowień. Jeśli nie zgadzasz się z tymi warunkami, prosimy nie korzystać z tej Aplikacji.
 

@@ -1,4 +1,4 @@
-**Disclaimer**
+**Avviso Legale**
 
 Benvenuti in DrawNote (indicato come "Applicazione"). Prima di iniziare a utilizzare l'Applicazione, vi preghiamo di leggere attentamente il seguente disclaimer. Scaricando, installando, accedendo o utilizzando questa Applicazione, indicate di aver letto, compreso e accettato i seguenti termini e condizioni. Se non siete d'accordo con questi termini, vi preghiamo di non utilizzare questa Applicazione.
 
