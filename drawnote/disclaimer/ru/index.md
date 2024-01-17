@@ -1,38 +1,38 @@
-**Disclaimer**
+**Отказ от ответственности**
 
-Welcome to DrawNote (referred to as the "Application"). Before you start using the Application, please read the following disclaimer carefully. By downloading, installing, accessing, or using this Application, you indicate that you have read, understood, and agreed to accept the following terms and conditions. If you do not agree with these terms, please do not use this Application.
+Добро пожаловать в DrawNote (далее именуемое "Приложение"). Прежде чем начать использовать Приложение, внимательно прочтите следующий отказ от ответственности. Загрузив, установив, получив доступ или используя это Приложение, вы указываете, что ознакомились, поняли и согласны принять следующие условия и положения. Если вы не согласны с этими условиями, пожалуйста, не используйте это Приложение.
 
-- **Data Security and Privacy**
+- **Безопасность данных и конфиденциальность**
 
-The Application provides a local data locking feature, but please note that this feature only applies to data on your local device. When data locking is enabled, data will be encrypted and protected on the local device. However, the lock status will not be synchronized during data backup, restore, or export operations. This means that when you lock notes, back them up, and then restore these notes on another device, you can view their content without unlocking again. Therefore, before performing these operations, please ensure your data security and understand the associated risks to prevent data loss or leakage.
+Приложение предоставляет функцию локальной блокировки данных, но обратите внимание, что эта функция применяется только к данным на вашем локальном устройстве. Когда включена блокировка данных, данные будут зашифрованы и защищены на локальном устройстве. Однако статус блокировки не будет синхронизироваться во время операций по резервному копированию, восстановлению или экспорту данных. Это означает, что когда вы блокируете заметки, резервируете их, а затем восстанавливаете эти заметки на другом устройстве, вы можете просматривать их содержимое без повторной разблокировки. Поэтому перед выполнением этих операций, пожалуйста, обеспечьте безопасность ваших данных и понимайте связанные с ними риски, чтобы избежать потери или утечки данных.
 
-- **Data Backup and Restore**
+- **Резервное копирование и восстановление данных**
 
-The Application offers data backup and restore functionality, but please be aware that these features may involve integration with third-party services or platforms. We will take appropriate security measures to protect your data, but we cannot guarantee the security or privacy protection measures of third-party services. You should understand and confirm the privacy policies and terms related to third-party services.
+Приложение предоставляет функциональность резервного копирования и восстановления данных, но имейте в виду, что эти функции могут включать взаимодействие с услугами или платформами третьих сторон. Мы примем соответствующие меры безопасности для защиты ваших данных, но не можем гарантировать меры безопасности или защиту конфиденциальности услуг третьих сторон. Вы должны ознакомиться и подтвердить политику конфиденциальности и условия, связанные с услугами третьих сторон.
 
-- **Premium Features**
+- **Премиум-функции**
 
-The Application supports purchasing premium features to unlock advanced functionalities. Users who purchase premium features will enjoy additional benefits. However, purchasing premium features does not imply that the Application is without defects or faults. We will strive to ensure the quality of premium features but make no explicit or implied warranties regarding their availability or suitability.
+Приложение поддерживает покупку премиум-функций для разблокировки дополнительных возможностей. Пользователи, покупающие премиум-функции, будут иметь дополнительные преимущества. Однако покупка премиум-функций не означает, что Приложение не имеет дефектов или недостатков. Мы будем стремиться обеспечить качество премиум-функций, но не предоставляем явных или подразумеваемых гарантий их доступности или пригодности.
 
-- **Use at Your Own Risk and Liability**
+- **Использование на свой страх и риск**
 
-You use this Application at your own risk. We are not responsible for any data loss, damage, leakage, or other issues resulting from using this Application. We do not guarantee the applicability, accuracy, completeness, or reliability of the Application. Always maintain backups of your data while using this Application.
+Вы используете это Приложение на свой страх и риск. Мы не несем ответственности за потерю данных, повреждение, утечку или другие проблемы, возникающие при использовании этого Приложения. Мы не гарантируем применимость, точность, полноту или надежность Приложения. Всегда делайте резервные копии ваших данных при использовании этого Приложения.
 
-- **Legal Compliance**
+- **Соблюдение законности**
 
-When using this Application, you must comply with all applicable laws and regulations. You may not use this Application for any illegal, unlawful, or infringing purposes.
+При использовании этого Приложения вы обязаны соблюдать все применимые законы и правила. Вы не можете использовать это Приложение для каких-либо незаконных целей.
 
-- **Changes to Disclaimer**
+- **Изменения в отказе от ответственности**
 
-We reserve the right to modify or update this disclaimer at any time. Any changes will be posted on this page without further notice. Therefore, please regularly review this disclaimer for the latest information.
+Мы оставляем за собой право вносить изменения или обновлять этот отказ от ответственности в любое время. Любые изменения будут размещены на этой странице без дополнительного уведомления. Поэтому регулярно проверяйте этот отказ от ответственности для получения последней информации.
 
-By using this Application, you agree to comply with the above provisions and understand the risks associated with its use. If you have any questions or concerns, please feel free to contact us via the email below for further clarification or assistance.
+Используя это Приложение, вы соглашаетесь соблюдать вышеуказанные положения и понимаете риски, связанные с его использованием. Если у вас есть какие-либо вопросы или сомнения, пожалуйста, не стесняйтесь связаться с нами по указанному ниже адресу электронной почты для получения дополнительной информации или помощи.
 
-Date: August 23, 2023
+Дата: 23 августа 2023 года
 
-DrawNote Team
+Команда DrawNote
 
-Contact Email: dragonnestapp@gmail.com
+Адрес электронной почты для связи: dragonnestapp@gmail.com
 
 ----
 [English](https://1993hzw.github.io/dragonnest/drawnote/disclaimer)

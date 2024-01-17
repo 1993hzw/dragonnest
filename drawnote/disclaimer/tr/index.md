@@ -1,38 +1,38 @@
-**Disclaimer**
+**Açıklama**
 
-Welcome to DrawNote (referred to as the "Application"). Before you start using the Application, please read the following disclaimer carefully. By downloading, installing, accessing, or using this Application, you indicate that you have read, understood, and agreed to accept the following terms and conditions. If you do not agree with these terms, please do not use this Application.
+DrawNote'a hoş geldiniz (bundan sonra "Uygulama" olarak anılacaktır). Uygulamayı kullanmaya başlamadan önce lütfen aşağıdaki açıklamayı dikkatlice okuyun. Bu Uygulamayı indirerek, kurarak, erişerek veya kullanarak, aşağıdaki şartları okuduğunuzu, anladığınızı ve kabul ettiğinizi gösterirsiniz. Bu şartlarla anlaşmıyorsanız, lütfen bu Uygulamayı kullanmayın.
 
-- **Data Security and Privacy**
+- **Veri Güvenliği ve Gizlilik**
 
-The Application provides a local data locking feature, but please note that this feature only applies to data on your local device. When data locking is enabled, data will be encrypted and protected on the local device. However, the lock status will not be synchronized during data backup, restore, or export operations. This means that when you lock notes, back them up, and then restore these notes on another device, you can view their content without unlocking again. Therefore, before performing these operations, please ensure your data security and understand the associated risks to prevent data loss or leakage.
+Uygulama yerel veri kilitleme özelliği sunar, ancak lütfen bu özelliğin yalnızca yerel cihazınızdaki verilere uygulandığını unutmayın. Veri kilitleme etkinleştirildiğinde veriler yerel cihazda şifrelenir ve korunur. Ancak kilitleme durumu veri yedekleme, geri yükleme veya dışa aktarma işlemleri sırasında senkronize edilmeyecektir. Bu, notları kilitleyip yedeklerseniz ve sonra bu notları başka bir cihaza geri yüklerseniz, içeriğini yeniden kilitlemeden görüntüleyebileceğiniz anlamına gelir. Bu nedenle, bu işlemleri gerçekleştirmeden önce veri güvenliğinizi sağlayın ve veri kaybı veya sızmasını önlemek için ilişkili riskleri anlayın.
 
-- **Data Backup and Restore**
+- **Veri Yedekleme ve Geri Yükleme**
 
-The Application offers data backup and restore functionality, but please be aware that these features may involve integration with third-party services or platforms. We will take appropriate security measures to protect your data, but we cannot guarantee the security or privacy protection measures of third-party services. You should understand and confirm the privacy policies and terms related to third-party services.
+Uygulama veri yedekleme ve geri yükleme işlevi sunar, ancak bu özelliklerin üçüncü taraf hizmetleri veya platformları ile entegrasyon içerebileceğini unutmayın. Verilerinizi korumak için uygun güvenlik önlemleri alacağız, ancak üçüncü taraf hizmetlerin güvenlik veya gizlilik koruma önlemlerini garanti edemeyiz. Üçüncü taraf hizmetlerle ilgili gizlilik politikalarını ve şartlarını anlamalı ve onaylamalısınız.
 
-- **Premium Features**
+- **Premium Özellikler**
 
-The Application supports purchasing premium features to unlock advanced functionalities. Users who purchase premium features will enjoy additional benefits. However, purchasing premium features does not imply that the Application is without defects or faults. We will strive to ensure the quality of premium features but make no explicit or implied warranties regarding their availability or suitability.
+Uygulama, gelişmiş işlevleri kilitlemek için premium özellikler satın alma desteği sunar. Premium özellikler satın alan kullanıcılar ek avantajlardan yararlanacaktır. Ancak premium özellikleri satın almak, Uygulamanın kusursuz veya hatalı olmadığı anlamına gelmez. Premium özelliklerin kullanılabilirliği veya uygunluğu hakkında açık veya zımni garanti vermiyoruz.
 
-- **Use at Your Own Risk and Liability**
+- **Kendi Riskiniz ve Sorumluluğunuzla Kullanım**
 
-You use this Application at your own risk. We are not responsible for any data loss, damage, leakage, or other issues resulting from using this Application. We do not guarantee the applicability, accuracy, completeness, or reliability of the Application. Always maintain backups of your data while using this Application.
+Bu Uygulamayı kendi riskinizle kullanırsınız. Bu Uygulamayı kullanmaktan kaynaklanan veri kaybı, hasar, sızma veya diğer sorunlardan sorumlu değiliz. Uygulamanın uygunluğunu, doğruluğunu, eksiksizliğini veya güvenilirliğini garanti etmiyoruz. Bu Uygulamayı kullanırken her zaman verilerinizi yedekleyin.
 
-- **Legal Compliance**
+- **Hukuki Uyumluluk**
 
-When using this Application, you must comply with all applicable laws and regulations. You may not use this Application for any illegal, unlawful, or infringing purposes.
+Bu Uygulamayı kullanırken tüm geçerli yasalara ve düzenlemelere uymalısınız. Bu Uygulamayı herhangi bir yasa dışı, hukuka aykırı veya ihlal amaçlarıyla kullanamazsınız.
 
-- **Changes to Disclaimer**
+- **Açıklama Değişiklikleri**
 
-We reserve the right to modify or update this disclaimer at any time. Any changes will be posted on this page without further notice. Therefore, please regularly review this disclaimer for the latest information.
+Bu açıklamayı her zaman değiştirme veya güncelleme hakkını saklı tutarız. Herhangi bir değişiklik bu sayfada bildirilecektir ve daha fazla bildirimde bulunulmayacaktır. Bu nedenle, en son bilgiler için bu açıklamayı düzenli olarak gözden geçirin.
 
-By using this Application, you agree to comply with the above provisions and understand the risks associated with its use. If you have any questions or concerns, please feel free to contact us via the email below for further clarification or assistance.
+Bu Uygulamayı kullanarak yukarıdaki hükümlere uymayı kabul edersiniz ve kullanımıyla ilişkilendirilen riskleri anlarsınız. Herhangi bir sorunuz veya endişeniz varsa, daha fazla açıklama veya yardım için aşağıdaki e-posta ile bizimle iletişime geçmekten çekinmeyin.
 
-Date: August 23, 2023
+Tarih: 23 Ağustos 2023
 
-DrawNote Team
+DrawNote Ekibi
 
-Contact Email: dragonnestapp@gmail.com
+İletişim E-postası: dragonnestapp@gmail.com
 
 ----
 [English](https://1993hzw.github.io/dragonnest/drawnote/disclaimer)

@@ -1,38 +1,38 @@
-**Disclaimer**
+**免責事項**
 
-Welcome to DrawNote (referred to as the "Application"). Before you start using the Application, please read the following disclaimer carefully. By downloading, installing, accessing, or using this Application, you indicate that you have read, understood, and agreed to accept the following terms and conditions. If you do not agree with these terms, please do not use this Application.
+DrawNoteへようこそ（以下、「アプリケーション」と呼ばれます）。アプリケーションを使用し始める前に、以下の免責事項を注意深くお読みください。このアプリケーションをダウンロード、インストール、アクセス、または使用することで、以下の利用規約を読み、理解し、受け入れることを示します。これらの条件に同意しない場合は、このアプリケーションを使用しないでください。
 
-- **Data Security and Privacy**
+- **データセキュリティとプライバシー**
 
-The Application provides a local data locking feature, but please note that this feature only applies to data on your local device. When data locking is enabled, data will be encrypted and protected on the local device. However, the lock status will not be synchronized during data backup, restore, or export operations. This means that when you lock notes, back them up, and then restore these notes on another device, you can view their content without unlocking again. Therefore, before performing these operations, please ensure your data security and understand the associated risks to prevent data loss or leakage.
+このアプリケーションは、ローカルデータのロック機能を提供していますが、この機能はローカルデバイス上のデータにのみ適用されることに注意してください。データのロックが有効になっている場合、データはローカルデバイス上で暗号化され保護されます。ただし、データのバックアップ、復元、またはエクスポート操作中にはロック状態が同期されないことに注意してください。これは、ノートをロックし、バックアップを取り、その後別のデバイスでこれらのノートを復元すると、再びロック解除せずにその内容を表示できることを意味します。したがって、これらの操作を行う前に、データのセキュリティを確保し、データの損失や漏洩を防ぐために関連するリスクを理解してください。
 
-- **Data Backup and Restore**
+- **データのバックアップと復元**
 
-The Application offers data backup and restore functionality, but please be aware that these features may involve integration with third-party services or platforms. We will take appropriate security measures to protect your data, but we cannot guarantee the security or privacy protection measures of third-party services. You should understand and confirm the privacy policies and terms related to third-party services.
+このアプリケーションはデータのバックアップと復元機能を提供していますが、これらの機能は第三者サービスやプラットフォームとの統合を含む可能性があることに注意してください。データのセキュリティを保護するために適切なセキュリティ対策を講じますが、第三者サービスのセキュリティやプライバシー保護対策を保証することはできません。第三者サービスに関連するプライバシーポリシーと条件を理解し、確認する必要があります。
 
-- **Premium Features**
+- **プレミアム機能**
 
-The Application supports purchasing premium features to unlock advanced functionalities. Users who purchase premium features will enjoy additional benefits. However, purchasing premium features does not imply that the Application is without defects or faults. We will strive to ensure the quality of premium features but make no explicit or implied warranties regarding their availability or suitability.
+このアプリケーションは、高度な機能を解除するためのプレミアム機能の購入をサポートしています。プレミアム機能を購入したユーザーは追加の利点を享受します。ただし、プレミアム機能の購入は、アプリケーションに欠陥や障害がないことを意味しません。プレミアム機能の品質を確保するために努力しますが、その利用可能性や適合性に関して明示的または暗黙の保証を行いません。
 
-- **Use at Your Own Risk and Liability**
+- **自己のリスクと責任での利用**
 
-You use this Application at your own risk. We are not responsible for any data loss, damage, leakage, or other issues resulting from using this Application. We do not guarantee the applicability, accuracy, completeness, or reliability of the Application. Always maintain backups of your data while using this Application.
+このアプリケーションを自己のリスクで使用します。このアプリケーションの使用によって発生したデータの損失、損傷、漏洩、またはその他の問題について、当社は責任を負いません。アプリケーションの適用性、正確性、完全性、信頼性を保証しません。このアプリケーションを使用する際には常にデータのバックアップを保持してください。
 
-- **Legal Compliance**
+- **法的遵守**
 
-When using this Application, you must comply with all applicable laws and regulations. You may not use this Application for any illegal, unlawful, or infringing purposes.
+このアプリケーションを使用する際には、すべての適用法令と規制を遵守する必要があります。このアプリケーションを違法、不法、または侵害目的で使用してはいけません。
 
-- **Changes to Disclaimer**
+- **免責事項の変更**
 
-We reserve the right to modify or update this disclaimer at any time. Any changes will be posted on this page without further notice. Therefore, please regularly review this disclaimer for the latest information.
+当社はいつでもこの免責事項を変更または更新する権利を留保します。変更が行われた場合、それは事前の通知なしにこのページに掲示されます。したがって、最新情報を確認するために定期的にこの免責事項をご覧ください。
 
-By using this Application, you agree to comply with the above provisions and understand the risks associated with its use. If you have any questions or concerns, please feel free to contact us via the email below for further clarification or assistance.
+このアプリケーションを使用することで、上記の規定に従うことに同意し、その使用に関連するリスクを理解します。質問や懸念事項がある場合は、以下の電子メール経由でお問い合わせいただくか、さらなる説明や支援を受けるためにお気軽にお問い合わせください。
 
-Date: August 23, 2023
+日付：2023年8月23日
 
-DrawNote Team
+DrawNoteチーム
 
-Contact Email: dragonnestapp@gmail.com
+連絡先メール：dragonnestapp@gmail.com
 
 ----
 [English](https://1993hzw.github.io/dragonnest/drawnote/disclaimer)

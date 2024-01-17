@@ -1,38 +1,38 @@
-**Disclaimer**
+**Aviso Legal**
 
-Welcome to DrawNote (referred to as the "Application"). Before you start using the Application, please read the following disclaimer carefully. By downloading, installing, accessing, or using this Application, you indicate that you have read, understood, and agreed to accept the following terms and conditions. If you do not agree with these terms, please do not use this Application.
+Bem-vindo ao DrawNote (referido como "Aplicação"). Antes de começar a utilizar a Aplicação, por favor leia atentamente o seguinte aviso legal. Ao descarregar, instalar, aceder ou utilizar esta Aplicação, indica que leu, compreendeu e concordou em aceitar os seguintes termos e condições. Se não concorda com estes termos, por favor não utilize esta Aplicação.
 
-- **Data Security and Privacy**
+- **Segurança de Dados e Privacidade**
 
-The Application provides a local data locking feature, but please note that this feature only applies to data on your local device. When data locking is enabled, data will be encrypted and protected on the local device. However, the lock status will not be synchronized during data backup, restore, or export operations. This means that when you lock notes, back them up, and then restore these notes on another device, you can view their content without unlocking again. Therefore, before performing these operations, please ensure your data security and understand the associated risks to prevent data loss or leakage.
+A Aplicação disponibiliza uma funcionalidade de bloqueio de dados local, mas tenha em atenção que esta funcionalidade apenas se aplica aos dados no seu dispositivo local. Quando o bloqueio de dados está ativado, os dados serão encriptados e protegidos no dispositivo local. No entanto, o estado de bloqueio não será sincronizado durante as operações de cópia de segurança, restauro ou exportação de dados. Isso significa que quando bloqueia notas, as copia, e depois restaura essas notas noutro dispositivo, pode visualizar o seu conteúdo sem desbloquear novamente. Portanto, antes de realizar estas operações, assegure-se da segurança dos seus dados e compreenda os riscos associados para evitar perda ou divulgação de dados.
 
-- **Data Backup and Restore**
+- **Cópia de Segurança e Restauro de Dados**
 
-The Application offers data backup and restore functionality, but please be aware that these features may involve integration with third-party services or platforms. We will take appropriate security measures to protect your data, but we cannot guarantee the security or privacy protection measures of third-party services. You should understand and confirm the privacy policies and terms related to third-party services.
+A Aplicação oferece funcionalidades de cópia de segurança e restauro de dados, mas esteja ciente de que estas funcionalidades podem envolver integração com serviços ou plataformas de terceiros. Tomaremos medidas de segurança adequadas para proteger os seus dados, mas não podemos garantir as medidas de segurança ou proteção de privacidade de serviços de terceiros. Deve compreender e confirmar as políticas de privacidade e termos relacionados com serviços de terceiros.
 
-- **Premium Features**
+- **Funcionalidades Premium**
 
-The Application supports purchasing premium features to unlock advanced functionalities. Users who purchase premium features will enjoy additional benefits. However, purchasing premium features does not imply that the Application is without defects or faults. We will strive to ensure the quality of premium features but make no explicit or implied warranties regarding their availability or suitability.
+A Aplicação suporta a compra de funcionalidades premium para desbloquear funcionalidades avançadas. Utilizadores que adquirirem funcionalidades premium desfrutarão de benefícios adicionais. No entanto, a compra de funcionalidades premium não implica que a Aplicação esteja isenta de defeitos ou falhas. Esforçar-nos-emos por garantir a qualidade das funcionalidades premium, mas não fazemos garantias explícitas ou implícitas quanto à sua disponibilidade ou adequação.
 
-- **Use at Your Own Risk and Liability**
+- **Utilização por Sua Conta e Risco**
 
-You use this Application at your own risk. We are not responsible for any data loss, damage, leakage, or other issues resulting from using this Application. We do not guarantee the applicability, accuracy, completeness, or reliability of the Application. Always maintain backups of your data while using this Application.
+Utiliza esta Aplicação por sua própria conta e risco. Não somos responsáveis por perda de dados, danos, divulgação ou outros problemas resultantes da utilização desta Aplicação. Não garantimos a aplicabilidade, precisão, integridade ou fiabilidade da Aplicação. Mantenha sempre cópias de segurança dos seus dados enquanto utiliza esta Aplicação.
 
-- **Legal Compliance**
+- **Conformidade Legal**
 
-When using this Application, you must comply with all applicable laws and regulations. You may not use this Application for any illegal, unlawful, or infringing purposes.
+Ao utilizar esta Aplicação, deve cumprir todas as leis e regulamentos aplicáveis. Não pode utilizar esta Aplicação para fins ilegais, ilícitos ou infratores.
 
-- **Changes to Disclaimer**
+- **Alterações ao Aviso Legal**
 
-We reserve the right to modify or update this disclaimer at any time. Any changes will be posted on this page without further notice. Therefore, please regularly review this disclaimer for the latest information.
+Reservamo-nos o direito de modificar ou atualizar este aviso legal a qualquer momento. Quaisquer alterações serão publicadas nesta página sem aviso prévio. Portanto, reveja regularmente este aviso legal para obter as informações mais recentes.
 
-By using this Application, you agree to comply with the above provisions and understand the risks associated with its use. If you have any questions or concerns, please feel free to contact us via the email below for further clarification or assistance.
+Ao utilizar esta Aplicação, concorda em cumprir as disposições acima e compreender os riscos associados à sua utilização. Se tiver alguma dúvida ou preocupação, não hesite em contactar-nos através do email abaixo para obter esclarecimentos ou assistência adicional.
 
-Date: August 23, 2023
+Data: 23 de agosto de 2023
 
-DrawNote Team
+Equipa DrawNote
 
-Contact Email: dragonnestapp@gmail.com
+Email de Contacto: dragonnestapp@gmail.com
 
 ----
 [English](https://1993hzw.github.io/dragonnest/drawnote/disclaimer)
