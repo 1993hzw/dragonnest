@@ -9,4 +9,4 @@
 
 在超級筆記和心智圖中需選中文本框，打開文字菜單欄，然後向左滑動點擊“+”號，選擇“插入時間戳”，點擊確認。
 
-![](imgs/insert_timestamp.png)
+![](imgs/insert_timestamp1.png)
