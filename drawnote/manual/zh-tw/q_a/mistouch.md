@@ -7,4 +7,4 @@
 
 進入觸控筆模式後，頁面頂部將展示一個“禁止手指觸摸”的按鈕，您可以點擊該按鈕以防止手指誤觸。
 
-![](imgs/stylus_mode.png)
+![](imgs/stylus_mode1.png)

@@ -9,4 +9,4 @@
 
 或者在檢視筆記時，能看到與待辦事項相關的標記，以便提醒您完成相關任務。
 
-![](imgs/associated_notes.png)
+![](imgs/associated_notes1.png)

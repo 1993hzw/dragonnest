@@ -6,4 +6,4 @@
 
 在文字筆記閱讀模式下，點擊螢幕右上方的“⋮”按鈕，選擇“匯出為TXT”。
 
-![](imgs/export_as_txt.png)
+![](imgs/export_as_txt1.png)

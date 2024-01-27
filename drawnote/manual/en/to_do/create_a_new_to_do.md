@@ -19,6 +19,8 @@ Create a New To-Do Item
 
 2. Pinning a To-Do Item - On the 'To-Do List' page, tap the "pin" button on the top right corner of an item to move important tasks to the top.
 
-3. Move to the Front - In the 'Create a New To-Do' screen, tap the "Move to the Front" button at the bottom to position the task at the very top.
+![](imgs/create_a_new_to_do2.png)
+
+3. Move to the Front - In the 'New To-do' screen, tap the "Move to the Front" button at the bottom to position the task at the very top.
 
 ![](imgs/create_a_new_to_do3.png)

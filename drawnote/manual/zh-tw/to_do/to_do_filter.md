@@ -1,8 +1,8 @@
 [使用手冊](/dragonnest/drawnote/manual/zh) > [待辦事項列表](/dragonnest/drawnote/manual/zh/to_do) >
 
-待辦事項列表可以幫助您輕鬆管理日常計劃和任務。
-- [新增待辦事項](create_a_new_to_do.md)
+待辦事項篩選
+---
+在“待辦事項”頁面，您可以根據時間、優先順序和關聯筆記對待辦事項進行篩選。
 
-- [關聯筆記](associated_notes.md)
 
-- [待辦事項篩選](to_do_filter.md)
+![](imgs/to_do_filter1.png)

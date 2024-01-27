@@ -9,4 +9,4 @@
 
 此外，我們還提供了快捷輸入功能，如插入連結、插入時間戳、插入圖片等，以提高編輯效率。
 
-![](imgs/rich_text_style.png)
+![](imgs/rich_text_style1.png)
