@@ -1,4 +1,4 @@
-[使用說明](/dragonnest/drawnote/manual/zh-tw) > [常見問題](/dragonnest/drawnote/manual/zh/q_a) >
+[使用說明](/dragonnest/drawnote/manual/zh-tw) > [常見問題](/dragonnest/drawnote/manual/zh-tw/q_a) >
 
 畫布無法用手指繪畫怎麼辦？
 ---
