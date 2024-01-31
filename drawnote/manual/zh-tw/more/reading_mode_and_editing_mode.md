@@ -1,4 +1,4 @@
-[使用說明](/dragonnest/drawnote/manual/zh) > [更多](/dragonnest/drawnote/manual/zh/more) >
+[使用說明](/dragonnest/drawnote/manual/zh-tw) > [更多](/dragonnest/drawnote/manual/zh/more) >
 
 閱讀模式和編輯模式
 ---

@@ -1,4 +1,4 @@
-[使用說明](/dragonnest/drawnote/manual/zh) > [資料夾](/dragonnest/drawnote/manual/zh/folder) >
+[使用說明](/dragonnest/drawnote/manual/zh-tw) > [資料夾](/dragonnest/drawnote/manual/zh/folder) >
 
 新增資料夾
 ---

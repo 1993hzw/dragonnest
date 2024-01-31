@@ -1,4 +1,4 @@
-[使用說明](/dragonnest/drawnote/manual/zh) > [常見問題](/dragonnest/drawnote/manual/zh/q_a) >
+[使用說明](/dragonnest/drawnote/manual/zh-tw) > [常見問題](/dragonnest/drawnote/manual/zh/q_a) >
 
 畫布無法用觸控筆繪畫怎麼辦？
 ---

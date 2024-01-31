@@ -1,4 +1,4 @@
-[使用手冊](/dragonnest/drawnote/manual/zh) >
+[使用手冊](/dragonnest/drawnote/manual/zh-tw) >
 
 新增筆記
 ---

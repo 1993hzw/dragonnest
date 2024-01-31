@@ -1,4 +1,4 @@
-[使用說明](/dragonnest/drawnote/manual/zh) > [超級筆記](/dragonnest/drawnote/manual/zh/super_note) >
+[使用說明](/dragonnest/drawnote/manual/zh-tw) > [超級筆記](/dragonnest/drawnote/manual/zh/super_note) >
 
 音訊標記
 ---
