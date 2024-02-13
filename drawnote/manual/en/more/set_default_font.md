@@ -13,7 +13,7 @@ The font library allows you to save commonly used fonts, which you can then sele
 
 4. Choose the font you need.
 
-![Set Default Font 1](imgs/set_default_font.png)
+![Set Default Font 1](imgs/set_default_font1.png)
 
 
 #### Tips

@@ -10,4 +10,4 @@ Manage Backup Data
 
 3. Long-press a file entry to manage data recovery items. You can perform sharing, renaming, and deletion operations.
 
-![Manage Backup Data](imgs/manage_backup_data1.png)
+![Manage Backup Data](imgs/manage_backup_data.png)

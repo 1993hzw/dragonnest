@@ -23,3 +23,5 @@ On the app's homepage, tap the "+" icon in the bottom right corner. Then, select
 - When you tap the "+" button in the 'Folder' section to create a new note, the note will automatically be categorized under the current folder.
 
 - You can also utilize the shortcuts at the top of the menu to quickly access various creation interfaces within Super Note.
+
+![Create a New Note](imgs/new_note2.png)
