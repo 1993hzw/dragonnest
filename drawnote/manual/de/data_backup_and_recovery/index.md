@@ -13,4 +13,4 @@ Sie können zwischen „Cloud-Sicherung“ oder „lokaler Sicherung“ wählen.
 
 - [Sicherungsdaten verwalten](sicherungsdaten_verwalten.md)
 
-![Eingang](imgs/entrance.png)
+![Eingang](imgs/entrance1.png)
