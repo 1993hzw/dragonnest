@@ -9,8 +9,6 @@ More
 
 - [Highlighter Effect](highlighter_effect.md)
 
-- [Set Default Font](set_default_font.md)
-
 - [Online Search](online_search.md)
 
 - [Export/Share Notes](export_share_notes.md)

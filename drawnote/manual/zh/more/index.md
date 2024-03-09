@@ -11,8 +11,6 @@
 
 - [荧光笔效果](highlighter_effect.md)
 
-- [设置默认字体](set_default_font.md)
-
 - [在线搜索](online_search.md)
 
 - [导出/分享笔记](export_share_notes.md)

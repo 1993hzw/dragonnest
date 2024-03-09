@@ -9,8 +9,6 @@
 
 - [螢光筆效果](highlighter_effect.md)
 
-- [設定預設字型](set_default_font.md)
-
 - [在線搜索](online_search.md)
 
 - [匯出/分享筆記](export_share_notes.md)
