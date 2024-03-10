@@ -14,7 +14,7 @@ Auto save prevents accidental data loss.
 
 4. Enable the toggle and select the auto-save time.
 
-![Auto Save 1](imgs/autosave3.png)
+![Auto Save 1](imgs/autosave.png)
 ![Auto Save 2](imgs/autosave1.png)
 
 #### Tips
