@@ -14,7 +14,7 @@ Datenwiederherstellen
 
 5. Klicken Sie auf „Bestätigen“, um die Daten wiederherzustellen.
 
-![Datenwiederherstellung](imgs/data_recovery1.png)
+![Datenwiederherstellung](imgs/data_recovery.png)
 
 #### Tipps
 Bei der Wiederherstellen von Sicherungsdaten gibt es drei Strategien zur Auswahl:

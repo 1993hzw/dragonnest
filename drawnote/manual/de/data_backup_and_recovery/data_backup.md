@@ -10,4 +10,4 @@ Datensicherung
 
 3. Klicken Sie auf „Sichern“, um eine sofortige Sicherung zu starten.
 
-![Datensicherung](imgs/data_backup.png)
+![Datensicherung](imgs/data_backup1.png)

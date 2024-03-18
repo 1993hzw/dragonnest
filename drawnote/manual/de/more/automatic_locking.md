@@ -14,5 +14,5 @@ Auto lock refers to the application automatically locking after a period of inac
 
 4. Turn on the "Auto Lock" toggle and select the auto lock time.
 
-![Automatic Locking 1](imgs/automatic_ocking.png)
+![Automatic Locking 1](imgs/automatic_locking1.png)
 ![Automatic Locking 2](imgs/auto_locking1.png)
