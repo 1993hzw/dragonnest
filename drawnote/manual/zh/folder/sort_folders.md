@@ -7,7 +7,7 @@
 #### 选择排序方式
 在「文件夹」页面，点击"排序方式"按钮，选择你需要的排序方式。
 
-![](imgs/sort_folders1.png)
+![](imgs/sort_folders.png)
 
 #### 手动排序
 1.在「文件夹」页面。
@@ -16,4 +16,4 @@
 
 3.长按并上下拖拽，以调整排列顺序。
 
-![](imgs/sort_folders2.png)
+![](imgs/sort_folders3.png)

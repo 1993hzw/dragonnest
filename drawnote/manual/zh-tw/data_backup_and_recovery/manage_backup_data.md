@@ -11,4 +11,4 @@
 3. 長按文件條以管理資料恢復項目，您可以進行分享、重新命名和刪除操作。
 
 
-![](imgs/manage_backup_data1.png)
+![](imgs/manage_backup_data.png)

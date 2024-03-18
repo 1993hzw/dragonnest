@@ -11,4 +11,4 @@
 3. 點擊"+備份"，即可立即進行備份。
 
 
-![](imgs/data_backup1.png)
+![](imgs/data_backup.png)
