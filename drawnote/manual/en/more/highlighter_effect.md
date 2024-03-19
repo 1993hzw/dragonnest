@@ -9,4 +9,4 @@ The highlighter effect can help you emphasize important information.
 
 2. In the pop-up menu, click the bottom button to change the brush color opacity to achieve the highlighter effect.
 
-![Highlighter Effect](imgs/highlighter_effect.png)
+![Highlighter Effect](imgs/highlighter_effect1.png)

@@ -10,7 +10,7 @@
 
 3. 點擊“載入字型”，選擇字型文件匯入。
 
-![](imgs/font_library1.png)
+![](imgs/font_library.png)
 
 #### 提示
 您可以到這個網站下載您想要的字型：https://www.fontspace.com/commercial-fonts

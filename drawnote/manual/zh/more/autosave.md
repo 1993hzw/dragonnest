@@ -14,7 +14,7 @@
 
 4.打开按钮，选择自动保存时间。
 
-![](imgs/autosave1.png)
+![](imgs/autosave4.png)
 ![](imgs/autosave2.png)
 
 #### 提示

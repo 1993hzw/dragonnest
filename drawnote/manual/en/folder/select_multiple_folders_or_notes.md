@@ -3,11 +3,10 @@
 Select Multiple Folders or Notes
 ---
 
-#### Steps
-1. On the "Folder" page, long-press a folder or note.
+#### Operating Steps
+1. Tap on "Folder" on the main page.
+2. Long-press a folder or note.
+3. Tap on "Select Multiple" in the pop-up menu to enter the multi-select mode.
+4. Select the folders or notes you want to modify, then perform batch actions such as moving or deleting.
 
-2. In the popup menu, click "Select Multiple" to enter multi-selection mode.
-
-3. Choose the folders or notes you want to modify and perform batch actions such as moving or deleting.
-
-![Select Multiple Folders or Notes](imgs/select_multiple_folders_or_notes1.png)
+ ![Select Multiple Folders or Notes](imgs/select_multiple_folders_or_notes.png)

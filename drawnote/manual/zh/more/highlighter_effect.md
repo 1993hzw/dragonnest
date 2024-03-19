@@ -8,4 +8,4 @@
 
 2.在弹出的菜单中，点击最下方按钮，改变画笔颜色透明度，以实现荧光笔效果。
 
-![](imgs/highlighter_effect1.png)
+![](imgs/highlighter_effect.png)

@@ -15,7 +15,7 @@
 
 在应用首页，点击右下角的“+”号，选择要创建的笔记类型，开始创作。
 
-![new_note](imgs/new_note1.png)
+![new_note](imgs/new_note.png)
 
 #### 提示
 
@@ -23,4 +23,4 @@
 
 - 您还可以利用菜单顶部的快捷入口，快速进入超级笔记的不同功能创作界面。
 
-![new_note](imgs/new_note2.png)
+![new_note](imgs/new_note3.png)

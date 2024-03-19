@@ -1,6 +1,6 @@
 [用户手册](/dragonnest/drawnote/manual/zh) > [更多](/dragonnest/drawnote/manual/zh/more) >
 
-设置默认字体
+设置默认字体(已删除此功能，留档)
 ---
 字体库可以保存常用的字体，您可以在文字笔记或者文本编辑框中为文字选择字体。
 

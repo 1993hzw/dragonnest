@@ -10,3 +10,5 @@
 - [資料夾排序](sort_folders.md)
 
 - [選擇多個資料夾或筆記](select_multiple_folders_or_notes.md)
+
+- [列表風格](list_style.md)

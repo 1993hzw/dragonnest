@@ -8,4 +8,4 @@
 
 2. 在彈出的菜單中，點擊最下方按鈕，改變畫筆顏色透明度，以實現螢光筆效果。
 
-![](imgs/highlighter_effect.png)
+![](imgs/highlighter_effect1.png)

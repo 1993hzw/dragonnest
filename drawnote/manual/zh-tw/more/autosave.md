@@ -14,7 +14,7 @@
 
 4. 開啟按鈕，選擇自動儲存時間。
 
-![](imgs/autosave.png)
+![](imgs/autosave3.png)
 ![](imgs/autosave1.png)
 
 #### 提示

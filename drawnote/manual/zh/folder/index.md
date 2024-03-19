@@ -9,3 +9,5 @@
 - [文件夹排序](sort_folders.md)
 
 - [选择多个文件夹或笔记](select_multiple_folders_or_notes.md)
+
+- [列表样式](list_style.md)
