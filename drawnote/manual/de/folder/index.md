@@ -10,3 +10,5 @@ Folders provide an effective way to categorize and manage your notes. You can or
 - [Sort Folders](sort_folders.md)
 
 - [Select Multiple Folders or Notes](select_multiple_folders_or_notes.md)
+
+- [List Style](list_style.md)
