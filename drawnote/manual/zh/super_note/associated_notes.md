@@ -14,7 +14,7 @@
 
 4.点击“确认”，即可将需要关联的笔记添加到当前笔记中。
 
-![](imgs/associated_notes1.png)
+![](imgs/associated_notes.png)
 
 #### 提示
 

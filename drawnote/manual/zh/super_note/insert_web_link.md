@@ -14,7 +14,7 @@
 
 5.确认操作后即可插入链接。
 
-![](imgs/insert_web_link.png)
+![](imgs/insert_web_link1.png)
 
 #### 提示
 - 为链接取一个描述性名称，方便后续查找和定位。

@@ -8,4 +8,4 @@
 
 2.选择“插入思维导图”，即可将思维导图添加到您的笔记中。
 
-![](imgs/Insert_mind_map.png)
+![](imgs/Insert_mind_map1.png)

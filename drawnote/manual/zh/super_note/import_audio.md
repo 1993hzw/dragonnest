@@ -8,4 +8,4 @@
 
 2.选择“导入音频”选项。选择要导入的音频文件，即可。
 
-![](imgs/import_audio.png)
+![](imgs/import_audio1.png)

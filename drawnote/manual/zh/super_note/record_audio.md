@@ -10,4 +10,4 @@
 
 3.点击“停止”按钮完成录制。
 
-![](imgs/record_audio.png)
+![](imgs/record_audio1.png)

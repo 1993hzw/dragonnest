@@ -9,4 +9,4 @@
 
 2.选择工具栏位置：“将工具栏移至底部”或“将工具栏移至底部”。
 
-![](imgs/move_toolbar.png)
+![](imgs/move_toolbar1.png)

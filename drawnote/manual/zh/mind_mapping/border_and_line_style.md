@@ -10,7 +10,7 @@
 
 3.在弹出的窗口中，选择所需的风格选项，如边框形状、边框颜色、填充颜色、线条样式和线条颜色。
 
-![](imgs/border_and_line_style1.png)
+![](imgs/border_and_line_style.png)
 
 #### 提示
 
