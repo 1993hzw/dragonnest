@@ -7,6 +7,8 @@
 
 - [阅读模式和编辑模式](reading_mode_and_editing_mode.md)
 
+- [创建模板](new_template.md)
+
 - [字体库](font_library.md)
 
 - [荧光笔效果](highlighter_effect.md)
@@ -24,3 +26,5 @@
 - [自动锁定](automatic_locking.md)
 
 - [隐私锁](privacy_lock.md)
+
+- [添加桌面小插件](add_widgets.md)
