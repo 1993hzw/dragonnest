@@ -5,6 +5,8 @@
 
 - [閱讀模式和編輯模式](reading_mode_and_editing_mode.md)
 
+- [建立模板](new_template.md)
+
 - [字型庫](font_library.md)
 
 - [螢光筆效果](highlighter_effect.md)
@@ -22,3 +24,5 @@
 - [自動鎖定](automatic_locking.md)
 
 - [隱私鎖](privacy_lock.md)
+
+- [添加桌面小工具](add_widgets.md)

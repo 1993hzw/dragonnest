@@ -9,9 +9,9 @@
 3. 在所需的笔记类型后选择“新建模板”。
 4. 进入模板编辑页面进行设置，包括背景颜色，字体大小，字体颜色等，配置完成后保存即可。
 
-![](imgs/new_template1.png)
-![](imgs/new_template2.png)
+![](imgs/new_template3.png)
+![](imgs/new_template4.png)
 
 #### 提示
 长按模板库可以获取更多选项,如查看和编辑模板、设为默认模板等。
-![](imgs/new_template3.png)
+![](imgs/new_template5.png)
