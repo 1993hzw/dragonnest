@@ -22,4 +22,4 @@ There are two methods to export/share notes.
 
 4. Click "Save" or "Share" and choose the sharing method to complete the action.
 
-![Export/Share Notes Method 2](imgs/export_share_notes1.jpg)
+![Export/Share Notes Method 2](imgs/export_share_notes2.png)

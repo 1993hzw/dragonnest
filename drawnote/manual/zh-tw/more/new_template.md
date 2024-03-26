@@ -1,4 +1,4 @@
-[使用者手冊](/dragonnest/drawnote/manual/zh) > [更多](/dragonnest/drawnote/manual/zh/more) >
+[使用者手冊](/dragonnest/drawnote/manual/zh-tw) > [更多](/dragonnest/drawnote/manual/zh/more) >
 
 建立模板
 ---

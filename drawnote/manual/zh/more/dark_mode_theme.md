@@ -12,5 +12,3 @@
 
 ![](imgs/dark_mode.png)
 ![](imgs/dark_mode1.png)
-
-
