@@ -651,7 +651,7 @@ Thank you so much for your support and feedback! We will continue to work hard.
 <string name="action_reminder">提醒</string>
 <string name="reminder_tips">向系统日历添加提醒</string>
 <string name="open_sys_calendar">打开系统日历</string>
-<string name="sys_calendar_reminder_tips">来自有为笔记</string>
+<string name="sys_calendar_reminder_tips">来自吾绘笔记</string>
 <string name="permission_calanda_tips">请授予日历读写权限</string>
 <string name="failed_to_set_reminder">设置提醒失败</string>
 <string name="pin_to_notification_bar">固定到通知栏</string>
@@ -659,7 +659,7 @@ Thank you so much for your support and feedback! We will continue to work hard.
 <string name="action_pinned">固定</string>
 <string name="backup_data_support_type">支持备份的数据：%1$s</string>
 <string name="todo_slogon">管理您的日常计划和任务</string>
-<string name="letter_titile">来自有为笔记团队的一封信</string>
+<string name="letter_titile">来自吾绘笔记团队的一封信</string>
 <string name="action_priority">优先级</string>
 <string name="note_settings">笔记设置</string>
 <string name="auto_save">自动保存</string>
@@ -749,7 +749,7 @@ Thank you so much for your support and feedback! We will continue to work hard.
 <string name="app_auto_lock">自动锁定</string>
 <string name="unlock_verify_dialog_title">验证您的身份</string>
 <string name="free_trial">免费试用</string>
-<string name="pro_thanks">您的支持能够让我们更好地坚持开发下去。\n有为笔记因为有您的支持而变得越来越好，非常感谢！</string>
+<string name="pro_thanks">您的支持能够让我们更好地坚持开发下去。\n吾绘笔记因为有您的支持而变得越来越好，非常感谢！</string>
 <string name="please_grant_google_drive_access">请授予对Google Drive中应用程序数据的访问权限</string>
 <string name="action_sticker">贴纸</string>
 <string name="clear_history">清除历史记录</string>
@@ -847,7 +847,7 @@ Thank you so much for your support and feedback! We will continue to work hard.
 <string name="already_latest_version">当前版本已经是最新版本</string>
 <string name="longpress_select_mul_imgs">长按可以选择多张图片</string>
 <string name="unsubscribe"><u>取消订阅？</u></string>
-<string name="pro_info">重要提示：\n\n* 由于谷歌没有提供取消订阅的界面，如果您需要取消订阅，需要点击上方的“取消订阅？”进行操作，或者点击您在 Google Play 上的订阅。\n\n* 当您在 Google Play 上取消订阅此应用后，该应用不会立即收到最新状态，因此您会看到订阅项仍处于“活动”中状态。这是正常现象。您将在第二天得到正确的结果，或者等到当前订阅期结束。\n\n* 如果您打算从订阅切换到“终身”项目，您应该先取消订阅，然后购买“终身”项目。此应用无法自行取消您的订阅。\n\n* 如果您订阅或购买 Pro，您将可以使用有为笔记的所有 Pro 功能，否则您将可以使用除 Pro 之外的免费功能。这也意味着您在取消订阅后可以使用除 Pro 以外的免费功能。\n\n* 付款结果将自动绑定到您的系统 Google 帐户，请确保您的帐户正确。\n\n非常感谢您的支持！如果您有任何问题，请通过dragonnestapp@gmail.com 与我们联系。</string>
+<string name="pro_info">重要提示：\n\n* 由于谷歌没有提供取消订阅的界面，如果您需要取消订阅，需要点击上方的“取消订阅？”进行操作，或者点击您在 Google Play 上的订阅。\n\n* 当您在 Google Play 上取消订阅此应用后，该应用不会立即收到最新状态，因此您会看到订阅项仍处于“活动”中状态。这是正常现象。您将在第二天得到正确的结果，或者等到当前订阅期结束。\n\n* 如果您打算从订阅切换到“终身”项目，您应该先取消订阅，然后购买“终身”项目。此应用无法自行取消您的订阅。\n\n* 如果您订阅或购买 Pro，您将可以使用吾绘笔记的所有 Pro 功能，否则您将可以使用除 Pro 之外的免费功能。这也意味着您在取消订阅后可以使用除 Pro 以外的免费功能。\n\n* 付款结果将自动绑定到您的系统 Google 帐户，请确保您的帐户正确。\n\n非常感谢您的支持！如果您有任何问题，请通过dragonnestapp@gmail.com 与我们联系。</string>
 <string name="insert_web_link">插入网页链接</string>
 <string name="action_desc">描述</string>
 <string name="action_addr">地址</string>
@@ -899,7 +899,7 @@ Thank you so much for your support and feedback! We will continue to work hard.
 <string name="action_image_res_high">高</string>
 <string name="action_startup_page">启动页</string>
 <string name="empty_desc_tips">描述不能为空</string>
-<string name="letter_content">亲爱的朋友，\n\n感谢您的下载和支持。\n\n我们一直在努力改进这个应用程序， 您的支持和声音对我们非常重要。\n\n如果您喜欢这个应用程序，请给我们5星评分并向您的朋友推荐我们的应用程序， 这对我们意义重大。 有为笔记APP会因为您的支持而变得越来越好。\n\n如果您有任何反馈或建议，请通过 dragonnestapp@gmail.com 写信给我们， 我们很乐意收到您的来信！\n\n此致，\n\n 有为笔记团队</string>
+<string name="letter_content">亲爱的朋友，\n\n感谢您的下载和支持。\n\n我们一直在努力改进这个应用程序， 您的支持和声音对我们非常重要。\n\n如果您喜欢这个应用程序，请给我们5星评分并向您的朋友推荐我们的应用程序， 这对我们意义重大。 吾绘笔记APP会因为您的支持而变得越来越好。\n\n如果您有任何反馈或建议，请通过 dragonnestapp@gmail.com 写信给我们， 我们很乐意收到您的来信！\n\n此致，\n\n 吾绘笔记团队</string>
 <string name="unlock_all">解锁全部</string>
 <string name="show_zoom_info">移动时显示细节</string>
 <string name="eye_protection_mode">护眼模式</string>
@@ -922,10 +922,10 @@ Thank you so much for your support and feedback! We will continue to work hard.
 <string name="key_border_color">边框颜色</string>
 <string name="key_arrow">箭头</string>
 <string name="continue_editing">继续编辑</string>
-<string name="unlock_verify_unlock_error_tips">如果始终无法解锁，可以进入设备的系统设置，解除所有安全锁，然后重新打开有为笔记。</string>
+<string name="unlock_verify_unlock_error_tips">如果始终无法解锁，可以进入设备的系统设置，解除所有安全锁，然后重新打开吾绘笔记。</string>
 <string name="unlock_verify_not_enable_tips">需要先在您设备的系统设置中创建一个安全锁！</string>
 <string name="fingerprint_not_enable_tips">需要先在系统设置中创建指纹！</string>
-<string name="set_unlock_verify_tips">有为笔记应用程序将使用与您的设备相同的安全锁（PIN、图案、密码或指纹）。</string>
+<string name="set_unlock_verify_tips">吾绘笔记应用程序将使用与您的设备相同的安全锁（PIN、图案、密码或指纹）。</string>
 <string name="go_to_settings">去设置</string>
 <string name="only_support_fingerprint_unlock">仅支持指纹解锁</string>
 <string name="how_long_auto_lock">您离开多长时间后应用程序应该自动锁定？</string>
@@ -989,7 +989,7 @@ Thank you so much for your support and feedback! We will continue to work hard.
 <string name="manually_clear">手动清除</string>
 <string name="ban_fingerprint">禁用指纹解锁</string>
 <string name="click_add_to_create_note">点击“[[+]]”按钮创建笔记</string>
-<string name="guide_app_desc">有为笔记是一款多合一应用程序，涵盖笔记、写作、思维导图、待办事项、手写、画画和绘图等功能，充分激发您的想象力和创造力。</string>
+<string name="guide_app_desc">吾绘笔记是一款多合一应用程序，涵盖笔记、写作、思维导图、待办事项、手写、画画和绘图等功能，充分激发您的想象力和创造力。</string>
 <string name="guide_app_slogan">释放你的创造力！</string>
 <string name="guide_app_slogan_zh">大有可为</string>
 <string name="guide_folder_desc">使用文件夹整理您的笔记。</string>
@@ -1048,7 +1048,7 @@ Thank you so much for your support and feedback! We will continue to work hard.
 <string name="delete_image">删除图片</string>
 <string name="view_image">查看图片</string>
 <string name="title_load_font">加载字体</string>
-<string name="guide_tips_load_font">您需要下载字体包，然后在有为笔记app中打开字体库，点击“+”号 按钮导入您下载的字体包。 &lt;br&gt;&lt;br&gt; 您可以到这个网站下载您想要的字体：&lt;a href=&quot;https://www.fontspace.com/commercial-fonts&quot;&gt;https://www.fontspace.com/commercial-fonts&lt;/a&gt;.</string>
+<string name="guide_tips_load_font">您需要下载字体包，然后在吾绘笔记app中打开字体库，点击“+”号 按钮导入您下载的字体包。 &lt;br&gt;&lt;br&gt; 您可以到这个网站下载您想要的字体：&lt;a href=&quot;https://www.fontspace.com/commercial-fonts&quot;&gt;https://www.fontspace.com/commercial-fonts&lt;/a&gt;.</string>
 <string name="guide_tips_infinite_canvas_zoom">
 我们一直想给用户呈现一个真正无限的画布，但由于Android系统下数字精度的问题，我们还没有找到好的解决方案。 在无限画布模式下，当缩放级别较大时，坐标精度会丢失，绘制内容会发生偏移。
 \n\n
@@ -1056,8 +1056,8 @@ Thank you so much for your support and feedback! We will continue to work hard.
 \n\n
 非常感谢您的支持和反馈！ 我们将继续努力。
 </string>
-<string name="google_drive_backup_tips">我们的数据备份方式是将数据存储在Google Drive的私有应用程序目录中，因此用户无法直接在Google Drive中查看备份内容。但是，通过在有为笔记App的备份列表中查看Google Drive中的备份，用户可以方便地浏览备份的应用程序数据。\n\n只需使用相同的谷歌账号登录不同设备，即可轻松地将数据恢复到不同设备之间。</string>
-<string name="share_app_text">我发现了一个超酷的应用：有为笔记！集笔记、写作、思维导图、待办清单、手写、绘图等多功能于一身。赶紧试试吧！%1$s</string>
+<string name="google_drive_backup_tips">我们的数据备份方式是将数据存储在Google Drive的私有应用程序目录中，因此用户无法直接在Google Drive中查看备份内容。但是，通过在吾绘笔记App的备份列表中查看Google Drive中的备份，用户可以方便地浏览备份的应用程序数据。\n\n只需使用相同的谷歌账号登录不同设备，即可轻松地将数据恢复到不同设备之间。</string>
+<string name="share_app_text">我发现了一个超酷的应用：吾绘笔记！集笔记、写作、思维导图、待办清单、手写、绘图等多功能于一身。赶紧试试吧！%1$s</string>
 <string name="list_style">列表样式</string>
 <string name="show_detail_in_folder">显示文件夹详细信息</string>
 <string name="show_detail_in_folder_tips">笔记计数、文件夹计数</string>
@@ -1070,8 +1070,8 @@ Thank you so much for your support and feedback! We will continue to work hard.
 <string name="remove_background">删除背景</string>
 <string name="export_as_pdf">导出为PDF</string>
 <string name="export_as_image_pdf">导出为图像/PDF</string>
-<string name="share_app">推荐有为笔记</string>
-<string name="share_app_tips">向您的朋友推荐有为笔记App</string>
+<string name="share_app">推荐吾绘笔记</string>
+<string name="share_app_tips">向您的朋友推荐吾绘笔记App</string>
 <string name="privacy_lock_local_restore_tips">请注意，隐私锁是一种本地临时锁定机制。这意味着，当您对笔记进行加锁并将其备份后，然后在其他设备上恢复这些笔记时，并不需要再次解锁即可查看其内容。</string>
 <string name="exported_pdf_non_editable">导出的PDF不可编辑。</string>
 <string name="google_refund_policy">Google退款政策 >></string>
