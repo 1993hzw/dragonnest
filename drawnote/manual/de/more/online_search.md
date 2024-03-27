@@ -1,8 +1,8 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [More](/dragonnest/drawnote/manual/en/more) >
+[Benutzerhandbuch](/dragonnest/drawnote/manual/en) > [Mehr](/dragonnest/drawnote/manual/en/more) >
 
-Online Search
+Online-Suche
 ---
-#### Steps
-Click the "Online Search" button in the toolbar to start an online search.
+#### Schritte
+Klicken Sie auf die Schaltfläche "Online-Suche" in der Symbolleiste, um eine Online-Suche zu starten.
 
-![Online Search](imgs/online_search.png)
+![Online-Suche](imgs/online_search.png)

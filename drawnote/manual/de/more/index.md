@@ -1,26 +1,24 @@
 [User Manual](/dragonnest/drawnote/manual/en) >
 
-More
+Mehr
 ---
 
-- [Reading Mode and Editing Mode](reading_mode_and_editing_mode.md)
+- [Lese- und Bearbeitungsmodus](reading_mode_and_editing_mode.md)
 
-- [Font Library](font_library.md)
+- [Schriftbibliothek](font_library.md)
 
-- [Highlighter Effect](highlighter_effect.md)
+- [Textmarker-Effekt](highlighter_effect.md)
 
-- [Set Default Font](set_default_font.md)
+- [Online-Suche](online_search.md)
 
-- [Online Search](online_search.md)
+- [Notizen exportieren/teilen](export_share_notes.md)
 
-- [Export/Share Notes](export_share_notes.md)
+- [Zeitstempel einfügen](insert_timestamp.md)
 
-- [Insert Timestamp](insert_timestamp.md)
+- [Markierungsfunktion](marking_function.md)
 
-- [Marking Function](marking_function.md)
+- [Automatisches Speichern](autosave.md)
 
-- [Auto Save](autosave.md)
+- [Automatische Sperre](automatic_locking.md)
 
-- [Automatic Lock](automatic_locking.md)
-
-- [Privacy Lock](privacy_lock.md)
+- [Datenschutzsperre](privacy_lock.md)

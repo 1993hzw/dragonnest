@@ -1,45 +1,48 @@
 [User Manual](/dragonnest/drawnote/manual/en) > [Super Note](/dragonnest/drawnote/manual/en/super_note) >
 
-Brush Function
+Stifthalter-Funktion
 ---
 
-#### Steps
+#### Schritte
 
-Click the "Brush" button in the toolbar to perform the following actions.
+Klicken Sie auf die "Stifthalter"-Schaltfläche in der Symbolleiste, um die folgenden Aktionen auszuführen.
 
-#### 1.Collect Brushes
+#### 1. Stifte sammeln
 
-Click the "+" button in the brush collection bar to add different types of brushes.
+Klicken Sie auf die "+"-Schaltfläche in der Stifte-Sammlungsleiste, um verschiedene Arten von Stiften hinzuzufügen.
 
-#### 2.Lock Brush Size
+#### 2. Stiftgröße sperren
 
-Check the "Lock Size" button to fix the brush size. Even if you zoom in or out on the canvas or page, the brush size will remain unchanged.
+Aktivieren Sie die "Größe sperren"-Schaltfläche, um die Stiftgröße festzulegen. Auch wenn Sie auf der Leinwand oder Seite herein- oder herauszoomen, bleibt die Stiftgröße unverändert.
 
-#### 3.Dashed Line Effect
+#### 3. Gestrichelter Linien-Effekt
 
-Check the "Dashed Line" button to apply the dashed line brush effect.
+Aktivieren Sie die "Gestrichelte Linie"-Schaltfläche, um den gestrichelten Linien-Stift-Effekt anzuwenden.
 
-#### 4.Adjust Brush Size
+#### 4. Stiftgröße anpassen
 
-Use the middle slider or the "+" and "-" buttons on both sides to adjust the brush stroke size.
+Verwenden Sie den mittleren Schieberegler oder die "+" und "-" Schaltflächen auf beiden Seiten, um die Stiftstrichgröße anzupassen.
 
 ![](imgs/brush_function.png)
 
-#### 5.Adjust Brush Position
-In the brush bar, press and hold the brush you want to adjust, then drag it left or right to the desired position and release.
+#### 5. Stiftposition anpassen
 
-#### 6.Delete Collect Brushes
+Drücken und halten Sie in der Stiftleiste den Stift, den Sie anpassen möchten, und ziehen Sie ihn dann nach links oder rechts an die gewünschte Position und lassen Sie ihn los.
 
-In the brush bar, press and hold the brush you wish to delete, then drag it to the "Trash Can" icon and release to remove that brush.
+#### 6. Stifte sammeln löschen
+
+Drücken und halten Sie in der Stiftleiste den Stift, den Sie löschen möchten, und ziehen Sie ihn dann zum "Papierkorb"-Symbol und lassen Sie ihn los, um diesen Stift zu entfernen.
 
 ![](imgs/brush_function1.png)
 
-#### Save Common Pen Case
-On the brush page, click the "⋮" button in the upper right corner and choose "Save to Brush List". Then, name your brush set and confirm to save your commonly used brush set.
+#### Häufig verwendeten Stifthalter speichern
+
+Auf der Stifthalter-Seite klicken Sie auf die "⋮"-Schaltfläche in der oberen rechten Ecke und wählen Sie "Zur Stifthalterliste speichern". Geben Sie dann Ihren Stifthalter einen Namen und bestätigen Sie, um Ihren häufig verwendeten Stifthalter zu speichern.
 
 ![](imgs/brush_function2.png)
 
-#### Choose Common Pen Case
-On the brush page, click the "⋮" button in the upper right corner, then select the brush set you need from the brush list.
+#### Häufig verwendeten Stifthalter auswählen
+
+Auf der Stifthalter-Seite klicken Sie auf die "⋮"-Schaltfläche in der oberen rechten Ecke und wählen Sie dann den benötigten Stifthalter aus der Stifthalterliste aus.
 
 ![](imgs/brush_function5.png)

@@ -2,23 +2,22 @@
 
 Auto Save
 ---
-Auto save prevents accidental data loss.
+Auto Save verhindert versehentlichen Datenverlust.
 
-#### Steps
+#### Schritte
 
-1. Tap "My" on the main page.
+1. Tippen Sie auf "Mein" auf der Hauptseite.
 
-2. Access settings.
+2. Gehen Sie zu den Einstellungen.
 
-3. Click the "Auto Save" button.
+3. Klicken Sie auf die Schaltfläche "Auto Save".
 
-4. Enable the toggle and select the auto-save time.
+4. Aktivieren Sie den Schalter und wählen Sie die Auto-Save-Zeit aus.
 
-![Auto Save 1](imgs/autosave3.png)
+![Auto Save 1](imgs/autosave.png)
 ![Auto Save 2](imgs/autosave1.png)
 
-#### Tips
-- Customizable response for clicking the Back key during editing. Response methods include：Cilck again to exit editing, Ask for confirmation,Exit and save.
-
+#### Tipps
+- Anpassbare Reaktion auf das Klicken der Zurück-Taste während der Bearbeitung. Reaktionsmethoden umfassen: Erneut klicken, um die Bearbeitung zu beenden, Nach Bestätigung fragen, Bearbeitung beenden und speichern.
 
   ![Auto Save 3](imgs/autosave2.png)

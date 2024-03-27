@@ -1,11 +1,11 @@
-[User Manual](/dragonnest/drawnote/manual/en) >
+[Benutzerhandbuch](/dragonnest/drawnote/manual/en) >
 
-To-Do List
+Aufgabenliste
 ---
 
-The To-Do List helps you easily manage your daily plans and tasks.
-- [Create a New To-Do Item](create_a_new_to_do.md)
+Die Aufgabenliste hilft Ihnen dabei, Ihre täglichen Pläne und Aufgaben einfach zu verwalten.
+- [Ein neues Aufgaben-Element erstellen](create_a_new_to_do.md)
 
-- [Associate Notes](associated_notes.md)
+- [Notizen verknüpfen](associated_notes.md)
 
-- [Filtering To-Do Items](to_do_filter.md)
+- [Aufgaben filtern](to_do_filter.md)

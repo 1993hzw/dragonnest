@@ -1,19 +1,19 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [Folder](/dragonnest/drawnote/manual/en/folder) >
+[Benutzerhandbuch](/dragonnest/drawnote/manual/en) > [Ordner](/dragonnest/drawnote/manual/en/folder) >
 
-Sort Folders
+Ordner sortieren
 ---
-There are multiple ways to sort folders. You can sort them by Name, Date modified, Date Created, and more, or you can manually arrange them.
+Es gibt mehrere Möglichkeiten, Ordner zu sortieren. Sie können sie nach Name, Datum geändert, Erstellungsdatum und mehr sortieren, oder Sie können sie manuell anordnen.
 
-#### Select a Sorting Method
-On the "Folder" page, click the "Sort By" button and choose your preferred sorting method.
+#### Wählen Sie eine Sortiermethode aus
+Auf der Seite "Ordner" klicken Sie auf die Schaltfläche "Sortieren nach" und wählen Ihre bevorzugte Sortiermethode aus.
 
-![Select Sorting Method](imgs/sort_folders.png)
+![Wählen Sie eine Sortiermethode aus](imgs/sort_folders.png)
 
-#### Manual Sorting
-1. On the "Folder" page.
+#### Manuelle Sortierung
+1. Auf der Seite "Ordner".
 
-2. Click the "Sort" button.
+2. Klicken Sie auf die Schaltfläche "Sortieren".
 
-3. Long-press and drag folders up and down to adjust their order.
+3. Drücken Sie lange auf einen Ordner und ziehen Sie ihn nach oben oder unten, um die Reihenfolge anzupassen.
 
-![Manual Sorting](imgs/manual_sorting1.png)
+![Manuelle Sortierung](imgs/manual_sorting1.png)

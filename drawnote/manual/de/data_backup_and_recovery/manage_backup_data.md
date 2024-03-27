@@ -1,13 +1,13 @@
-[Benutzerhandbuch](/dragonnest/drawnote/manual/de) > [Datensicherung und -wiederherstellung](/dragonnest/drawnote/manual/de/daten_sicherung_und_wiederherstellung) >
+[User Manual](/dragonnest/drawnote/manual/en) > [Data Backup and Recovery](/dragonnest/drawnote/manual/en/data_backup_and_recovery) >
 
-Sicherungsdaten verwalten
+Verwalten von Backup-Daten
 ---
 #### Schritte
 
-1. Tippen Sie auf der Hauptseite auf „Ich“.
+1. Tippen Sie auf "Mein" auf der Hauptseite.
 
-2. Greifen Sie auf die Option „Sicherung & Wiederherstellen“ zu.
+2. Gehen Sie zur Option "Backup & Wiederherstellung".
 
-3. Halten Sie einen Dateieintrag lange gedrückt, um Datenwiederherstellungselemente zu verwalten. Sie können Teilen, Umbenennen und Löschen durchführen.
+3. Drücken Sie lange auf einen Dateieintrag, um Datenwiederherstellungsobjekte zu verwalten. Sie können Freigabe-, Umbenennungs- und Löschvorgänge durchführen.
 
-![Sicherungsdaten verwalten](imgs/manage_backup_data.png)
+![Verwalten von Backup-Daten](imgs/manage_backup_data.png)

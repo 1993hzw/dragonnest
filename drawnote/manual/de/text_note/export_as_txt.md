@@ -1,9 +1,9 @@
 [User Manual](/dragonnest/drawnote/manual/en) > [Text Note](/dragonnest/drawnote/manual/en/text_note) >
 
-Export as TXT
+Als TXT exportieren
 ---
-#### Steps
+#### Schritte
 
-While in the reading mode of Text Note, tap on the "⋮" button located at the top right of the screen and select "Export as TXT".
+Während Sie sich im Lesemodus der Textnotiz befinden, tippen Sie auf die Schaltfläche "⋮" oben rechts auf dem Bildschirm und wählen Sie "Als TXT exportieren".
 
 ![](imgs/export_as_txt1.png)

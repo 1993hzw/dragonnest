@@ -1,9 +1,9 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [Mind Mapping](/dragonnest/drawnote/manual/en/mind_mapping) >
+[Benutzerhandbuch](/dragonnest/drawnote/manual/en) > [Mind Mapping](/dragonnest/drawnote/manual/en/mind_mapping) >
 
-Page Settings
+Seiteneinstellungen
 ---
-#### Steps
+#### Schritte
 
-Click on the "Page Settings" icon in the bottom toolbar to open the page settings menu, where you can customize the page background, mind mapping style, and more.
+Klicken Sie auf das Symbol "Seiteneinstellungen" in der unteren Symbolleiste, um das Menü für die Seiteneinstellungen zu öffnen, wo Sie den Hintergrund der Seite, den Mind-Mapping-Stil und mehr anpassen können.
 
-![Page Settings](imgs/page_settings1.png)
+![Seiteneinstellungen](imgs/page_settings1.png)

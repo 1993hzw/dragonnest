@@ -1,20 +1,20 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [More](/dragonnest/drawnote/manual/en/more) >
+[Benutzerhandbuch](/dragonnest/drawnote/manual/en) > [Mehr](/dragonnest/drawnote/manual/en/more) >
 
-Privacy Lock
+Privatsperre
 ---
-With Privacy Lock, you can lock specific notes and folders.
+Mit der Privatsperre können Sie bestimmte Notizen und Ordner sperren.
 
-#### Steps
+#### Schritte
 
-1. Long-press the note or folder you want to lock/unlock.
+1. Halten Sie die Notiz oder den Ordner, den Sie sperren/entsperren möchten, gedrückt.
 
-2. In the pop-up menu, click "Lock"/"Unlock" to lock or unlock the note or folder.
+2. Klicken Sie im Popup-Menü auf "Sperren"/"Entsperren", um die Notiz oder den Ordner zu sperren oder zu entsperren.
 
-![Privacy Lock](imgs/privacy_lock1.png)
+![Privatsperre](imgs/privacy_lock1.png)
 
-#### Tips
-- Locked content cannot be searched directly.
+#### Tipps
+- Gesperrte Inhalte können nicht direkt durchsucht werden.
 
-- In the "My" and "Automatic Lock & Privacy Lock" interface, you can set Privacy Lock with fingerprint or password unlock.
+- In der Benutzeroberfläche "Meine" und "Automatische Sperre & Privatsperre" können Sie die Privatsperre mit Fingerabdruck oder Passwort entsperren.
 
-- Privacy Lock is a local temporary locking mechanism. This means that when you lock notes, back them up, and then restore those notes on another device, you don't need to unlock them again to view their content.
+- Die Privatsperre ist ein lokaler temporärer Sperrmechanismus. Das bedeutet, dass wenn Sie Notizen sperren, sie sichern und dann diese Notizen auf einem anderen Gerät wiederherstellen, Sie sie nicht erneut entsperren müssen, um ihren Inhalt anzuzeigen.

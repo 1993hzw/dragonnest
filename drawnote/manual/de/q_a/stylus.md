@@ -1,11 +1,11 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [FAQ](/dragonnest/drawnote/manual/en/q_a) >
+[Benutzerhandbuch](/dragonnest/drawnote/manual/en) > [FAQ](/dragonnest/drawnote/manual/en/q_a) >
 
-What should I do if I can't draw with a stylus on the canvas?
+Was soll ich tun, wenn ich mit einem Stift nicht auf der Leinwand zeichnen kann?
 ---
-If you are unable to draw with a stylus on the canvas, it may be due to the following reasons:
+Wenn Sie mit einem Stift nicht auf der Leinwand zeichnen können, kann dies an folgenden Gründen liegen:
 
-1. Ensure Stylus Mode is enabled - Click the "⋮" button in the upper right corner to open the options menu and check if "Stylus Mode" is enabled.
+1. Stellen Sie sicher, dass der Stylus-Modus aktiviert ist - Klicken Sie auf die Schaltfläche "⋮" in der oberen rechten Ecke, um das Optionsmenü zu öffnen, und überprüfen Sie, ob "Stylus-Modus" aktiviert ist.
 
-2. Stylus connection issues - Make sure the stylus is correctly connected to the device. Try reconnection to ensure a stable connection.
+2. Verbindungsprobleme mit dem Stylus - Stellen Sie sicher, dass der Stift ordnungsgemäß mit dem Gerät verbunden ist. Versuchen Sie eine erneute Verbindung, um eine stabile Verbindung sicherzustellen.
 
-3. Stylus battery issues - Check if the stylus has sufficient battery. Low battery levels may prevent the stylus from working properly.
+3. Akkuprobleme des Stifts - Überprüfen Sie, ob der Stift ausreichend Batterie hat. Niedrige Batteriestände können verhindern, dass der Stift ordnungsgemäß funktioniert.

@@ -1,18 +1,18 @@
 [User Manual](/dragonnest/drawnote/manual/en) > [More](/dragonnest/drawnote/manual/en/more) >
 
-Marking Function
+Markierungsfunktion
 ---
-The marking function helps you highlight key points and attract attention, suitable for teaching and presentations.
+Die Markierungsfunktion hilft Ihnen, Schlüsselpunkte hervorzuheben und Aufmerksamkeit zu erregen, geeignet für Unterricht und Präsentationen.
 
-#### Steps
+#### Schritte
 
-1.Click the "Mark" button in the toolbar to perform marking demonstrations on the canvas.
+1. Klicken Sie auf die "Markieren"-Schaltfläche in der Symbolleiste, um Markierungs-Demonstrationen auf der Leinwand durchzuführen.
 
-2.You can adjust the line Size and  colors.
+2. Sie können die Linienstärke und Farben anpassen.
 
-3.Additionally, you can set an automatic clearing time for the markings or manually clear them.
+3. Darüber hinaus können Sie eine automatische Löschzeit für die Markierungen einstellen oder sie manuell löschen.
 
-![Marking Function](imgs/marking_function1.png)
+![Markierungsfunktion](imgs/marking_function1.png)
 
-#### Tips
-The marking function is for demonstrations, and markings will be deleted when you exit the canvas. If you need to emphasize content and save it permanently, you can enter editing mode and use the pen tool for marking.
+#### Tipps
+Die Markierungsfunktion ist für Demonstrationen gedacht, und Markierungen werden beim Verlassen der Leinwand gelöscht. Wenn Sie Inhalte hervorheben und dauerhaft speichern müssen, können Sie in den Bearbeitungsmodus wechseln und das Stiftwerkzeug zum Markieren verwenden.

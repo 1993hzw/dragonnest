@@ -1,13 +1,13 @@
-[Benutzerhandbuch](/dragonnest/drawnote/manual/de) > [Datensicherung und -wiederherstellung](/dragonnest/drawnote/manual/de/daten_sicherung_und_wiederherstellung) >
+[Benutzerhandbuch](/dragonnest/drawnote/manual/de) > [Datenbackup und Wiederherstellung](/dragonnest/drawnote/manual/de/daten_backup_und_wiederherstellung) >
 
-Datensicherung
+Datenbackup
 ---
 #### Schritte
 
-1. Tippen Sie auf der Hauptseite auf „Ich“.
+1. Tippen Sie auf "Mein" auf der Hauptseite.
 
-2. Greifen Sie auf die Option „Sicherung & Wiederherstellen“ zu.
+2. Gehen Sie zur Option "Backup & Wiederherstellung".
 
-3. Klicken Sie auf „Sichern“, um eine sofortige Sicherung zu starten.
+3. Klicken Sie auf "Backup", um ein sofortiges Backup zu starten.
 
-![Datensicherung](imgs/data_backup1.png)
+![Datenbackup](imgs/data_backup.png)

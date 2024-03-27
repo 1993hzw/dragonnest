@@ -1,26 +1,26 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [To-Do List](/dragonnest/drawnote/manual/en/to_do) >
+[Benutzerhandbuch](/dragonnest/drawnote/manual/en) > [Aufgabenliste](/dragonnest/drawnote/manual/en/to_do) >
 
-Create a New To-Do Item
+Neues Aufgaben-Element erstellen
 ---
-#### Steps
+#### Schritte
 
-1. Navigate to the 'To-Do' page.
+1. Navigieren Sie zur 'Aufgaben'-Seite.
 
-2. Click the "+" button.
+2. Klicken Sie auf die Schaltfläche "+".
 
-3. Enter details such as the title, description, and other relevant information.
+3. Geben Sie Details wie den Titel, die Beschreibung und andere relevante Informationen ein.
 
-4. Tap the confirmation button on the top left to add a new to-do item.
+4. Tippen Sie auf die Bestätigungsschaltfläche oben links, um ein neues Aufgaben-Element hinzuzufügen.
 
 ![](imgs/create_a_new_to_do1.png)
 
-#### Tips
-1. To-Do Count - The number of pending tasks is displayed on the bottom tab bar.
+#### Tipps
+1. Aufgabenanzahl - Die Anzahl der ausstehenden Aufgaben wird in der unteren Registerkarte angezeigt.
 
-2. Pinning a To-Do Item - On the 'To-Do List' page, tap the "pin" button on the top right corner of an item to move important tasks to the top.
+2. Ein Aufgaben-Element anheften - Auf der Seite 'Aufgabenliste' tippen Sie auf die "Anheften"-Schaltfläche in der oberen rechten Ecke eines Elements, um wichtige Aufgaben nach oben zu verschieben.
 
 ![](imgs/create_a_new_to_do2.png)
 
-3. Move to the Front - In the 'New To-do' screen, tap the "Move to the Front" button at the bottom to position the task at the very top.
+3. Nach vorne verschieben - Im 'Neues To-do'-Bildschirm tippen Sie auf die Schaltfläche "Nach vorne verschieben" unten, um die Aufgabe ganz oben zu positionieren.
 
 ![](imgs/create_a_new_to_do3.png)

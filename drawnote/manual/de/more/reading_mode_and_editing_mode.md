@@ -1,30 +1,31 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [More](/dragonnest/drawnote/manual/en/more) >
+[Benutzerhandbuch](/dragonnest/drawnote/manual/en) > [Mehr](/dragonnest/drawnote/manual/en/more) >
 
-Reading Mode and Editing Mode
+Lesemodus und Bearbeitungsmodus
 ---
-Reading mode and Editing mode are two states of notes used to view and modify note content.
+Lesemodus und Bearbeitungsmodus sind zwei Zustände von Notizen, die verwendet werden, um Noteninhalt anzuzeigen und zu bearbeiten.
 
-#### Reading Mode
-- Select the note you want to view and click to enter reading mode.
+#### Lesemodus
+- Wählen Sie die Notiz aus, die Sie anzeigen möchten, und klicken Sie, um in den Lesemodus zu gelangen.
 
-- If you are currently editing a note, click the "√" icon in the upper left corner to switch to reading mode.
+- Wenn Sie derzeit eine Notiz bearbeiten, klicken Sie auf das Symbol "√" in der oberen linken Ecke, um in den Lesemodus zu wechseln.
 
-![Reading Mode and Editing Mode](imgs/reading_mode1.png)
+![Lesemodus und Bearbeitungsmodus](imgs/reading_mode1.png)
 
-#### Editing Mode
-- If you are currently reading a note, click the "Pen" icon in the lower right corner to switch to editing mode for note modification and editing.
+#### Bearbeitungsmodus
+- Wenn Sie derzeit eine Notiz lesen, klicken Sie auf das Symbol "Stift" in der unteren rechten Ecke, um in den Bearbeitungsmodus für die Notizbearbeitung zu wechseln.
 
-![Reading Mode and Editing Mode](imgs/editing_mode.png)
-In reading mode, you can:
+![Lesemodus und Bearbeitungsmodus](imgs/editing_mode.png)
 
-- View note content and zoom in or out for information.
+Im Lesemodus können Sie:
 
-- Jump to related notes for more information.
+- Noteninhalt anzeigen und für Informationen vergrößern oder verkleinern.
 
-- Click the web link icon to navigate to the related webpage.
+- Zu verwandten Notizen springen, um weitere Informationen zu erhalten.
 
-- View, save, or share images within the note.
+- Auf das Webseitenlink-Symbol klicken, um zur entsprechenden Webseite zu navigieren.
 
-- Click the "⋮" icon in the upper right corner for options like renaming, moving, deleting, exporting, and more.
+- Bilder innerhalb der Notiz anzeigen, speichern oder teilen.
 
-- Click the toolbar at the bottom for default view switching, marking, zooming, note switching, creating folders, and other operations.
+- Auf das Symbol "⋮" in der oberen rechten Ecke klicken, um Optionen wie Umbenennen, Verschieben, Löschen, Exportieren und mehr zu erhalten.
+
+- Klicken Sie auf die Symbolleiste unten für Standardansichtsumschaltung, Markierung, Zoomen, Notizumschaltung, Ordnererstellung und andere Operationen.

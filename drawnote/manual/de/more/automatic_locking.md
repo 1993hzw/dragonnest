@@ -2,17 +2,17 @@
 
 Auto Lock
 ---
-Auto lock refers to the application automatically locking after a period of inactivity.  To enhance privacy and data security, preventing unauthorized access.
+Auto Lock bezieht sich darauf, dass die Anwendung automatisch gesperrt wird, nachdem eine bestimmte Zeit lang keine Aktivität stattgefunden hat. Dies dient der Verbesserung der Privatsphäre und der Datensicherheit, um unbefugten Zugriff zu verhindern.
 
-#### Steps
+#### Schritte
 
-1. Tap "My" on the main page.
+1. Tippen Sie auf "Mein" auf der Hauptseite.
 
-2. Access settings.
+2. Gehen Sie zu den Einstellungen.
 
-3. Click on "Auto Lock & Privacy Lock."
+3. Klicken Sie auf "Automatische Sperre & Datenschutzsperre".
 
-4. Turn on the "Auto Lock" toggle and select the auto lock time.
+4. Aktivieren Sie den Schalter für "Auto Lock" und wählen Sie die Zeit für die automatische Sperre aus.
 
-![Automatic Locking 1](imgs/automatic_locking1.png)
-![Automatic Locking 2](imgs/auto_locking1.png)
+![Automatische Sperrung 1](imgs/automatic_locking.png)
+![Automatische Sperrung 2](imgs/auto_locking1.png)

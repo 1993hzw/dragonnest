@@ -2,11 +2,11 @@
 
 Highlighter Effect
 ---
-The highlighter effect can help you emphasize important information.
+Der Textmarker-Effekt kann Ihnen helfen, wichtige Informationen hervorzuheben.
 
-#### Steps
-1. On the Super Notes page, click the "Pen" button.
+#### Schritte
+1. Auf der Super-Notizen-Seite klicken Sie auf die Schaltfläche "Stift".
 
-2. In the pop-up menu, click the bottom button to change the brush color opacity to achieve the highlighter effect.
+2. In dem Popup-Menü klicken Sie auf die untere Schaltfläche, um die Pinsel-Farbsättigung zu ändern und den Textmarker-Effekt zu erzielen.
 
-![Highlighter Effect](imgs/highlighter_effect.png)
+![Textmarker-Effekt](imgs/highlighter_effect1.png)

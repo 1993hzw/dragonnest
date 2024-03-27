@@ -3,10 +3,10 @@
 Moving Node Positions
 ---
 
-There are two methods to move node positions:
+Es gibt zwei Methoden, um Knotenpositionen zu verschieben:
 
-- 1.Long-Press to Move - Select the node, long-press it, drag it to the new location, and release to complete the move.
+- 1. Lange drücken zum Verschieben - Wählen Sie den Knoten aus, drücken Sie lange darauf, ziehen Sie ihn an die neue Position und lassen Sie ihn los, um den Vorgang abzuschließen.
 
-- 2.Button to Move - Click the node, select the arrow button on the menu, and complete the node position move.
+- 2. Taste zum Verschieben - Klicken Sie auf den Knoten, wählen Sie die Pfeiltaste im Menü aus und vollenden Sie die Verschiebung der Knotenposition.
 
-![Move Node Positions](imgs/move_node_position1.jpg)
+![Verschieben von Knotenpositionen](imgs/move_node_position1.jpg)

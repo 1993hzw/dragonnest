@@ -1,12 +1,12 @@
 [User Manual](/dragonnest/drawnote/manual/en) > [More](/dragonnest/drawnote/manual/en/more) >
 
-Insert Timestamp
+Zeitstempel einfügen
 ---
-Inserting a timestamp makes it easy to record the time of your notes.
+Das Einfügen eines Zeitstempels erleichtert es Ihnen, die Zeit Ihrer Notizen zu protokollieren.
 
-#### Steps
-In text notes, swipe left and tap the "+" icon, then select "Insert Timestamp" and confirm.
+#### Schritte
+In Textnotizen wischen Sie nach links und tippen Sie auf das "+"-Symbol, wählen Sie dann "Zeitstempel einfügen" und bestätigen Sie.
 
-In Super Notes and Mind Mapping, select a text box, open the text menu, swipe left and tap the "+" icon, then choose "Insert Timestamp" and confirm.
+In Super-Notizen und Mind Mapping wählen Sie ein Textfeld, öffnen Sie das Textmenü, wischen Sie nach links und tippen Sie auf das "+"-Symbol, wählen Sie dann "Zeitstempel einfügen" und bestätigen Sie.
 
-![Insert Timestamp](imgs/insert_timestamp1.png)
+![Zeitstempel einfügen](imgs/insert_timestamp1.png)

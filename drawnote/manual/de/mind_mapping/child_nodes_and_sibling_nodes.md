@@ -1,11 +1,10 @@
 [User Manual](/dragonnest/drawnote/manual/en) > [Mind Mapping](/dragonnest/drawnote/manual/en/mind_mapping) >
 
-Difference Between Child Nodes and Sibling Nodes
+Unterschied zwischen Unter- und Geschwisterknoten
 ---
 
+Beim Mind Mapping sind "Unterknoten" und "Geschwisterknoten" zwei häufig verwendete Konzepte, um verschiedene Ebenen von Beziehungen und Verbindungen darzustellen:
 
-In mind mapping, "child nodes" and "sibling nodes" are two commonly used concepts to represent different levels of relationships and connections:
+- Unterknoten - Inhalt, der sich auf den aktuellen Knoten auf der nächsten Ebene bezieht und detaillierte Informationen liefert, wenn er erweitert wird.
 
-- Child nodes - Content related to the current node at the next level, providing detailed information when expanded.
-
-- Sibling nodes - Other nodes at the same level as the current node, sharing a similar hierarchy and importance.
+- Geschwisterknoten - Andere Knoten auf derselben Ebene wie der aktuelle Knoten, die eine ähnliche Hierarchie und Bedeutung teilen.

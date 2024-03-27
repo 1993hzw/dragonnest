@@ -1,13 +1,12 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [Folder](/dragonnest/drawnote/manual/en/folder) >
+[Benutzerhandbuch](/dragonnest/drawnote/manual/en) > [Ordner](/dragonnest/drawnote/manual/en/folder) >
 
-Select Multiple Folders or Notes
+Mehrere Ordner oder Notizen auswählen
 ---
 
-#### Steps
-1. On the "Folder" page, long-press a folder or note.
+#### Bedienungsschritte
+1. Tippen Sie auf "Ordner" auf der Hauptseite.
+2. Drücken Sie lange auf einen Ordner oder eine Notiz.
+3. Tippen Sie im Popup-Menü auf "Mehrere auswählen", um in den Mehrfachauswahlmodus zu gelangen.
+4. Wählen Sie die Ordner oder Notizen aus, die Sie ändern möchten, und führen Sie dann Stapelaktionen wie Verschieben oder Löschen durch.
 
-2. In the popup menu, click "Select Multiple" to enter multi-selection mode.
-
-3. Choose the folders or notes you want to modify and perform batch actions such as moving or deleting.
-
-![Select Multiple Folders or Notes](imgs/select_multiple_folders_or_notes1.png)
+![Mehrere Ordner oder Notizen auswählen](imgs/select_multiple_folders_or_notes.png)

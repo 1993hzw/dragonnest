@@ -1,11 +1,11 @@
-[User Manual](/dragonnest/drawnote/manual/en) >
+[Benutzerhandbuch](/dragonnest/drawnote/manual/en) >
 
-Text Note
+Textnotiz
 ---
-Text Note focuses on text recording, supporting rich text settings. You can adjust font, color, and even insert images.
+Die Textnotiz konzentriert sich auf die Textaufzeichnung und unterstützt umfangreiche Texteinstellungen. Sie können Schriftart, Farbe und sogar Bilder einfügen.
 
 - [Rich Text Style](rich_text_style.md)
 
-- [Page Settings](page_settings.md)
+- [Seiteneinstellungen](page_settings.md)
 
-- [Export as TXT](export_as_txt.md)
+- [Als TXT exportieren](export_as_txt.md)

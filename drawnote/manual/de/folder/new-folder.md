@@ -1,18 +1,18 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [Folder](/dragonnest/drawnote/manual/en/folder) >
+[Benutzerhandbuch](/dragonnest/drawnote/manual/en) > [Ordner](/dragonnest/drawnote/manual/en/folder) >
 
-Create New Folder
+Neuen Ordner erstellen
 ---
-#### Steps
+#### Schritte
 
-1. Tap "Folder" on the main page.
+1. Tippen Sie auf "Ordner" auf der Hauptseite.
 
-2. Click the "New Folder" button in the top right corner.
+2. Klicken Sie auf die Schaltfläche "Neuer Ordner" oben rechts.
 
-3. Enter the folder name.
+3. Geben Sie den Ordnernamen ein.
 
-4. Click the confirm button.
+4. Klicken Sie auf die Bestätigungsschaltfläche.
 
-![New Folder](imgs/new_folder1.png)
+![Neuer Ordner](imgs/new_folder1.png)
 
-#### Tips
-- You can choose the folder's color or customize the cover when creating or editing a folder.
+#### Tipps
+- Sie können die Farbe des Ordners auswählen oder das Cover beim Erstellen oder Bearbeiten eines Ordners anpassen.

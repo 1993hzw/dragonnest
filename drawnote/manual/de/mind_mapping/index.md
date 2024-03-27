@@ -3,12 +3,12 @@
 Mind Mapping
 ---
 
-Mind mapping helps you quickly capture ideas and organize knowledge, presenting complex concepts with a clear graphical structure.
+Mind Mapping hilft Ihnen, Ideen schnell zu erfassen und Wissen zu organisieren, komplexe Konzepte mit einer klaren grafischen Struktur darzustellen.
 
-- [Page Settings](page_settings.md)
+- [Seiteneinstellungen](page_settings.md)
 
-- [Borders and Line Styles](border_and_line_style.md)
+- [Rahmen und Linienstile](border_and_line_style.md)
 
-- [Difference Between Child Nodes and Sibling Nodes](child_nodes_and_sibling_nodes.md)
+- [Unterschied zwischen Unterknoten und Geschwisterknoten](child_nodes_and_sibling_nodes.md)
 
-- [Moving Node Positions](move_node_position.md)
+- [Verschieben von Knotenpositionen](move_node_position.md)

@@ -1,9 +1,9 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [FAQ](/dragonnest/drawnote/manual/en/q_a) >
+[Benutzerhandbuch](/dragonnest/drawnote/manual/en) > [FAQ](/dragonnest/drawnote/manual/en/q_a) >
 
-How can I prevent accidental touches with my fingers?
+Wie kann ich versehentliche Berührungen mit meinen Fingern verhindern?
 ---
-In the Super Note page, click the "⋮" More button in the upper right corner of the screen and enable Stylus Mode.
+Auf der Super Note-Seite klicken Sie auf die "⋮" Mehr-Schaltfläche in der oberen rechten Ecke des Bildschirms und aktivieren Sie den Stylus-Modus.
 
-Once in Stylus Mode, a "Disable Finger Touch" button will appear at the top of the page. You can click this button to prevent accidental touches with your fingers.
+Sobald sich im Stylus-Modus befinden, erscheint oben auf der Seite eine Schaltfläche "Fingerberührung deaktivieren". Sie können diese Schaltfläche anklicken, um versehentliche Berührungen mit den Fingern zu verhindern.
 
-![Stylus Mode](imgs/mistouch.png)
+![Stylus-Modus](imgs/mistouch.png)

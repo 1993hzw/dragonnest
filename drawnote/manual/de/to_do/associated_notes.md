@@ -1,11 +1,11 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [To-Do List](/dragonnest/drawnote/manual/en/to_do) >
+[Benutzerhandbuch](/dragonnest/drawnote/manual/en) > [Aufgabenliste](/dragonnest/drawnote/manual/en/to_do) >
 
-Associate Notes
+Verknüpfte Notizen
 ---
-You can choose to "Linking Notes" when creating a to-do item.
+Beim Erstellen eines Aufgaben-Elements können Sie wählen, "Notizen verknüpfen".
 
-This way, you can effortlessly navigate to the linked notes by simply clicking on the to-do item.
+Auf diese Weise können Sie einfach zu den verknüpften Notizen navigieren, indem Sie einfach auf das Aufgaben-Element klicken.
 
-Additionally, when viewing a note, you can see markers related to the to-do item, serving as reminders to complete the associated tasks.
+Zusätzlich können Sie beim Anzeigen einer Notiz Markierungen sehen, die sich auf das Aufgaben-Element beziehen, und diese dienen als Erinnerungen, um die zugehörigen Aufgaben zu erledigen.
 
 ![](imgs/associated_notes1.png)

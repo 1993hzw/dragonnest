@@ -1,24 +1,23 @@
-
 [User Manual](/dragonnest/drawnote/manual/en) > [Super Note](/dragonnest/drawnote/manual/en/super_note) >
 
-Associated Notes
+Verknüpfte Notizen
 ---
 
-The associated notes feature allows you to easily link related notes, enhancing the organization and search efficiency of your notes.
-#### Steps
+Das Feature für verknüpfte Notizen ermöglicht es Ihnen, problemlos verwandte Notizen zu verknüpfen und damit die Organisation und Sucheffizienz Ihrer Notizen zu verbessern.
+#### Schritte
 
-1. Click the "+" button in the toolbar.
+1. Klicken Sie auf die Schaltfläche "+" in der Symbolleiste.
 
-2. Click "Associated Notes" and select the note you want to link.
+2. Klicken Sie auf "Verknüpfte Notizen" und wählen Sie die Notiz aus, die Sie verknüpfen möchten.
 
-3. Name the associated note (optional).
+3. Benennen Sie die verknüpfte Notiz (optional).
 
-4. Click "Confirm" to add the linked note to the current note.
+4. Klicken Sie auf "Bestätigen", um die verknüpfte Notiz zur aktuellen Notiz hinzuzufügen.
 
 ![](imgs/associated_notes.png)
 
-#### Tips
+#### Tipps
 
-- Naming the associated notes helps in quicker search and management.
+- Das Benennen der verknüpften Notizen erleichtert die Suche und Verwaltung.
 
-- Using the "Chronological Order" or "Folder" filter can help in faster note selection.
+- Die Verwendung des "Chronologische Reihenfolge" oder "Ordner" Filters kann bei der schnelleren Auswahl von Notizen helfen.

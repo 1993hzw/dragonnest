@@ -1,16 +1,16 @@
 [Benutzerhandbuch](/dragonnest/drawnote/manual/de) >
 
-Datensicherung und -wiederherstellung
+Datenbackup und Wiederherstellung
 ---
 
-Mit der Funktion zur Datensicherung und -wiederherstellung können Sie kritische Informationen leicht schützen und unerwarteten Verlust vermeiden.
-Sie können zwischen „Cloud-Sicherung“ oder „lokaler Sicherung“ wählen.
-- [Datensicherung](datensicherung.md)
+Mit der Funktion für Datenbackup und -wiederherstellung können Sie wichtige Informationen problemlos sichern und unerwarteten Verlust vermeiden.
+Sie können zwischen "Cloud-Backup" oder "Lokalem Backup" wählen.
+- [Datenbackup](data_backup.md)
 
-- [Automatische Sicherung](automatische_sicherung.md)
+- [Automatisches Backup](automatic_backup.md)
 
-- [Datenwiederherstellung](datenwiederherstellung.md)
+- [Datenwiederherstellung](data_recovery.md)
 
-- [Sicherungsdaten verwalten](sicherungsdaten_verwalten.md)
+- [Verwalten von Backup-Daten](manage_backup_data.md)
 
 ![Eingang](imgs/entrance1.png)

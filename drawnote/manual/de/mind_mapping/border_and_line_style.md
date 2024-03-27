@@ -1,18 +1,18 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [Mind Mapping](/dragonnest/drawnote/manual/en/mind_mapping) >
+[Benutzerhandbuch](/dragonnest/drawnote/manual/en) > [Mind Mapping](/dragonnest/drawnote/manual/en/mind_mapping) >
 
-Borders and Line Styles
+Rahmen und Linienstile
 ---
-#### Steps
+#### Schritte
 
-1. Click on the node frame you want to set.
+1. Klicken Sie auf den Knotenrahmen, den Sie festlegen möchten.
 
-2. Click on the "Style" tab.
+2. Klicken Sie auf die Registerkarte "Stil".
 
-3. In the pop-up window, choose the desired style options, such as border shape, border color, fill color, line style, and line color.
+3. Wählen Sie in dem Popup-Fenster die gewünschten Stiloptionen aus, wie z. B. Rahmenform, Rahmenfarbe, Füllfarbe, Linienstil und Linienfarbe.
 
-![Borders and Line Styles](imgs/border_and_line_style.png)
+![Rahmen und Linienstile](imgs/border_and_line_style.png)
 
-#### Tips
-Click the blue double checkmarks on the right.   To apply the style to subnodes, sibling nodes, or both sibling and subnodes.
+#### Tipps
+Klicken Sie auf die blauen doppelten Häkchen rechts. Um den Stil auf Unter- oder Geschwisterknoten oder auf Unter- und Geschwisterknoten anzuwenden.
 
-![Borders and Line Styles](imgs/border_and_line_style1.png)
+![Rahmen und Linienstile](imgs/border_and_line_style1.png)

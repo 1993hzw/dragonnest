@@ -1,4 +1,4 @@
-[用户手册](/dragonnest/drawnote/manual/zh) > [更多](/dragonnest/drawnote/manual/en/more) >
+[User Manual](/dragonnest/drawnote/manual/en) > [More](/dragonnest/drawnote/manual/en/more) >
 
 Add Desktop Widget
 ---

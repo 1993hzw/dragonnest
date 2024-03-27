@@ -2,15 +2,15 @@
 
 Font Library
 ---
-The font library can save your commonly used fonts. Allow you to freely choose the appropriate font style in text notes or text box.
-#### Steps
-1. Tap "My" on the main page.
+Die Schriftbibliothek kann Ihre häufig verwendeten Schriftarten speichern. Sie ermöglicht es Ihnen, den geeigneten Schriftstil frei in Textnotizen oder Textfeldern zu wählen.
+#### Schritte
+1. Tippen Sie auf "Mein" auf der Hauptseite.
 
-2. Access the font library.
+2. Greifen Sie auf die Schriftbibliothek zu.
 
-3. Click "Load Font" and select a font file for import.
+3. Klicken Sie auf "Schrift laden" und wählen Sie eine Schriftdatei zum Importieren aus.
 
-![Font Library](imgs/font_library.png)
+![Schriftbibliothek](imgs/font_library.png)
 
-#### Tips
-You can download the fonts you want from this website: https://www.fontspace.com/commercial-fonts
+#### Tipps
+Sie können die gewünschten Schriftarten von dieser Website herunterladen: https://www.fontspace.com/commercial-fonts

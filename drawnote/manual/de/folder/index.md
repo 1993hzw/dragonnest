@@ -1,14 +1,14 @@
-[User Manual](/dragonnest/drawnote/manual/en) >
+[Benutzerhandbuch](/dragonnest/drawnote/manual/de) >
 
-Folders
+Ordner
 ---
 
-Folders provide an effective way to categorize and manage your notes. You can organize your notes by topic, time, location, and more for easy retrieval and use.
+Ordner bieten eine effektive Möglichkeit, Ihre Notizen zu kategorisieren und zu verwalten. Sie können Ihre Notizen nach Thema, Zeit, Ort und mehr organisieren, um sie leicht abzurufen und zu verwenden.
 
-- [Create New Folders](new-folder.md)
+- [Neue Ordner erstellen](new-folder.md)
 
-- [Sort Folders](sort_folders.md)
+- [Ordner sortieren](sort_folders.md)
 
-- [Select Multiple Folders or Notes](select_multiple_folders_or_notes.md)
+- [Mehrere Ordner oder Notizen auswählen](select_multiple_folders_or_notes.md)
 
-- [List Style](list_style.md)
+- [Listenstil](list_style.md)
