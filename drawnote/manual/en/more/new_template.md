@@ -3,7 +3,8 @@
 Creating Templates
 ---
 By creating templates, you can automatically apply the configuration of the template when creating a new note, such as background color, font size, font color, and other common settings.
-### Operation Guide
+
+### Steps
 1. On the app's homepage, tap the "+" icon in the bottom right corner.
 2. Tap "Template Library".
 3. Select "New Template" after the desired note type.

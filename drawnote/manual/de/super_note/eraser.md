@@ -1,24 +1,24 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [Super Note](/dragonnest/drawnote/manual/en/super_note) >
+[Benutzerhandbuch](/dragonnest/drawnote/manual/de) > [Super-Notiz](/dragonnest/drawnote/manual/de/super_note) >
 
-Eraser
+Radierer
 ---
-The eraser feature offers multiple modes for various use cases.
-#### Steps
+Die Radierer-Funktion bietet mehrere Modi für verschiedene Anwendungsfälle.
+#### Schritte
 
-Click the "Eraser" button in the toolbar.
+Klicken Sie auf die Schaltfläche "Radierer" in der Symbolleiste.
 
-- Normal Mode - Utilizes mask technology to realistically simulate the eraser effect. Can erase various elements such as lines, text, and images. This mode creates erasure marks, allowing users to select erased elements.
-
-
-- Fill Mode - Similar to the normal mode but can quickly erase a fan-shaped area.
+- Normalmodus - Verwendet Maskentechnologie, um den Radierer-Effekt realistisch zu simulieren. Kann verschiedene Elemente wie Linien, Text und Bilder löschen. In diesem Modus werden Radierungszeichen erstellt, die es Benutzern ermöglichen, gelöschte Elemente auszuwählen.
 
 
-- Cutting Mode - Splits elements into multiple independent parts, only applicable to lines and some geometric shapes. This mode leaves no trace after erasing.
+- Füllmodus - Ähnlich wie der Normalmodus, kann jedoch schnell einen fächerförmigen Bereich löschen.
 
 
-- Selection Mode - Directly deletes the selected entire element and supports setting filter criteria. This mode leaves no trace after erasing.
+- Schneidmodus - Teilt Elemente in mehrere unabhängige Teile auf, nur anwendbar auf Linien und einige geometrische Formen. Dieser Modus hinterlässt nach dem Löschen keine Spuren.
+
+
+- Auswahlmodus - Löscht das ausgewählte gesamte Element direkt und unterstützt das Festlegen von Filterkriterien. Dieser Modus hinterlässt nach dem Löschen keine Spuren.
 
 ![](imgs/eraser.png)
 
-#### Tips
-- Click "Clear All" to empty the entire canvas.
+#### Hinweis
+- Klicken Sie auf "Alle löschen", um die gesamte Leinwand zu leeren.

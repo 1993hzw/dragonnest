@@ -1,10 +1,10 @@
 [User Manual](/dragonnest/drawnote/manual/en) > [More](/dragonnest/drawnote/manual/en/more) >
 
-Font Library
+Schriftartenbibliothek
 ---
 Die Schriftbibliothek kann Ihre häufig verwendeten Schriftarten speichern. Sie ermöglicht es Ihnen, den geeigneten Schriftstil frei in Textnotizen oder Textfeldern zu wählen.
 #### Schritte
-1. Tippen Sie auf "Mein" auf der Hauptseite.
+1. Tippen Sie auf "lch" auf der Hauptseite.
 
 2. Greifen Sie auf die Schriftbibliothek zu.
 
@@ -12,5 +12,5 @@ Die Schriftbibliothek kann Ihre häufig verwendeten Schriftarten speichern. Sie 
 
 ![Schriftbibliothek](imgs/font_library.png)
 
-#### Tipps
+#### Hinweis
 Sie können die gewünschten Schriftarten von dieser Website herunterladen: https://www.fontspace.com/commercial-fonts

@@ -10,7 +10,7 @@ Während der Aufnahme oder Wiedergabe klicken Sie auf die "Marker"-Schaltfläche
 
 ![](imgs/audio_marker.png)
 
-#### Tipps
+#### Hinweis
 
 1. **Audio-Geschwindigkeit anpassen und Marker hinzufügen** - Einfach in der Symbolleiste durchführbar.
 

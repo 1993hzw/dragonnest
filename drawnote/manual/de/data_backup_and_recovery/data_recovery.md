@@ -4,9 +4,9 @@ Datenwiederherstellung
 ---
 #### Schritte
 
-1. Tippen Sie auf "Mein" auf der Hauptseite.
+1. Tippen Sie auf "lch" auf der Hauptseite.
 
-2. Gehen Sie zur Option "Backup & Wiederherstellung".
+2. Gehen Sie zur Option "Sichern & Wiederherstellen".
 
 3. Klicken Sie auf einen Dateieintrag, um eine Sicherungsdatei auszuwählen.
 
@@ -16,7 +16,7 @@ Datenwiederherstellung
 
 ![Datenwiederherstellung](imgs/data_recovery1.png)
 
-#### Tipps
+#### Hinweis
 Beim Wiederherstellen von Backup-Daten gibt es drei Strategien zur Auswahl:
 
 - Gleiche Notizen überschreiben - Ersetzen Sie die aktuellen Notizen durch den Inhalt der Sicherung.

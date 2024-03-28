@@ -1,11 +1,11 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [Super Note](/dragonnest/drawnote/manual/en/super_note) >
+[Benutzerhandbuch](/dragonnest/drawnote/manual/en) > [Super-Notiz](/dragonnest/drawnote/manual/en/super_note) >
 
-Move Toolbar
+Symbolleiste verschieben
 ---
-#### Steps
+#### Schritte
 
-1. Click the "⋮" button in the top right corner of the canvas.
+1. Klicken Sie auf die Schaltfläche "⋮" in der oberen rechten Ecke der Leinwand.
 
-2. Choose the toolbar position: "Move Toolbar to the Bottom" or "Move Toolbar to the Top".
+2. Wählen Sie die Position der Symbolleiste aus: "Symbolleiste nach unten verschieben" oder "Symbolleiste nach oben verschieben".
 
 ![](imgs/move_toolbar1.png)

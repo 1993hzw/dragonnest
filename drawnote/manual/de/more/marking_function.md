@@ -14,5 +14,5 @@ Die Markierungsfunktion hilft Ihnen, Schlüsselpunkte hervorzuheben und Aufmerks
 
 ![Markierungsfunktion](imgs/marking_function1.png)
 
-#### Tipps
+#### Hinweis
 Die Markierungsfunktion ist für Demonstrationen gedacht, und Markierungen werden beim Verlassen der Leinwand gelöscht. Wenn Sie Inhalte hervorheben und dauerhaft speichern müssen, können Sie in den Bearbeitungsmodus wechseln und das Stiftwerkzeug zum Markieren verwenden.

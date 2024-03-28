@@ -1,6 +1,6 @@
 [Benutzerhandbuch](/dragonnest/drawnote/manual/en) > [FAQ](/dragonnest/drawnote/manual/en/q_a) >
 
-Wie kann ich versehentliche Berührungen mit meinen Fingern verhindern?
+Wie kann ich versehentliche Berührungen mit lchen Fingern verhindern?
 ---
 Auf der Super Note-Seite klicken Sie auf die "⋮" Mehr-Schaltfläche in der oberen rechten Ecke des Bildschirms und aktivieren Sie den Stylus-Modus.
 

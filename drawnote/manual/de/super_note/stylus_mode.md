@@ -1,14 +1,14 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [Super Note](/dragonnest/drawnote/manual/en/super_note) >
+[Benutzerhandbuch](/dragonnest/drawnote/manual/en) > [Super-Notiz](/dragonnest/drawnote/manual/en/super_note) >
 
-Stylus Mode
+Stiftmodus
 ---
 
-#### Steps
+#### Schritte
 
-1. Within the Super Note page, tap the "⋮" more button located at the top right of the screen.
-2. Check the Stylus Mode option to activate.
+1. Tippen Sie innerhalb der Super-Notizseite auf die Schaltfläche "⋮" Mehr, die sich oben rechts auf dem Bildschirm befindet.
+2. Aktivieren Sie die Option Stiftmodus.
    ![](imgs/stylus_mode1.png)
 
-#### Tip
-- Before entering Stylus Mode, please ensure that the stylus is successfully connected.
-- After activating Stylus Mode, an icon indicating "No finger touch" will be displayed at the top of the page. You can tap this icon to prevent unintentional touches by the fingers.
+#### Tipp
+- Stellen Sie vor dem Betreten des Stiftmodus sicher, dass der Stift erfolgreich verbunden ist.
+- Nach Aktivierung des Stiftmodus wird oben auf der Seite ein Symbol mit der Aufschrift "Keine Fingerberührung" angezeigt. Sie können auf dieses Symbol tippen, um unbeabsichtigte Berührungen durch die Finger zu verhindern.

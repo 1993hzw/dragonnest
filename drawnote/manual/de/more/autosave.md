@@ -1,23 +1,23 @@
 [User Manual](/dragonnest/drawnote/manual/en) > [More](/dragonnest/drawnote/manual/en/more) >
 
-Auto Save
+Automatisch speichern
 ---
-Auto Save verhindert versehentlichen Datenverlust.
+Automatisch speichern verhindert versehentlichen Datenverlust.
 
 #### Schritte
 
-1. Tippen Sie auf "Mein" auf der Hauptseite.
+1. Tippen Sie auf "lch" auf der Hauptseite.
 
 2. Gehen Sie zu den Einstellungen.
 
-3. Klicken Sie auf die Schaltfläche "Auto Save".
+3. Klicken Sie auf die Schaltfläche "Automatisch speichern".
 
-4. Aktivieren Sie den Schalter und wählen Sie die Auto-Save-Zeit aus.
+4. Aktivieren Sie den Schalter und wählen Sie die Automatisches Speichern von bearbeiteten Notizen aus.
 
-![Auto Save 1](imgs/autosave.png)
-![Auto Save 2](imgs/autosave1.png)
+![Automatisch speichern 1](imgs/autosave.png)
+![Automatisch speichern 2](imgs/autosave1.png)
 
-#### Tipps
+#### Hinweis
 - Anpassbare Reaktion auf das Klicken der Zurück-Taste während der Bearbeitung. Reaktionsmethoden umfassen: Erneut klicken, um die Bearbeitung zu beenden, Nach Bestätigung fragen, Bearbeitung beenden und speichern.
 
-  ![Auto Save 3](imgs/autosave2.png)
+  ![Automatisch speichern 3](imgs/autosave2.png)

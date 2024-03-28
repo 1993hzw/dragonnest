@@ -16,7 +16,7 @@ Tippen Sie auf dem Startbildschirm der App auf das "+"-Symbol in der unteren rec
 
 ![Eine neue Notiz erstellen](imgs/new_note1.png)
 
-#### Tipps
+#### Hinweis
 
 - Wenn Sie auf das "+"-Symbol im Abschnitt 'Ordner' tippen, um eine neue Notiz zu erstellen, wird die Notiz automatisch unter dem aktuellen Ordner kategorisiert.
 

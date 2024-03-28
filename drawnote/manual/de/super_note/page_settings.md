@@ -1,27 +1,27 @@
 [User Manual](/dragonnest/drawnote/manual/en) > [Super Note](/dragonnest/drawnote/manual/en/super_note) >
 
-Page Settings
+Seiteneinstellungen
 ---
-You can configure the orientation, size, background color, and lines of the canvas.
+Sie können die Ausrichtung, Größe, Hintergrundfarbe und Linien der Leinwand konfigurieren.
 
-#### Steps
+#### Schritte
 
-Click on the "Page Settings" button in the toolbar.
+Klicken Sie auf die Schaltfläche "Seiteneinstellungen" in der Symbolleiste.
 
 ![](imgs/page_settings1.png)
 
-#### Infinite Canvas
+#### Unendliche Leinwand
 
-We offer three infinite canvas orientations to cater to your specific needs and preferences:
+Wir bieten drei Ausrichtungen für unendliche Leinwände an, um Ihren spezifischen Bedürfnissen und Vorlieben gerecht zu werden:
 
-- Infinite - Expands infinitely in both horizontal and vertical directions, with a zoom range of 0.02x--200x.
-- Horizontal Infinite - Expands infinitely in the horizontal direction with a zoom range of 0.2x--1x.
-- Vertical Infinite - Expands infinitely in the vertical direction with a zoom range of 0.2x--1x.
+- Unendlich - Dehnt sich unendlich in beide horizontalen und vertikalen Richtungen aus, mit einem Zoom-Bereich von 0,02x bis 200x.
+- Horizontal unendlich - Dehnt sich unendlich in horizontaler Richtung aus mit einem Zoom-Bereich von 0,2x bis 1x.
+- Vertikal unendlich - Dehnt sich unendlich in vertikaler Richtung aus mit einem Zoom-Bereich von 0,2x bis 1x.
 
-#### Canvas Size
+#### Leinwandgröße
 
-Click on "Size Ratio" to choose sizes like A4, A3, or customize the dimensions as per your requirement.
+Klicken Sie auf "Größenverhältnis", um Größen wie A4, A3 auszuwählen oder die Abmessungen nach Ihren Anforderungen anzupassen.
 
-#### Canvas Background and Note Lines
+#### Leinwandhintergrund und Notenlinien
 
-Adjust the background color, select the line style that suits your needs, and avail a variety of note templates to help you better organize and document your content.
+Passen Sie die Hintergrundfarbe an, wählen Sie den Linienstil aus, der Ihren Anforderungen entspricht, und nutzen Sie eine Vielzahl von Notizvorlagen, um Ihnen bei der besseren Organisation und Dokumentation Ihres Inhalts zu helfen.

@@ -4,10 +4,10 @@ Datenbackup und Wiederherstellung
 ---
 
 Mit der Funktion für Datenbackup und -wiederherstellung können Sie wichtige Informationen problemlos sichern und unerwarteten Verlust vermeiden.
-Sie können zwischen "Cloud-Backup" oder "Lokalem Backup" wählen.
+Sie können zwischen "Cloud-Sicherung" oder "Lokale Sicherung" wählen.
 - [Datenbackup](data_backup.md)
 
-- [Automatisches Backup](automatic_backup.md)
+- [Automatische Sicherung](automatic_backup.md)
 
 - [Datenwiederherstellung](data_recovery.md)
 

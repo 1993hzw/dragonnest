@@ -2,9 +2,9 @@
 
 DragonNest hat die DrawNote App als kostenlose App entwickelt. Dieser Dienst wird von DragonNest kostenlos zur Verfügung gestellt und ist zur Verwendung wie sie ist gedacht.
 
-Diese Seite dient dazu, Besucher über meine Richtlinien bezüglich der Sammlung, Nutzung und Offenlegung von persönlichen Informationen zu informieren, falls sich jemand entscheidet, meinen Dienst zu nutzen.
+Diese Seite dient dazu, Besucher über lche Richtlinien bezüglich der Sammlung, Nutzung und Offenlegung von persönlichen Informationen zu informieren, falls sich jemand entscheidet, lchen Dienst zu nutzen.
 
-Wenn Sie sich für die Nutzung meines Dienstes entscheiden, stimmen Sie der Sammlung und Nutzung von Informationen gemäß dieser Richtlinie zu. Die von mir gesammelten persönlichen Informationen werden zur Bereitstellung und Verbesserung des Dienstes verwendet. Ich werde Ihre Informationen mit niemandem teilen, außer wie in dieser Datenschutzrichtlinie beschrieben.
+Wenn Sie sich für die Nutzung lches Dienstes entscheiden, stimmen Sie der Sammlung und Nutzung von Informationen gemäß dieser Richtlinie zu. Die von mir gesammelten persönlichen Informationen werden zur Bereitstellung und Verbesserung des Dienstes verwendet. Ich werde Ihre Informationen mit niemandem teilen, außer wie in dieser Datenschutzrichtlinie beschrieben.
 
 Die in dieser Datenschutzrichtlinie verwendeten Begriffe haben dieselbe Bedeutung wie in unseren Geschäftsbedingungen, die unter DrawNote zugänglich sind, sofern sie nicht in dieser Datenschutzrichtlinie anders definiert sind.
 
@@ -23,7 +23,7 @@ Link zur Datenschutzrichtlinie der von der App verwendeten Drittanbieter-Dienste
 
 **Log-Daten**
 
-Ich möchte Sie informieren, dass ich, wenn immer Sie meinen Dienst nutzen, im Falle eines Fehlers in der App Daten und Informationen (durch Produkte Dritter) auf Ihrem Telefon sammle, die als Log-Daten bezeichnet werden. Diese Log-Daten können Informationen wie Ihre Geräte-Internetprotokoll-Adresse („IP“), Gerätenamen, Betriebssystemversion, die Konfiguration der App bei Nutzung meines Dienstes, die Zeit und das Datum Ihrer Nutzung des Dienstes und andere Statistiken enthalten.
+Ich möchte Sie informieren, dass ich, wenn immer Sie lchen Dienst nutzen, im Falle eines Fehlers in der App Daten und Informationen (durch Produkte Dritter) auf Ihrem Telefon sammle, die als Log-Daten bezeichnet werden. Diese Log-Daten können Informationen wie Ihre Geräte-Internetprotokoll-Adresse („IP“), Gerätenamen, Betriebssystemversion, die Konfiguration der App bei Nutzung lches Dienstes, die Zeit und das Datum Ihrer Nutzung des Dienstes und andere Statistiken enthalten.
 
 **Cookies**
 
@@ -64,7 +64,7 @@ Diese Richtlinie ist ab dem 06.12.2021 wirksam.
 
 **Kontaktieren Sie uns**
 
-Wenn Sie Fragen oder Vorschläge zu meiner Datenschutzrichtlinie haben, zögern Sie nicht, mich unter dragonnestapp@gmail.com zu kontaktieren.
+Wenn Sie Fragen oder Vorschläge zu lcher Datenschutzrichtlinie haben, zögern Sie nicht, mich unter dragonnestapp@gmail.com zu kontaktieren.
 
 ----
 [English](https://1993hzw.github.io/dragonnest/drawnote/privacy_policy)

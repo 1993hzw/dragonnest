@@ -1,22 +1,22 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [Super Note](/dragonnest/drawnote/manual/en/super_note) >
+[Benutzerhandbuch](/dragonnest/drawnote/manual/de) > [Super-Notiz](/dragonnest/drawnote/manual/de/super_note) >
 
-Insert Pictures
+Bilder einfügen
 ---
-#### Steps
+#### Schritte
 
-1. Click the "Picture" button in the toolbar.
+1. Klicken Sie auf die Schaltfläche "Bild" in der Symbolleiste.
 
-2. Tap or swipe an area of the screen to insert pictures.
+2. Tippen Sie auf einen Bereich des Bildschirms, um Bilder einzufügen.
 
 ![](imgs/insert_pictures.png)
 
-#### Tips
-- After selecting a picture, the bottom toolbar provides editing options, such as Rotation, Shape, and Transparency.
+#### Hinweis
+- Nach Auswahl eines Bildes bietet die untere Symbolleiste Bearbeitungsoptionen wie Drehung, Form und Transparenz.
 
 
-- You can combine the text feature to annotate the contents of the picture for a more detailed and accurate expression.
+- Sie können die Textfunktion verwenden, um den Inhalt des Bildes für einen detaillierteren und genaueren Ausdruck zu annotieren.
 
 
-- Click on the picture to resize it.
+- Klicken Sie auf das Bild, um es zu verkleinern.
 
 ![](imgs/insert_pictures1.png)

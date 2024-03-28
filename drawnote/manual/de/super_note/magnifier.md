@@ -1,11 +1,10 @@
-[用户手册](/dragonnest/drawnote/manual/zh) > [超级笔记](/dragonnest/drawnote/manual/zh/super_note) >
+[Benutzerhandbuch](/dragonnest/drawnote/manual/en) > [Super-Notiz](/dragonnest/drawnote/manual/en/super_note) >
 
-Magnifier
+Lupe
 ---
-The magnifying glass function can help you view and edit note content more conveniently. Especially when working with small fonts or detailed graphics. It can enlarge text and pictures and provide accurate positioning and convenient operation.
-#### Steps
+Die Lupe-Funktion kann Ihnen helfen, Notizen bequemer anzuzeigen und zu bearbeiten. Besonders nützlich ist dies bei der Arbeit mit kleinen Schriftarten oder detaillierten Grafiken. Sie kann Text und Bilder vergrößern und eine präzise Positionierung sowie eine bequeme Bedienung ermöglichen.
+#### Schritte
 
-On the Super Notes page, click the Magnifier glass button on the toolbar.
+Auf der Seite "Super Notes" klicken Sie auf die Lupen-Schaltfläche in der Symbolleiste.
 
 ![](imgs/magnifier.png)
-

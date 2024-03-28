@@ -16,7 +16,7 @@ Das Feature für verknüpfte Notizen ermöglicht es Ihnen, problemlos verwandte 
 
 ![](imgs/associated_notes.png)
 
-#### Tipps
+#### Hinweis
 
 - Das Benennen der verknüpften Notizen erleichtert die Suche und Verwaltung.
 

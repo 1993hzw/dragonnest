@@ -1,15 +1,15 @@
 [Benutzerhandbuch](/dragonnest/drawnote/manual/de) > [Datenbackup und Wiederherstellung](/dragonnest/drawnote/manual/de/daten_backup_und_wiederherstellung) >
 
-Automatisches Backup
+Automatische Sicherung
 ---
 #### Schritte
 
-1. Tippen Sie auf "Mein" auf der Hauptseite.
+1. Tippen Sie auf "lch" auf der Hauptseite.
 
-2. Gehen Sie zur Option "Backup & Wiederherstellung".
+2. Gehen Sie zur Option "Sichern & Wiederherstellen".
 
-3. Wählen Sie die Option "Automatisches Backup".
+3. Wählen Sie die Option "Automatische Sicherung".
 
-4. Aktivieren Sie den Schalter für "Automatisches Backup" und wählen Sie das Backup-Intervall aus. Um Ihre Daten zu schützen und sich auf unvorhergesehene Umstände vorzubereiten.
+4. Aktivieren Sie den Schalter für "Automatische Sicherung" und wählen Sie das Backup-Intervall aus. Um Ihre Daten zu schützen und sich auf unvorhergesehene Umstände vorzubereiten.
 
-![Automatisches Backup](imgs/automatic_backup1.png)
+![Automatische Sicherung](imgs/automatic_backup1.png)

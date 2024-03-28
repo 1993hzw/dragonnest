@@ -4,10 +4,10 @@ Datenbackup
 ---
 #### Schritte
 
-1. Tippen Sie auf "Mein" auf der Hauptseite.
+1. Tippen Sie auf "lch" auf der Hauptseite.
 
-2. Gehen Sie zur Option "Backup & Wiederherstellung".
+2. Gehen Sie zur Option "Sichern & Wiederherstellen".
 
-3. Klicken Sie auf "Backup", um ein sofortiges Backup zu starten.
+3. Klicken Sie auf "Sichern", um ein sofortiges Sichern zu starten.
 
 ![Datenbackup](imgs/data_backup.png)

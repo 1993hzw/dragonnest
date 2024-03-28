@@ -14,7 +14,7 @@ Neues Aufgaben-Element erstellen
 
 ![](imgs/create_a_new_to_do1.png)
 
-#### Tipps
+#### Hinweis
 1. Aufgabenanzahl - Die Anzahl der ausstehenden Aufgaben wird in der unteren Registerkarte angezeigt.
 
 2. Ein Aufgaben-Element anheften - Auf der Seite 'Aufgabenliste' tippen Sie auf die "Anheften"-Schaltfläche in der oberen rechten Ecke eines Elements, um wichtige Aufgaben nach oben zu verschieben.

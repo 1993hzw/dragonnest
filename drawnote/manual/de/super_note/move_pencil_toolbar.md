@@ -1,21 +1,21 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [Super Note](/dragonnest/drawnote/manual/en/super_note) >
+[Benutzerhandbuch](/dragonnest/drawnote/manual/en) > [Super-Notiz](/dragonnest/drawnote/manual/en/super_note) >
 
-Move Pencil Toolbar
+Verschieben der Stiftsymbolleiste
 ---
 
-You can adjust the pencil toolbar's horizontal or vertical position on the canvas, allowing for easy up-down or left-right movement.
+Sie können die horizontale oder vertikale Position der Stiftsymbolleiste auf der Leinwand anpassen, um einfache Auf- und Abbewegungen oder Links-Rechts-Bewegungen zu ermöglichen.
 
-#### Steps
+#### Schritte
 
-1. In the Pen Case, select "Toolbar Style".
+1. Wählen Sie im Stiftetui "Symbolleistenstil" aus.
 
-2. Choose horizontal or vertical alignment.
+2. Wählen Sie die horizontale oder vertikale Ausrichtung.
 
-3. Check to confirm.
+3. Bestätigen Sie Ihre Auswahl.
 
 ![](imgs/move_pencil_toolbar1.png)
 
-#### Tips
-- Hold the circular button on the pencil toolbar to drag and adjust its position.
+#### Hinweis
+- Halten Sie die kreisförmige Taste auf der Stiftsymbolleiste gedrückt, um ihre Position zu ziehen und anzupassen.
 
 ![](imgs/move_pencil_toolbar.png)

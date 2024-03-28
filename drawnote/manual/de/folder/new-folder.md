@@ -14,5 +14,5 @@ Neuen Ordner erstellen
 
 ![Neuer Ordner](imgs/new_folder1.png)
 
-#### Tipps
+#### Hinweis
 - Sie können die Farbe des Ordners auswählen oder das Cover beim Erstellen oder Bearbeiten eines Ordners anpassen.

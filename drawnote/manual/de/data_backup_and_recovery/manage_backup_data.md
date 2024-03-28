@@ -4,9 +4,9 @@ Verwalten von Backup-Daten
 ---
 #### Schritte
 
-1. Tippen Sie auf "Mein" auf der Hauptseite.
+1. Tippen Sie auf "lch" auf der Hauptseite.
 
-2. Gehen Sie zur Option "Backup & Wiederherstellung".
+2. Gehen Sie zur Option "Sichern & Wiederherstellen".
 
 3. Drücken Sie lange auf einen Dateieintrag, um Datenwiederherstellungsobjekte zu verwalten. Sie können Freigabe-, Umbenennungs- und Löschvorgänge durchführen.
 

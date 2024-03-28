@@ -12,7 +12,7 @@ Rahmen und Linienstile
 
 ![Rahmen und Linienstile](imgs/border_and_line_style.png)
 
-#### Tipps
+#### Hinweis
 Klicken Sie auf die blauen doppelten Häkchen rechts. Um den Stil auf Unter- oder Geschwisterknoten oder auf Unter- und Geschwisterknoten anzuwenden.
 
 ![Rahmen und Linienstile](imgs/border_and_line_style1.png)
