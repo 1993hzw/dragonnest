@@ -1,6 +1,6 @@
 DrawNote
 ------
-Willkommen bei DrawNote! Als multifunktionale integrierte Anwendung vereint DrawNote verschiedene Funktionen wie Notizen, Schreiben, Mind Mapping, To-Do-Listen, Handschrift und Zeichnen. Die Anwendung richtet sich an eine breite Palette von Benutzern in verschiedenen Bereichen. Dieses Handbuch bietet eine umfassende Anleitung zu allen Funktionen und Operationen von DrawNote und hilft Ihnen dabei, schnell einzusteigen.
+Willkommen bei DrawNote! Als multifunktionale integrierte Anwendung vereint DrawNote verschiedene Funktionen wie Notizen, Schreiben, Mind Mapping, Aufgaben, Handschrift und Zeichnen. Die Anwendung richtet sich an eine breite Palette von Benutzern in verschiedenen Bereichen. Dieses Handbuch bietet eine umfassende Anleitung zu allen Funktionen und Operationen von DrawNote und hilft Ihnen dabei, schnell einzusteigen.
 
 ### Benutzerhandbuch
 
