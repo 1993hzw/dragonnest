@@ -1,6 +1,6 @@
 [Benutzerhandbuch](/dragonnest/drawnote/manual/en) > [Mehr](/dragonnest/drawnote/manual/en/more) >
 
-Privatsperre
+Datenschutzsperre
 ---
 Mit der Privatsperre können Sie bestimmte Notizen und Ordner sperren.
 

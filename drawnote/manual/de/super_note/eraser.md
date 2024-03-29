@@ -1,13 +1,13 @@
 [Benutzerhandbuch](/dragonnest/drawnote/manual/de) > [Super-Notiz](/dragonnest/drawnote/manual/de/super_note) >
 
-Radierer
+Radiergummi
 ---
-Die Radierer-Funktion bietet mehrere Modi für verschiedene Anwendungsfälle.
+Die Radiergummi-Funktion bietet mehrere Modi für verschiedene Anwendungsfälle.
 #### Schritte
 
-Klicken Sie auf die Schaltfläche "Radierer" in der Symbolleiste.
+Klicken Sie auf die Schaltfläche "Radiergummi" in der Symbolleiste.
 
-- Normalmodus - Verwendet Maskentechnologie, um den Radierer-Effekt realistisch zu simulieren. Kann verschiedene Elemente wie Linien, Text und Bilder löschen. In diesem Modus werden Radierungszeichen erstellt, die es Benutzern ermöglichen, gelöschte Elemente auszuwählen.
+- Normaler Modus - Verwendet Maskentechnologie, um den Radiergummi-Effekt realistisch zu simulieren. Kann verschiedene Elemente wie Linien, Text und Bilder löschen. In diesem Modus werden Radierungszeichen erstellt, die es Benutzern ermöglichen, gelöschte Elemente auszuwählen.
 
 
 - Füllmodus - Ähnlich wie der Normalmodus, kann jedoch schnell einen fächerförmigen Bereich löschen.

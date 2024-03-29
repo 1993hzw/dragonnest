@@ -37,7 +37,7 @@ Drücken und halten Sie in der Stiftleiste den Stift, den Sie löschen möchten,
 
 #### Häufig verwendeten Stifthalter speichern
 
-Auf der Stifthalter-Seite klicken Sie auf die "⋮"-Schaltfläche in der oberen rechten Ecke und wählen Sie "Zur Stifthalterliste speichern". Geben Sie dann Ihren Stifthalter einen Namen und bestätigen Sie, um Ihren häufig verwendeten Stifthalter zu speichern.
+Auf der Stifthalter-Seite klicken Sie auf die "⋮"-Schaltfläche in der oberen rechten Ecke und wählen Sie "Ln Stifthalterliste speichern". Geben Sie dann Ihren Stifthalter einen Namen und bestätigen Sie, um Ihren häufig verwendeten Stifthalter zu speichern.
 
 ![](imgs/brush_function2.png)
 

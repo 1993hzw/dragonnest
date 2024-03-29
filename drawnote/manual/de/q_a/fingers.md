@@ -1,9 +1,9 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [FAQ](/dragonnest/drawnote/manual/en/q_a) >
+[Benutzerhandbuch](/dragonnest/drawnote/manual/en) > [FAQ](/dragonnest/drawnote/manual/en/q_a) >
 
-What should I do if I can't draw on the canvas with my finger?
+Was soll ich tun, wenn ich mit dem Finger nicht auf die Leinwand zeichnen kann?
 ---
-If you are unable to draw on the canvas with your finger, follow these steps to resolve the issue:
+Wenn Sie mit dem Finger nicht auf der Leinwand zeichnen können, befolgen Sie diese Schritte, um das Problem zu beheben:
 
-1. Click the "⋮" icon in the upper right corner to open the options menu.
+1. Klicken Sie auf das Symbol „⋮“ in der oberen rechten Ecke, um das Optionsmenü zu öffnen.
 
-2. Check if the "Stylus Mode" option is enabled. If it is enabled, uncheck it to restore finger drawing.
+2. Überprüfen Sie, ob die Option „Stiftmodus“ aktiviert ist. Wenn es aktiviert ist, deaktivieren Sie es, um das Fingerzeichnen wiederherzustellen.

@@ -7,19 +7,19 @@ Kombinieren Sie Handschrift, Zeichnungen, Text, Bilder, Aufnahmen, Tabellen, Min
 
 - [Symbolleiste verschieben](move_toolbar.md)
 
-- [Zeichenwerkzeug-Symbolleiste verschieben](move_pencil_toolbar.md)
+- [Verschieben der Stiftsymbolleiste](move_pencil_toolbar.md)
 
 - [Stiftmodus](stylus_mode.md)
 
 - [Seiteneinstellungen](page_settings.md)
 
-- [Pinselfunktion](brush_function.md)
+- [Stifthalter-Funktion](brush_function.md)
 
-- [Radierer](eraser.md)
+- [Radiergummi](eraser.md)
 
 - [Text einfügen](insert_text.md)
 
-- [Bild einfügen](insert_picture.md)
+- [Bilder einfügen](insert_picture.md)
 
 - [Mind Map einfügen](Insert_mind_map.md)
 
@@ -31,7 +31,7 @@ Kombinieren Sie Handschrift, Zeichnungen, Text, Bilder, Aufnahmen, Tabellen, Min
 
 - [Audio importieren](import_audio.md)
 
-- [Audio aufzeichnen](record_audio.md)
+- [Audio aufnehmen](record_audio.md)
 
 - [Audio-Marker](audio_marker.md)
 
@@ -39,4 +39,4 @@ Kombinieren Sie Handschrift, Zeichnungen, Text, Bilder, Aufnahmen, Tabellen, Min
 
 - [Auswahlmodus](select_mode.md)
 
-- [Leinwandansicht](canvas_view.md)
+- [Canvas Ansicht](canvas_view.md)

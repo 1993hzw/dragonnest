@@ -10,5 +10,5 @@ Die Canvas Ansicht ist die Benutzeroberfläche zum Anzeigen und Bearbeiten von N
 
 ![](imgs/canvas_view1.png)
 
-#### Zoom-Verhältnis sperren
-Nach dem Aktivieren von "Zoom-Verhältnis sperren" behält die Leinwand ihre aktuelle Zoomstufe bei und verhindert zoomen durch Gesten.
+#### Zoom-Faktor sperren
+Nach dem Aktivieren von "Zoom-Faktor sperren" behält die Leinwand ihre aktuelle Zoomstufe bei und verhindert zoomen durch Gesten.

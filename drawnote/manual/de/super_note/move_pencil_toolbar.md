@@ -7,7 +7,7 @@ Sie können die horizontale oder vertikale Position der Stiftsymbolleiste auf de
 
 #### Schritte
 
-1. Wählen Sie im Stiftetui "Symbolleistenstil" aus.
+1. Wählen Sie im Stifthalter "Symbolleistenstil" aus.
 
 2. Wählen Sie die horizontale oder vertikale Ausrichtung.
 

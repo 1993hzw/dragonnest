@@ -9,7 +9,7 @@ Der Auswahlmodus bietet verschiedene Auswahlwerkzeuge:
 
 - Rechteckauswahl - Wählt Elemente innerhalb des rechteckigen Bereichs aus.
 
-- Pfadauswahl - Wählt Elemente aus, die vom Pfad abgedeckt sind.
+- Pfad auswählen - Wählt Elemente aus, die vom Pfad abgedeckt sind.
 
 
 #### Schritte

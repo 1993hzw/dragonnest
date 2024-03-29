@@ -1,6 +1,6 @@
 [User Manual](/dragonnest/drawnote/manual/en) > [More](/dragonnest/drawnote/manual/en/more) >
 
-Highlighter Effect
+Textmarker-Effekt
 ---
 Der Textmarker-Effekt kann Ihnen helfen, wichtige Informationen hervorzuheben.
 

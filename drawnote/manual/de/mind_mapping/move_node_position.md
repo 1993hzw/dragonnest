@@ -1,6 +1,6 @@
 [User Manual](/dragonnest/drawnote/manual/en) > [Mind Mapping](/dragonnest/drawnote/manual/en/mind_mapping) >
 
-Moving Node Positions
+Verschieben von Knotenpositionen
 ---
 
 Es gibt zwei Methoden, um Knotenpositionen zu verschieben:

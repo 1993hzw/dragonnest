@@ -1,8 +1,8 @@
 [Benutzerhandbuch](/dragonnest/drawnote/manual/en) > [Aufgabenliste](/dragonnest/drawnote/manual/en/to_do) >
 
-Verknüpfte Notizen
+Verknüpfte Notiz
 ---
-Beim Erstellen eines Aufgaben-Elements können Sie wählen, "Notizen verknüpfen".
+Beim Erstellen eines Aufgaben-Elements können Sie wählen, "Verknüpfte Notiz".
 
 Auf diese Weise können Sie einfach zu den verknüpften Notizen navigieren, indem Sie einfach auf das Aufgaben-Element klicken.
 
