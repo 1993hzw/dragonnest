@@ -3,11 +3,9 @@
 更多
 ---
 
-- [閱讀模式和編輯模式](reading_mode_and_editing_mode.md)
-
 - [建立模板](new_template.md)
 
-- [字型庫](font_library.md)
+- [閱讀模式和編輯模式](reading_mode_and_editing_mode.md)
 
 - [螢光筆效果](highlighter_effect.md)
 
@@ -18,6 +16,10 @@
 - [插入時間戳](insert_timestamp.md)
 
 - [標記功能](marking_function.md)
+
+- [字型庫](font_library.md)
+
+- [深色模式和主題色切換](dark_mode_theme.md)
 
 - [自動儲存](autosave.md)
 

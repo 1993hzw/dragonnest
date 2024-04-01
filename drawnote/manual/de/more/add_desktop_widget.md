@@ -1,6 +1,6 @@
 [User Manual](/dragonnest/drawnote/manual/en) > [More](/dragonnest/drawnote/manual/en/more) >
 
-Add Desktop Widget
+Desktop-Widget hinzufügen
 ---
 Durch Hinzufügen von Desktop-Widgets auf den Hauptbildschirm Ihres Geräts können Sie Notizbearbeitungsfunktionen einfach und schnell aufrufen, ohne die Anwendung öffnen zu müssen.
 ### Operationsschritte

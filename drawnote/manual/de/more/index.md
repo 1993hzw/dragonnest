@@ -2,6 +2,7 @@
 
 Mehr
 ---
+- [Vorlagen erstellen](creating_templates.md)
 
 - [Lese- und Bearbeitungsmodus](reading_mode_and_editing_mode.md)
 
@@ -17,8 +18,12 @@ Mehr
 
 - [Markierungsfunktion](marking_function.md)
 
+- [Dark Mode und Themenwechsel](dark_mode_theme.md)
+
 - [Automatisches Speichern](autosave.md)
 
 - [Automatische Sperre](automatic_locking.md)
 
 - [Datenschutzsperre](privacy_lock.md)
+
+- [Desktop-Widget hinzufügen](add_desktop_widget.md)
