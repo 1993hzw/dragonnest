@@ -1,9 +1,9 @@
 [User Manual](/dragonnest/drawnote/manual/en) > [FAQ](/dragonnest/drawnote/manual/en/q_a) >
 
-How can I prevent accidental touches with my fingers?
+Come posso evitare tocchi accidentali con le dita?
 ---
-In the Super Note page, click the "⋮" More button in the upper right corner of the screen and enable Stylus Mode.
+Nella pagina di Super Note, clicca sull'icona "⋮" More nell'angolo in alto a destra dello schermo e abilita la Modalità Penna.
 
-Once in Stylus Mode, a "Disable Finger Touch" button will appear at the top of the page. You can click this button to prevent accidental touches with your fingers.
+Una volta in Modalità Penna, comparirà un pulsante "Disabilita Tocco con le Dita" nella parte superiore della pagina. Puoi cliccare su questo pulsante per evitare tocchi accidentali con le dita.
 
-![Stylus Mode](imgs/mistouch.png)
+![Modalità Penna](imgs/mistouch.png)

@@ -1,9 +1,9 @@
 [User Manual](/dragonnest/drawnote/manual/en) > [Text Note](/dragonnest/drawnote/manual/en/text_note) >
 
-Page Settings
+Impostazioni Pagina
 ---
-#### Operation Steps
+#### Passaggi Operativi
 
-Click on the "Page Settings" icon located at the bottom toolbar of the screen to bring up the page settings menu. You can define the page background, line style, line thickness, font margins, line spacing, and font style, among others.
+Fai clic sull'icona "Impostazioni Pagina" situata nella barra degli strumenti inferiore dello schermo per visualizzare il menu delle impostazioni della pagina. Puoi definire lo sfondo della pagina, lo stile delle linee, lo spessore delle linee, i margini del carattere, lo spaziatura delle linee e lo stile del carattere, tra gli altri.
 
 ![](imgs/page_settings1.png)

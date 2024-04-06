@@ -1,18 +1,18 @@
 [User Manual](/dragonnest/drawnote/manual/en) > [More](/dragonnest/drawnote/manual/en/more) >
 
-Auto Lock
+Blocco Automatico
 ---
-Auto lock refers to the application automatically locking after a period of inactivity.  To enhance privacy and data security, preventing unauthorized access.
+Il blocco automatico si riferisce all'applicazione che si blocca automaticamente dopo un periodo di inattività. Per migliorare la privacy e la sicurezza dei dati, impedendo l'accesso non autorizzato.
 
-#### Steps
+#### Passaggi
 
-1. Tap "My" on the main page.
+1. Tocca "Il mio" nella pagina principale.
 
-2. Access settings.
+2. Accedi alle impostazioni.
 
-3. Click on "Auto Lock & Privacy Lock."
+3. Clicca su "Blocco automatico & Blocco  Privacy".
 
-4. Turn on the "Auto Lock" toggle and select the auto lock time.
+4. Attiva il pulsante "Blocco automatico" e seleziona il tempo di blocco automatico.
 
-![Automatic Locking 1](imgs/automatic_locking.png)
-![Automatic Locking 2](imgs/auto_locking1.png)
+![Blocco Automatico 1](imgs/automatic_locking.png)
+![Blocco Automatico 2](imgs/auto_locking1.png)

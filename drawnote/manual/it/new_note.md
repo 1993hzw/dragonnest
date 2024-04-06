@@ -1,27 +1,27 @@
-[User Manual](/dragonnest/drawnote/manual/en) >
+[Manuale Utente](/dragonnest/drawnote/manual/it) >
 
-Create a New Note
+Creare un Nuovo Appunto
 ---
-DrawNote offers a variety of flexible note types to meet different user scenarios, including Super Note, Text Note, and Mind Mapping.
+DrawNote offre una varietà di tipi di appunti flessibili per soddisfare diverse situazioni degli utenti, tra cui Super Nota, Nota di Testo e Mappa Mentale.
 
-- Super Note- A comprehensive note that combines handwriting, drawing, text, images, audio recordings, tables, and mind maps. It allows you to fully express your creativity and artistic talent on a flexible canvas.
-
-
-- Text Note - Focused on text recording and supports rich text settings as well as image insertions, making your notes more diverse and visual.
+- Super Nota - Un appunto completo che combina scrittura a mano, disegno, testo, immagini, registrazioni audio, tabelle e mappe mentali. Ti consente di esprimere pienamente la tua creatività e il tuo talento artistico su una tela flessibile.
 
 
-- Mind Mapping - Helps you quickly capture ideas and organize knowledge, presenting complex concepts in a clear graphical structure.
+- Nota di Testo - Concentrato sulla registrazione di testo e supporta impostazioni di testo ricco così come inserimenti di immagini, rendendo i tuoi appunti più diversificati e visivi.
 
-#### Steps
 
-On the app's homepage, tap the "+" icon in the bottom right corner. Then, select the type of note you want to create to start your note.
+- Mappa Mentale - Ti aiuta a catturare rapidamente idee e organizzare conoscenze, presentando concetti complessi in una struttura grafica chiara.
 
-![Create a New Note](imgs/new_note1.png)
+#### Passaggi
 
-#### Tips
+Sulla homepage dell'app, tocca l'icona "+" nell'angolo in basso a destra. Quindi, seleziona il tipo di appunto che desideri creare per iniziare il tuo appunto.
 
-- When you tap the "+" button in the 'Folder' section to create a new note, the note will automatically be categorized under the current folder.
+![Creare un Nuovo Appunto](imgs/new_note1.png)
 
-- You can also utilize the shortcuts at the top of the menu to quickly access various creation interfaces within Super Note.
+#### Suggerimenti
 
-![Create a New Note](imgs/new_note2.png)
+- Quando tocchi il pulsante "+" nella sezione 'Cartelle' per creare un nuovo appunto, l'appunto verrà automaticamente categorizzato nella cartella corrente.
+
+- Puoi anche utilizzare le scorciatoie nella parte superiore del menu per accedere rapidamente a varie interfacce di creazione all'interno di Super Appunto.
+
+![Creare un Nuovo Appunto](imgs/new_note2.png)

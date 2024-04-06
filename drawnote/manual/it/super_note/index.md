@@ -1,42 +1,42 @@
-[User Manual](/dragonnest/drawnote/manual/en) >
+[Manuale Utente](/dragonnest/drawnote/manual/it) >
 
 Super Note
 ---
 
-Combine handwriting, drawings, text, images, recordings, tables, mind maps, and more, utilizing a flexible canvas to fully express your creativity and artistic talent.
+Combina scrittura a mano, disegni, testo, immagini, registrazioni, tabelle, mappe mentali e altro ancora, utilizzando una tela flessibile per esprimere pienamente la tua creatività e il tuo talento artistico.
 
-- [Move Toolbar](move_toolbar.md)
+- [Sposta la Barra degli Strumenti](move_toolbar.md)
 
-- [Move Pencil Toolbar](move_pencil_toolbar.md)
+- [Sposta la Barra degli Strumenti Penna](move_pencil_toolbar.md)
 
-- [Stylus Mode](stylus_mode.md)
+- [Modalità Penna](stylus_mode.md)
 
-- [Page Settings](page_settings.md)
+- [Impostazioni Pagina](page_settings.md)
 
-- [Brush Function](brush_function.md)
+- [Funzione Custodia per Penne](brush_function.md)
 
-- [Eraser](eraser.md)
+- [Gomma](eraser.md)
 
-- [Insert Text](insert_text.md)
+- [Inserisci Testo](insert_text.md)
 
-- [Insert Picture](insert_picture.md)
+- [Inserisci Immagine](insert_picture.md)
 
-- [Insert Mind Map](Insert_mind_map.md)
+- [Inserisci Mappa Mentale](Insert_mind_map.md)
 
-- [Insert Table](insert_table.md)
+- [Inserisci Tabella](insert_table.md)
 
-- [Insert Web Link](insert_web_link.md)
+- [Inserisci Collegamento Web](insert_web_link.md)
 
-- [Magnifier](magnifier.md)
+- [Ingranditore](magnifier.md)
 
-- [Import Audio](import_audio.md)
+- [Importa Audio](import_audio.md)
 
-- [Record Audio](record_audio.md)
+- [Registra Audio](record_audio.md)
 
-- [Audio Marker](audio_marker.md)
+- [Marcatore Audio](audio_marker.md)
 
-- [Associated Notes](associated_notes.md)
+- [Associate Nota](associated_notes.md)
 
-- [Select Mode](select_mode.md)
+- [Modalità Selezione](select_mode.md)
 
-- [Canvas View](canvas_view.md)
+- [Vista Tela](canvas_view.md)

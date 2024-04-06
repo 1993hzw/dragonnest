@@ -1,18 +1,18 @@
 [User Manual](/dragonnest/drawnote/manual/en) > [More](/dragonnest/drawnote/manual/en/more) >
 
-Marking Function
+Contrassegna Funzione
 ---
-The marking function helps you highlight key points and attract attention, suitable for teaching and presentations.
+La funzione di contrassegno ti aiuta a evidenziare i punti chiave e attirare l'attenzione, adatta per insegnamento e presentazioni.
 
-#### Steps
+#### Passaggi
 
-1.Click the "Mark" button in the toolbar to perform marking demonstrations on the canvas.
+1. Clicca sul pulsante "Contrassegna" nella barra degli strumenti per eseguire dimostrazioni di contrassegno sulla lavagna.
 
-2.You can adjust the line Size and  colors.
+2. Puoi regolare la dimensione della linea e i colori.
 
-3.Additionally, you can set an automatic clearing time for the markings or manually clear them.
+3. Inoltre, puoi impostare un tempo di cancellazione automatica per i contrassegni o cancellarli manualmente.
 
-![Marking Function](imgs/marking_function1.png)
+![Contrassegna Funzione](imgs/marking_function1.png)
 
-#### Tips
-The marking function is for demonstrations, and markings will be deleted when you exit the canvas. If you need to emphasize content and save it permanently, you can enter editing mode and use the pen tool for marking.
+#### Suggerimenti
+La funzione di contrassegno è per le dimostrazioni e i contrassegni verranno eliminati quando esci dalla lavagna. Se è necessario enfatizzare il contenuto e salvarlo permanentemente, è possibile entrare in modalità di modifica e utilizzare lo strumento penna per contrassegnarlo.

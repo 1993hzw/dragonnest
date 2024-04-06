@@ -1,16 +1,16 @@
 [User Manual](/dragonnest/drawnote/manual/en) > [More](/dragonnest/drawnote/manual/en/more) >
 
-Font Library
+Libreria Caratteri
 ---
-The font library can save your commonly used fonts. Allow you to freely choose the appropriate font style in text notes or text box.
-#### Steps
-1. Tap "My" on the main page.
+La libreria di caratteri può salvare i tuoi caratteri comunemente usati. Ti consente di scegliere liberamente lo stile del carattere appropriato nelle note di testo o nelle caselle di testo.
+#### Passaggi
+1. Tocca "Il mio" sulla schermata principale.
 
-2. Access the font library.
+2. Accedi alla libreria  caratteri.
 
-3. Click "Load Font" and select a font file for import.
+3. Clicca su "Carica carattere" e seleziona un file di carattere da importare.
 
-![Font Library](imgs/font_library.png)
+![Libreria di Caratteri](imgs/font_library.png)
 
-#### Tips
-You can download the fonts you want from this website: https://www.fontspace.com/commercial-fonts
+#### Suggerimenti
+Puoi scaricare i caratteri desiderati da questo sito web: https://www.fontspace.com/commercial-fonts

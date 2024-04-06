@@ -1,30 +1,31 @@
 [User Manual](/dragonnest/drawnote/manual/en) > [More](/dragonnest/drawnote/manual/en/more) >
 
-Reading Mode and Editing Mode
+Modalità Lettura e Modalità Modifica
 ---
-Reading mode and Editing mode are two states of notes used to view and modify note content.
+La modalità Lettura e la modalità Modifica sono due stati delle note utilizzati per visualizzare e modificare il contenuto delle note.
 
-#### Reading Mode
-- Select the note you want to view and click to enter reading mode.
+#### Modalità Lettura
+- Seleziona la nota che desideri visualizzare e clicca per entrare in modalità lettura.
 
-- If you are currently editing a note, click the "√" icon in the upper left corner to switch to reading mode.
+- Se al momento stai modificando una nota, clicca sull'icona "√" nell'angolo in alto a sinistra per passare alla modalità lettura.
 
-![Reading Mode and Editing Mode](imgs/reading_mode1.png)
+![Modalità Lettura e Modalità Modifica](imgs/reading_mode1.png)
 
-#### Editing Mode
-- If you are currently reading a note, click the "Pen" icon in the lower right corner to switch to editing mode for note modification and editing.
+#### Modalità Modifica
+- Se al momento stai leggendo una nota, clicca sull'icona "Pennarello" nell'angolo in basso a destra per passare alla modalità modifica per la modifica e l'editing delle note.
 
-![Reading Mode and Editing Mode](imgs/editing_mode.png)
-In reading mode, you can:
+![Modalità Lettura e Modalità Modifica](imgs/editing_mode.png)
 
-- View note content and zoom in or out for information.
+In modalità lettura, puoi:
 
-- Jump to related notes for more information.
+- Visualizzare il contenuto della nota e ingrandire o ridurre per maggiori informazioni.
 
-- Click the web link icon to navigate to the related webpage.
+- Passare a note correlate per ulteriori informazioni.
 
-- View, save, or share images within the note.
+- Cliccare sull'icona del link web per navigare alla pagina web correlata.
 
-- Click the "⋮" icon in the upper right corner for options like renaming, moving, deleting, exporting, and more.
+- Visualizzare, salvare o condividere immagini all'interno della nota.
 
-- Click the toolbar at the bottom for default view switching, marking, zooming, note switching, creating folders, and other operations.
+- Cliccare sull'icona "⋮" nell'angolo in alto a destra per opzioni come rinominare, spostare, eliminare, esportare e altro ancora.
+
+- Cliccare sulla barra degli strumenti in basso per la commutazione della vista predefinita, marcatura, zoom, passaggio tra le note, creazione di cartelle e altre operazioni.

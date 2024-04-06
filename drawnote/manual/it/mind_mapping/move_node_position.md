@@ -1,12 +1,12 @@
 [User Manual](/dragonnest/drawnote/manual/en) > [Mind Mapping](/dragonnest/drawnote/manual/en/mind_mapping) >
 
-Moving Node Positions
+Spostamento delle Posizioni dei Nodi
 ---
 
-There are two methods to move node positions:
+Ci sono due metodi per spostare le posizioni dei nodi:
 
-- 1.Long-Press to Move - Select the node, long-press it, drag it to the new location, and release to complete the move.
+- 1. Premi a lungo per muoverti - Selezionare il nodo, tenerlo premuto a lungo, trascinarlo nella nuova posizione e rilasciare per completare lo spostamento.
 
-- 2.Button to Move - Click the node, select the arrow button on the menu, and complete the node position move.
+- 2. Spostamento con Pulsante - Fare clic sul nodo, selezionare il pulsante a freccia nel menu e completare lo spostamento della posizione del nodo.
 
-![Move Node Positions](imgs/move_node_position1.jpg)
+![Spostamento delle Posizioni dei Nodi](imgs/move_node_position1.jpg)

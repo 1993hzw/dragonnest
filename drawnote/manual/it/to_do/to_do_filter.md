@@ -1,7 +1,7 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [To-Do List](/dragonnest/drawnote/manual/en/to_do) >
+[Manuale Utente](/dragonnest/drawnote/manual/it) > [Lista delle Attività](/dragonnest/drawnote/manual/it/to_do) >
 
-To Do Filter
+Filtro delle Attività da Fare
 ---
-On the "To-Do Items" page, you can filter tasks based on time, priority, and associated notes.
+Nella pagina "Da fare", puoi filtrare i compiti in base al tempo, alla priorità e alle note associate.
 
 ![](imgs/to_do_filter1.png)

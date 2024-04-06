@@ -1,24 +1,23 @@
-
 DrawNote
 ------
-Welcome to DrawNote! As a multifunctional integrated application, DrawNote combines various features such as note-taking, writing, mind mapping, to-do lists, handwriting, and drawing. Catering to a wide range of users across different fields. This manual offers a comprehensive guide on all the functionalities and operations of DrawNote. Assisting you to get started quickly.
+Benvenuti in DrawNote! Come applicazione integrata multifunzione, DrawNote combina varie funzionalità come prendere appunti, scrivere, mappatura mentale, liste di cose da fare, scrittura a mano e disegno. Rivolto a una vasta gamma di utenti in diversi settori. Questo manuale offre una guida completa su tutte le funzionalità e operazioni di DrawNote. Aiutandovi a iniziare rapidamente.
 
-### User Manual
+### Manuale Utente
 
-- [Create a New Note](new_note.md)
+- [Creare un Nuovo Appunto](new_note.md)
 
-- [Super Note](super_note/index.md)
+- [Super Nota](super_note/index.md)
 
-- [Text Note](text_note/index.md)
+- [Nota di Testo](text_note/index.md)
 
-- [Mind Mapping](mind_mapping/index.md)
+- [Mappa Mentale](mind_mapping/index.md)
 
-- [Folders](folder/index.md)
+- [Cartelle](folder/index.md)
 
-- [To-Do List](to_do/index.md)
+- [Lista di cose da fare](to_do/index.md)
 
-- [Data Backup and Recovery](data_backup_and_recovery/index.md)
+- [Backup e Ripristino Dati](data_backup_and_recovery/index.md)
 
-- [More Features](more/index.md)
+- [Altre Funzionalità](more/index.md)
 
-- [Frequently Asked Questions](q_a/index.md)
+- [Domande Frequenti](q_a/index.md)

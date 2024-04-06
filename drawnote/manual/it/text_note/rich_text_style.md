@@ -1,11 +1,11 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [Text Note](/dragonnest/drawnote/manual/en/text_note) >
+[User Manual](/dragonnest/drawnote/manual/en/text_note) > [Text Note](/dragonnest/drawnote/manual/en/text_note) >
 
-Rich Text Style
+Stile Testo Ricco
 ---
-The rich text style feature of the Text Note offers a more diversified text editing experience.
+La funzione di stile testo ricco della Nota di Testo offre un'esperienza di modifica del testo più diversificata.
 
-Apart from easily recording text, you can also customize the font color, size, bold, italic, underline, and other styles.
+Oltre a registrare facilmente il testo, puoi anche personalizzare il colore del carattere, la dimensione, il grassetto, il corsivo, il sottolineato e altri stili.
 
-Moreover, we've introduced quick input features such as inserting links, inserting timestamps, and inserting pictures to enhance your editing efficiency.
+Inoltre, abbiamo introdotto funzionalità di inserimento rapido come l'inserimento di link, l'inserimento di timestamp e l'inserimento di immagini per migliorare l'efficienza della modifica.
 
 ![](imgs/rich_text_style1.png)

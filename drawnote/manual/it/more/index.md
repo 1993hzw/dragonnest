@@ -1,30 +1,30 @@
 [User Manual](/dragonnest/drawnote/manual/en) >
 
-More
+Altro
 ---
 
-- [Creating Templates](creating_templates.md)
+- [Creazione di Modelli](creating_templates.md)
 
-- [Reading Mode and Editing Mode](reading_mode_and_editing_mode.md)
+- [Modalità di Lettura e Modalità di Modifica](reading_mode_and_editing_mode.md)
 
-- [Highlighter Effect](highlighter_effect.md)
+- [Effetto Evidenziatore](highlighter_effect.md)
 
-- [Online Search](online_search.md)
+- [Ricerca Online](online_search.md)
 
-- [Export/Share Notes](export_share_notes.md)
+- [Esporta/Condividi Appunti](export_share_notes.md)
 
-- [Insert Timestamp](insert_timestamp.md)
+- [Inserimento Timestamp](insert_timestamp.md)
 
-- [Marking Function](marking_function.md)
+- [Contrassegna Funzione](marking_function.md)
 
-- [Dark Mode and Theme Switching](dark_mode_theme.md)
+- [Modalità Oscura e Cambio di Tema](dark_mode_theme.md)
 
-- [Font Library](font_library.md)
+- [Libreria di Caratteri](font_library.md)
 
-- [Auto Save](autosave.md)
+- [Salvataggio Automatico](autosave.md)
 
-- [Automatic Lock](automatic_locking.md)
+- [Blocco Automatico](automatic_locking.md)
 
-- [Privacy Lock](privacy_lock.md)
+- [Blocco della Privacy](privacy_lock.md)
 
-- [Add Desktop Widget](add_desktop_widget.md)
+- [Aggiungi Widget Desktop](add_desktop_widget.md)

@@ -1,14 +1,14 @@
 [User Manual](/dragonnest/drawnote/manual/en) > [More](/dragonnest/drawnote/manual/en/more) >
 
-Add Desktop Widget
+Aggiungi Widget Desktop
 ---
-By adding desktop widgets to your device's main screen, you can easily and quickly access note editing functions without opening the application.
-### Operational Steps
-1. Tap "My" on the main screen.
-2. Enter "settings".
-3. Click "Widgets" and select the type of widget you want to add.
+Aggiungendo widget desktop alla schermata principale del dispositivo, è possibile accedere facilmente e rapidamente alle funzioni di modifica degli appunti senza aprire l'applicazione.
+### Passaggi Operativi
+1. Tocca "Il mio" sulla schermata principale.
+2. Entra in "impostazioni".
+3. Clicca su "Widget" e seleziona il tipo di widget che desideri aggiungere.
 
 ![](imgs/add_widgets1.png)
 
-#### Tips
-You can also directly access the widget settings on your device's home screen, find the application, and then add the desktop widget.
+#### Suggerimenti
+Puoi anche accedere direttamente alle impostazioni del widget sulla schermata principale del tuo dispositivo, trovare l'applicazione e quindi aggiungere il widget desktop.

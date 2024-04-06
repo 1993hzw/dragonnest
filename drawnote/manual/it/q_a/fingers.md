@@ -1,9 +1,9 @@
 [User Manual](/dragonnest/drawnote/manual/en) > [FAQ](/dragonnest/drawnote/manual/en/q_a) >
 
-What should I do if I can't draw on the canvas with my finger?
+Cosa devo fare se non riesco a disegnare sul canvas con il dito?
 ---
-If you are unable to draw on the canvas with your finger, follow these steps to resolve the issue:
+Se non riesci a disegnare sul canvas con il dito, segui questi passaggi per risolvere il problema:
 
-1. Click the "⋮" icon in the upper right corner to open the options menu.
+1. Clicca sull'icona "⋮" nell'angolo in alto a destra per aprire il menu delle opzioni.
 
-2. Check if the "Stylus Mode" option is enabled. If it is enabled, uncheck it to restore finger drawing.
+2. Controlla se l'opzione "Modalità Penna" è abilitata. Se è abilitata, deselezionala per ripristinare il disegno con il dito.

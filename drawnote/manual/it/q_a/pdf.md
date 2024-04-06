@@ -1,7 +1,7 @@
 [User Manual](/dragonnest/drawnote/manual/en) > [FAQ](/dragonnest/drawnote/manual/en/q_a) >
 
-About the PDF Function
+Informazioni sulla Funzione PDF
 ---
-Currently, our note-taking software supports exporting notes to PDF. We have been planning to add more PDF-related features to provide users with a more convenient experience.
+Attualmente, il nostro software per prendere appunti supporta l'esportazione delle note in PDF. Stiamo pianificando di aggiungere ulteriori funzionalità legate al PDF per fornire agli utenti un'esperienza più conveniente.
 
-As the development process requires time and effort, we need some time to perfect this feature. Thank you for your understanding and patience!
+Poiché il processo di sviluppo richiede tempo e sforzi, abbiamo bisogno di un po' di tempo per perfezionare questa funzione. Grazie per la vostra comprensione e pazienza!

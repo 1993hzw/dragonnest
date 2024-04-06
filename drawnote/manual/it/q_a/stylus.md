@@ -1,11 +1,11 @@
 [User Manual](/dragonnest/drawnote/manual/en) > [FAQ](/dragonnest/drawnote/manual/en/q_a) >
 
-What should I do if I can't draw with a stylus on the canvas?
+Cosa devo fare se non riesco a disegnare con una penna sul canvas?
 ---
-If you are unable to draw with a stylus on the canvas, it may be due to the following reasons:
+Se non riesci a disegnare con una penna sul canvas, potrebbe essere dovuto ai seguenti motivi:
 
-1. Ensure Stylus Mode is enabled - Click the "⋮" button in the upper right corner to open the options menu and check if "Stylus Mode" is enabled.
+1. Assicurati che la Modalità Penna sia abilitata - Clicca sul pulsante "⋮" nell'angolo in alto a destra per aprire il menu delle opzioni e controlla se la "Modalità Penna" è abilitata.
 
-2. Stylus connection issues - Make sure the stylus is correctly connected to the device. Try reconnection to ensure a stable connection.
+2. Problemi di connessione della penna - Assicurati che la penna sia correttamente collegata al dispositivo. Prova a ricollegarla per garantire una connessione stabile.
 
-3. Stylus battery issues - Check if the stylus has sufficient battery. Low battery levels may prevent the stylus from working properly.
+3. Problemi di batteria della penna - Controlla se la penna ha abbastanza batteria. Livelli di batteria bassi possono impedire alla penna di funzionare correttamente.

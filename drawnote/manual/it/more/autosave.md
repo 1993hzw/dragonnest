@@ -1,24 +1,23 @@
 [User Manual](/dragonnest/drawnote/manual/en) > [More](/dragonnest/drawnote/manual/en/more) >
 
-Auto Save
+Salvataggio Automatico
 ---
-Auto save prevents accidental data loss.
+Il salvataggio automatico previene la perdita accidentale di dati.
 
-#### Steps
+#### Passaggi
 
-1. Tap "My" on the main page.
+1. Tocca "Il mio" nella pagina principale.
 
-2. Access settings.
+2. Accedi alle impostazioni.
 
-3. Click the "Auto Save" button.
+3. Clicca sul pulsante "Salvataggio automatico".
 
-4. Enable the toggle and select the auto-save time.
+4. Abilita il pulsante e seleziona il tempo di salvataggio automatico.
 
-![Auto Save 1](imgs/autosave.png)
-![Auto Save 2](imgs/autosave1.png)
+![Salvataggio Automatico 1](imgs/autosave.png)
+![Salvataggio Automatico 2](imgs/autosave1.png)
 
-#### Tips
-- Customizable response for clicking the Back key during editing. Response methods include：Cilck again to exit editing, Ask for confirmation,Exit and save.
+#### Suggerimenti
+- Risposta personalizzabile per il clic del tasto Indietro durante la modifica. I metodi di risposta includono: fare clic di nuovo per uscire dalla modifica, chiedere conferma, uscire e salvare.
 
-
-  ![Auto Save 3](imgs/autosave2.png)
+  ![Salvataggio Automatico 3](imgs/autosave2.png)

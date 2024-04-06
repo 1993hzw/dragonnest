@@ -1,9 +1,9 @@
 [User Manual](/dragonnest/drawnote/manual/en) > [FAQ](/dragonnest/drawnote/manual/en/q_a) >
 
-About Data Backup and Recovery
+Informazioni sul Backup e Recupero Dati
 ---
-Our data backup method involves storing data in the private application directory of Google Drive, so users cannot directly view the backup content in Google Drive.
+Il nostro metodo di backup dei dati coinvolge lo stoccaggio dei dati nella directory dell'applicazione privata di Google Drive, quindi gli utenti non possono visualizzare direttamente il contenuto del backup su Google Drive.
 
-However, by checking the application data backups in Google Drive through the backup list in the Aspire Notes app, users can easily browse the backed-up application data.
+Tuttavia, controllando i backup dei dati dell'applicazione su Google Drive attraverso l'elenco dei backup nell'applicazione Aspire Notes, gli utenti possono facilmente navigare i dati dell'applicazione eseguiti il backup.
 
-Simply log in to different devices with the same Google account to effortlessly restore data between different devices.
+Basta effettuare l'accesso a dispositivi diversi con lo stesso account Google per ripristinare senza sforzo i dati tra dispositivi diversi.

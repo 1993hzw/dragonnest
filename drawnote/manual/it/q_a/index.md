@@ -1,14 +1,14 @@
 [User Manual](/dragonnest/drawnote/manual/en) >
 
-Frequently Asked Questions
+Domande Frequenti
 ---
 
-- [Cannot Draw with Fingers](fingers.md)
+- [Non Posso Disegnare con le Dita](fingers.md)
 
-- [Cannot Draw with Stylus](stylus.md)
+- [Non Posso Disegnare con la Penna](stylus.md)
 
-- [How to Prevent Finger Mistouch](mistouch.md)
+- [Come Evitare il Tocco Errato con le Dita](mistouch.md)
 
-- [About PDF Function](pdf.md)
+- [Informazioni sulla Funzione PDF](pdf.md)
 
-- [About Data Backup and Recovery](data_backup_and_recovery.md)
+- [Informazioni sul Backup e Recupero Dati](data_backup_and_recovery.md)

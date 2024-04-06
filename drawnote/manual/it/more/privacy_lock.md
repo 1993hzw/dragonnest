@@ -1,20 +1,20 @@
 [User Manual](/dragonnest/drawnote/manual/en) > [More](/dragonnest/drawnote/manual/en/more) >
 
-Privacy Lock
+Blocco della Privacy
 ---
-With Privacy Lock, you can lock specific notes and folders.
+Con il Blocco della Privacy, puoi bloccare note e cartelle specifiche.
 
-#### Steps
+#### Passaggi
 
-1. Long-press the note or folder you want to lock/unlock.
+1. Tieni premuta la nota o la cartella che desideri bloccare/sbloccare.
 
-2. In the pop-up menu, click "Lock"/"Unlock" to lock or unlock the note or folder.
+2. Nel menu a comparsa, clicca su "Blocca"/"Sblocca" per bloccare o sbloccare la nota o la cartella.
 
-![Privacy Lock](imgs/privacy_lock1.png)
+![Blocco della Privacy](imgs/privacy_lock1.png)
 
-#### Tips
-- Locked content cannot be searched directly.
+#### Suggerimenti
+- Il contenuto bloccato non può essere cercato direttamente.
 
-- In the "My" and "Automatic Lock & Privacy Lock" interface, you can set Privacy Lock with fingerprint or password unlock.
+- Nelle interfacce "Il Mio" e "Blocco Automatico e Blocco della Privacy", puoi impostare il Blocco della Privacy con sblocco tramite impronta digitale o password.
 
-- Privacy Lock is a local temporary locking mechanism. This means that when you lock notes, back them up, and then restore those notes on another device, you don't need to unlock them again to view their content.
+- Il Blocco della Privacy è un meccanismo di blocco temporaneo locale. Questo significa che quando blocchi delle note, le esporti e poi ripristini quelle note su un altro dispositivo, non è necessario sbloccarle nuovamente per visualizzarne il contenuto.

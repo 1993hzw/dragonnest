@@ -1,26 +1,26 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [To-Do List](/dragonnest/drawnote/manual/en/to_do) >
+[Manuale Utente](/dragonnest/drawnote/manual/it) > [Lista delle Attività](/dragonnest/drawnote/manual/it/to_do) >
 
-Create a New To-Do Item
+Crea un nuovo elemento da fare
 ---
-#### Steps
+#### Passaggi
 
-1. Navigate to the 'To-Do' page.
+1. Navigare alla pagina 'da fare'.
 
-2. Click the "+" button.
+2. Fare clic sul pulsante "+".
 
-3. Enter details such as the title, description, and other relevant information.
+3. Inserire i dettagli come il titolo, la descrizione e altre informazioni pertinenti.
 
-4. Tap the confirmation button on the top left to add a new to-do item.
+4. Toccare il pulsante di conferma in alto a sinistra per aggiungere un nuovo elemento alla lista delle attività.
 
 ![](imgs/create_a_new_to_do1.png)
 
-#### Tips
-1. To-Do Count - The number of pending tasks is displayed on the bottom tab bar.
+#### Suggerimenti
+1. Conteggio delle Attività - Il numero di attività in sospeso è visualizzato nella barra delle schede in basso.
 
-2. Pinning a To-Do Item - On the 'To-Do List' page, tap the "pin" button on the top right corner of an item to move important tasks to the top.
+2.  Fissare l'elemento da fare in cima - Nella pagina 'da fare', toccare il pulsante "pin" nell'angolo in alto a destra di un elemento per spostare le attività importanti in cima.
 
 ![](imgs/create_a_new_to_do2.png)
 
-3. Move to the Front - In the 'New To-do' screen, tap the "Move to the Front" button at the bottom to position the task at the very top.
+3. Spostare all'Inizio - Nella schermata 'Nuova Attività', toccare il pulsante "Sposta all'Inizio" in basso per posizionare l'attività in cima alla lista.
 
 ![](imgs/create_a_new_to_do3.png)

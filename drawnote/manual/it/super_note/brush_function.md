@@ -1,45 +1,46 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [Super Note](/dragonnest/drawnote/manual/en/super_note) >
+[Manuale Utente](/dragonnest/drawnote/manual/it) > [Super Appunto](/dragonnest/drawnote/manual/it/super_note) >
 
-Brush Function
+Funzione Custodia per Penne
 ---
 
-#### Steps
+#### Passaggi
 
-Click the "Brush" button in the toolbar to perform the following actions.
+Fare clic sul pulsante "Custodia per Penne" nella barra degli strumenti per eseguire le seguenti azioni.
 
-#### 1.Collect Brushes
+#### 1. Raccogliere Pennelli
 
-Click the "+" button in the brush collection bar to add different types of brushes.
+Fare clic sul pulsante "+" nella barra di raccolta dei pennelli per aggiungere diversi tipi di pennelli.
 
-#### 2.Lock Brush Size
+#### 2. Bloccare la Dimensione del Custodia per Penne
 
-Check the "Lock Size" button to fix the brush size. Even if you zoom in or out on the canvas or page, the brush size will remain unchanged.
+Selezionare il pulsante "Blocca Dimensione" per fissare la dimensione del Custodia per Penne. Anche se si ingrandisce o ridimensiona la tela o la pagina, la dimensione del Custodia per Penne rimarrà invariata.
 
-#### 3.Dashed Line Effect
+#### 3. Effetto Linea Tratteggiata
 
-Check the "Dashed Line" button to apply the dashed line brush effect.
+Selezionare il pulsante "Linea Tratteggiata" per applicare l'effetto Custodia per Penne a linea tratteggiata.
 
-#### 4.Adjust Brush Size
+#### 4. Regolare la Dimensione del Custodia per Penne
 
-Use the middle slider or the "+" and "-" buttons on both sides to adjust the brush stroke size.
+Utilizzare il cursore centrale o i pulsanti "+" e "-" ai lati per regolare la dimensione della pennellata.
 
 ![](imgs/brush_function.png)
 
-#### 5.Adjust Brush Position
-In the brush bar, press and hold the brush you want to adjust, then drag it left or right to the desired position and release.
+#### 5. Regolare la Posizione del Custodia per Penne
 
-#### 6.Delete Collect Brushes
+Nella barra dei pennelli, tenere premuto il Custodia per Penne che si desidera regolare, quindi trascinarlo a sinistra o a destra nella posizione desiderata e rilasciarlo.
 
-In the brush bar, press and hold the brush you wish to delete, then drag it to the "Trash Can" icon and release to remove that brush.
+#### 6. Eliminare Pennelli Raccolti
+
+Nella barra dei pennelli, tenere premuto il Custodia per Penne che si desidera eliminare, quindi trascinarlo sull'icona del "Cestino" e rilasciarlo per rimuovere quel Custodia per Penne.
 
 ![](imgs/brush_function1.png)
 
-#### Save Common Pen Case
-On the brush page, click the "⋮" button in the upper right corner and choose "Save to Brush List". Then, name your brush set and confirm to save your commonly used brush set.
+#### Salvare la Cassa Pennelli Comune
+Sulla pagina del Custodia per Penne, fare clic sul pulsante "⋮" nell'angolo in alto a destra e scegliere "Salva nella Lista Pennelli". Quindi, dare un nome al proprio set di pennelli e confermare per salvare il set di pennelli comunemente utilizzati.
 
 ![](imgs/brush_function2.png)
 
-#### Choose Common Pen Case
-On the brush page, click the "⋮" button in the upper right corner, then select the brush set you need from the brush list.
+#### Scegliere la Cassa Pennelli Comune
+Sulla pagina del Custodia per Penne, fare clic sul pulsante "⋮" nell'angolo in alto a destra, quindi selezionare il set di pennelli di cui si ha bisogno dalla lista dei pennelli.
 
 ![](imgs/brush_function5.png)

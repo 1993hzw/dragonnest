@@ -1,18 +1,18 @@
 [User Manual](/dragonnest/drawnote/manual/en) > [Mind Mapping](/dragonnest/drawnote/manual/en/mind_mapping) >
 
-Borders and Line Styles
+Bordi e Stili delle Linee
 ---
-#### Steps
+#### Passaggi
 
-1. Click on the node frame you want to set.
+1. Fare clic sul riquadro del nodo che si desidera impostare.
 
-2. Click on the "Style" tab.
+2. Fare clic sulla scheda "Stile".
 
-3. In the pop-up window, choose the desired style options, such as border shape, border color, fill color, line style, and line color.
+3. Nella finestra di dialogo che appare, scegliere le opzioni di stile desiderate, come forma del bordo, colore del bordo, colore di riempimento, stile della linea e colore della linea.
 
-![Borders and Line Styles](imgs/border_and_line_style.png)
+![Bordi e Stili delle Linee](imgs/border_and_line_style.png)
 
-#### Tips
-Click the blue double checkmarks on the right.   To apply the style to subnodes, sibling nodes, or both sibling and subnodes.
+#### Suggerimenti
+Fare clic sulle doppie spunte blu a destra per applicare lo stile ai sotto-nodi, ai nodi fratelli o sia ai nodi fratelli che ai sotto-nodi.
 
-![Borders and Line Styles](imgs/border_and_line_style1.png)
+![Bordi e Stili delle Linee](imgs/border_and_line_style1.png)

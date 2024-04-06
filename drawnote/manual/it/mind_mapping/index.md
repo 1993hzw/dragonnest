@@ -1,14 +1,14 @@
-[User Manual](/dragonnest/drawnote/manual/en/mind_mapping) >
+[Manuale Utente](/dragonnest/drawnote/manual/en/mind_mapping) >
 
-Mind Mapping
+Mappa Mentale
 ---
 
-Mind mapping helps you quickly capture ideas and organize knowledge, presenting complex concepts with a clear graphical structure.
+La mappa mentale aiuta a catturare rapidamente idee e organizzare conoscenze, rappresentare concetti complessi con una chiara struttura grafica.
 
-- [Page Settings](page_settings.md)
+- [Impostazioni Pagina](page_settings.md)
 
-- [Borders and Line Styles](border_and_line_style.md)
+- [Bordi e Stili delle Linee](border_and_line_style.md)
 
-- [Difference Between Child Nodes and Sibling Nodes](child_nodes_and_sibling_nodes.md)
+- [Differenza tra Nodi Figlio e Nodi Fratelli](child_nodes_and_sibling_nodes.md)
 
-- [Moving Node Positions](move_node_position.md)
+- [Spostamento delle Posizioni dei Nodi](move_node_position.md)

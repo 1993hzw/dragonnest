@@ -1,14 +1,14 @@
 [User Manual](/dragonnest/drawnote/manual/en) > [More](/dragonnest/drawnote/manual/en/more) >
 
-Dark Mode and Theme Switching
+Modalità Oscura e Cambio di Tema
 ---
-Dark mode provides a more comfortable reading experience, helping to reduce eye strain and protect visual health. This feature allows you to easily switch to a more comfortable dark mode and choose theme colors according to personal preference.
+La modalità oscura offre un'esperienza di lettura più confortevole, contribuendo a ridurre l'affaticamento degli occhi e a proteggere la salute visiva. Questa funzionalità consente di passare facilmente a una modalità scura più confortevole e di scegliere i colori del tema in base alle preferenze personali.
 
-### Operations Steps
-1. Tap on "My" on the main screen.
-2. Go to Settings.
-3. Click on "Dark Mode & Theme".
-4. Here, you can switch to dark mode and choose different theme colors to customize the interface to your liking.
+### Passaggi Operativi
+1. Tocca "Il mio" sulla schermata principale.
+2. Vai alle Impostazioni.
+3. Clicca su "Modalità Oscura & Tema".
+4. Qui puoi passare alla modalità scura e scegliere diversi colori del tema per personalizzare l'interfaccia a tuo piacimento.
 
 ![](imgs/dark_mode_theme.png)
 ![](imgs/dark_mode_theme1.png)
