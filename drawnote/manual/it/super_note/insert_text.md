@@ -1,21 +1,21 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [Super Note](/dragonnest/drawnote/manual/en/super_note) >
+[Manuale Utente](/dragonnest/drawnote/manual/it) > [Super Nota](/dragonnest/drawnote/manual/it/super_note) >
 
-Insert Text
+Inserisci Testo
 ---
-#### Steps
+#### Passaggi
 
-1. Click the "T" button in the toolbar.
+1. Fare clic sul pulsante "T" nella barra degli strumenti.
 
-2. Tap or swipe an area of the screen to insert text. 
+2. Toccare o sfiorare un'area dello schermo per inserire il testo.
 
 ![](imgs/insert_text3.png)
 
-#### Tips
-- Once the text box is selected, you can Rotate, Align, Edit, and more. By clicking on “More”, you can also create a copy, cut to clipdoard, and lock and more.
+#### Suggerimenti
+- Una volta selezionata la casella di testo, è possibile Ruotare, Allineare, Modificare e altro ancora. Cliccando su "Altro", è anche possibile creare una copia, tagliare negli appunti e bloccare e altro ancora.
 
   ![](imgs/insert_text4.png)
 
 
-- In the text editing box, once the text is selected, you can set its format, including color, size, bold, underline, and more.
+- Nella casella di modifica del testo, una volta selezionato il testo, è possibile impostarne il formato, incluso colore, dimensione, grassetto, sottolineatura e altro ancora.
 
 ![](imgs/insert_text5.png)

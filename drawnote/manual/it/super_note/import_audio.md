@@ -1,11 +1,11 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [Super Note](/dragonnest/drawnote/manual/en/super_note) >
+[Manuale Utente](/dragonnest/drawnote/manual/it) > [Super Nota](/dragonnest/drawnote/manual/it/super_note) >
 
-Import Audio
+Importa Audio
 ---
-#### Steps
+#### Passaggi
 
-1. Click the "+" button in the toolbar.
+1. Fare clic sul pulsante "+" nella barra degli strumenti.
 
-2. Choose the "Import Audio" option. Select the audio file you wish to import, and you're done.
+2. Scegliere l'opzione "Importa Audio". Selezionare il file audio che si desidera importare e il gioco è fatto.
 
 ![](imgs/import_audio.png)

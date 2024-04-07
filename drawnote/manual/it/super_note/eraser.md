@@ -1,24 +1,24 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [Super Note](/dragonnest/drawnote/manual/en/super_note) >
+[Manuale Utente](/dragonnest/drawnote/manual/it) > [Super Nota](/dragonnest/drawnote/manual/it/super_note) >
 
-Eraser
+Gomma
 ---
-The eraser feature offers multiple modes for various use cases.
-#### Steps
+La funzione gomma offre diverse modalità per vari casi d'uso.
+#### Passaggi
 
-Click the "Eraser" button in the toolbar.
+Fare clic sul pulsante "Gomma" nella barra degli strumenti.
 
-- Normal Mode - Utilizes mask technology to realistically simulate the eraser effect. Can erase various elements such as lines, text, and images. This mode creates erasure marks, allowing users to select erased elements.
-
-
-- Fill Mode - Similar to the normal mode but can quickly erase a fan-shaped area.
+- Modalità Normale - Utilizza la tecnologia della maschera per simulare realisticamente l'effetto della gomma. Può cancellare vari elementi come linee, testo e immagini. Questa modalità crea segni di cancellatura, consentendo agli utenti di selezionare gli elementi cancellati.
 
 
-- Cutting Mode - Splits elements into multiple independent parts, only applicable to lines and some geometric shapes. This mode leaves no trace after erasing.
+- Modalità Riempimento - Simile alla modalità normale ma può cancellare rapidamente un'area a forma di ventaglio.
 
 
-- Selection Mode - Directly deletes the selected entire element and supports setting filter criteria. This mode leaves no trace after erasing.
+- Modalità di Taglio - Divide gli elementi in più parti indipendenti, applicabile solo a linee e alcune forme geometriche. Questa modalità non lascia tracce dopo la cancellazione.
+
+
+- Modalità Selezione - Cancella direttamente l'intero elemento selezionato e supporta l'impostazione dei criteri di filtro. Questa modalità non lascia tracce dopo la cancellazione.
 
 ![](imgs/eraser.png)
 
-#### Tips
-- Click "Clear All" to empty the entire canvas.
+#### Suggerimenti
+- Fare clic su "Cancella Tutto" per svuotare l'intera tela.

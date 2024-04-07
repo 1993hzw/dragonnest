@@ -4,7 +4,7 @@ Libreria Caratteri
 ---
 La libreria di caratteri può salvare i tuoi caratteri comunemente usati. Ti consente di scegliere liberamente lo stile del carattere appropriato nelle note di testo o nelle caselle di testo.
 #### Passaggi
-1. Tocca "Il mio" sulla schermata principale.
+1. Tocca "Io" sulla schermata principale.
 
 2. Accedi alla libreria  caratteri.
 

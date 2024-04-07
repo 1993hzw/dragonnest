@@ -6,7 +6,7 @@ Il blocco automatico si riferisce all'applicazione che si blocca automaticamente
 
 #### Passaggi
 
-1. Tocca "Il mio" nella pagina principale.
+1. Tocca "Io" nella pagina principale.
 
 2. Accedi alle impostazioni.
 

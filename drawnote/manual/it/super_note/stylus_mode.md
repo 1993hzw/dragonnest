@@ -1,14 +1,14 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [Super Note](/dragonnest/drawnote/manual/en/super_note) >
+[User Manual](/dragonnest/drawnote/manual/en) > [Super Nota](/dragonnest/drawnote/manual/en/super_note) >
 
-Stylus Mode
+Modalità Penna Stilo
 ---
 
-#### Steps
+#### Passaggi
 
-1. Within the Super Note page, tap the "⋮" more button located at the top right of the screen.
-2. Check the Stylus Mode option to activate.
+1. All'interno della pagina Super Nota, toccare il pulsante "⋮" più situato in alto a destra dello schermo.
+2. Selezionare l'opzione Modalità Penna Stilo per attivarla.
    ![](imgs/stylus_mode1.png)
 
-#### Tip
-- Before entering Stylus Mode, please ensure that the stylus is successfully connected.
-- After activating Stylus Mode, an icon indicating "No finger touch" will be displayed at the top of the page. You can tap this icon to prevent unintentional touches by the fingers.
+#### Suggerimento
+- Prima di entrare nella Modalità Penna Stilo, assicurarsi che la penna stilo sia collegata con successo.
+- Dopo aver attivato la Modalità Penna Stilo, verrà visualizzata un'icona che indica "Nessun tocco del dito" nella parte superiore della pagina. È possibile toccare questa icona per evitare tocchi non intenzionali con le dita.

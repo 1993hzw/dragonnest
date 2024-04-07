@@ -1,35 +1,35 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [Super Note](/dragonnest/drawnote/manual/en/super_note) >
+[Manuale Utente](/dragonnest/drawnote/manual/it) > [Super Nota](/dragonnest/drawnote/manual/it/super_note) >
 
-Insert Table
+Inserisci Tabella
 ---
-#### Steps
+#### Passaggi
 
-1. Click the "+" button in the toolbar.
+1. Fare clic sul pulsante "+" nella barra degli strumenti.
 
-2. Choose "Insert Table" to add a table to your notes.
+2. Scegliere "Inserisci Tabella" per aggiungere una tabella alle proprie note.
 
 ![](imgs/insert_table6.png)
 
-#### Tips
-- Set the number of cells - Slide or input numbers to choose the required number of cells.
+#### Suggerimenti
+- Impostare il numero di celle - Scorrere o inserire numeri per scegliere il numero di celle richiesto.
 
-- Adjust table width and height - Slide the size slider or input numbers to set the default cell size.
+- Regolare larghezza e altezza della tabella - Scorrere il cursore delle dimensioni o inserire numeri per impostare le dimensioni predefinite delle celle.
 
 
 ![](imgs/insert_table1.png)
 
-- Edit cell format - Once a cell is selected, you can set its size, color, and clear its content.
+- Modificare il formato delle celle - Una volta selezionata una cella, è possibile impostarne la dimensione, il colore e cancellare il suo contenuto.
 
-- Edit text format in cells - Once a cell is selected, you can edit its text content and format, including color, font size, bold, underline, and alignment.
+- Modificare il formato del testo nelle celle - Una volta selezionata una cella, è possibile modificare il contenuto e il formato del testo, inclusi colore, dimensione del font, grassetto, sottolineatura e allineamento.
 
 ![](imgs/insert_table2.png)
 
-- Set the format for an entire row or column - Once a row or column is selected, you can merge cells, set the background color, clear content, and more.
+- Impostare il formato per un'intera riga o colonna - Una volta selezionata una riga o colonna, è possibile unire celle, impostare il colore di sfondo, cancellare il contenuto e altro ancora.
 
-- Insert a whole row or column - Once a row or column is selected, click the "Insert" button to add a new row or column.
+- Inserire un'intera riga o colonna - Una volta selezionata una riga o colonna, fare clic sul pulsante "Inserisci" per aggiungere una nuova riga o colonna.
 
 ![](imgs/insert_table3.png)
 
-- Set table appearance - Click the "Settings" button at the bottom left of the canvas, and in the menu, set the table's background and border color.
+- Impostare l'aspetto della tabella - Fare clic sul pulsante "Impostazioni" in basso a sinistra della tela e, nel menu, impostare il colore di sfondo e del bordo della tabella.
 
 ![](imgs/insert_table4.png)

@@ -6,7 +6,7 @@ Il salvataggio automatico previene la perdita accidentale di dati.
 
 #### Passaggi
 
-1. Tocca "Il mio" nella pagina principale.
+1. Tocca "Io" nella pagina principale.
 
 2. Accedi alle impostazioni.
 

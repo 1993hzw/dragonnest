@@ -1,26 +1,23 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [Super Note](/dragonnest/drawnote/manual/en/super_note) >
+[User Manual](/dragonnest/drawnote/manual/en) > [Super Nota](/dragonnest/drawnote/manual/en/super_note) >
 
-Select Mode
+Modalità Selezione
 ---
 
-The select mode provides various selection tools:
+La modalità selezione fornisce vari strumenti di selezione:
 
-- Lasso selection - Selects elements within the enclosed area formed by the lasso.
+- Selezione a lasso - Seleziona gli elementi all'interno dell'area chiusa formata dal lasso.
+- Selezione rettangolare - Seleziona gli elementi all'interno dell'area rettangolare.
+- Selezione percorso - Seleziona gli elementi coperti dal percorso.
 
-- Rectangle selection - Selects elements within the rectangular area.
+#### Passaggi
 
-- Path selection - Selects elements covered by the path.
+1. Fare clic sul pulsante "Modalità Selezione" nella barra degli strumenti e scegliere lo strumento di selezione desiderato.
 
+2. Fare clic sulla tela e trascinare per selezionare il contenuto che si desidera modificare. Può essere un singolo elemento o più elementi.
 
-#### Steps
-
-1. Click on the "Selection Mode" button in the toolbar and choose the desired selection tool.
-
-2. Click on the canvas and slide to select the content you want to edit. Which can be a single or multiple elements.
-
-3. Perform actions on the selected items such as rotate, enlarge, shrink, merge, cut, delete, and more.
+3. Eseguire azioni sugli elementi selezionati come ruotare, ingrandire, ridurre, unire, tagliare, eliminare e altro ancora.
 
 ![](imgs/select_mode.png)
 
-#### Tip
-When multiple elements overlap, you can turn on the filter to precisely select specific content, enhancing management and organization efficiency.
+#### Suggerimento
+Quando più elementi si sovrappongono, è possibile attivare il filtro per selezionare con precisione contenuti specifici, migliorando l'efficienza della gestione e dell'organizzazione.

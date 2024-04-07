@@ -1,22 +1,22 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [Super Note](/dragonnest/drawnote/manual/en/super_note) >
+[Manuale utente](/dragonnest/drawnote/manual/en) > [Super Nota](/dragonnest/drawnote/manual/en/super_note) >
 
-Insert Web Link
+Inserire Collegamento Web
 ---
-#### Steps
+#### Passaggi
 
-1. Click on the "+" button in the toolbar.
+1. Fare clic sul pulsante "+" nella barra degli strumenti.
 
-2. Choose the "Insert Web Link" option.
+2. Scegliere l'opzione "Inserisci Collegamento Web".
 
-3. Fill in the link name (optional).
+3. Inserire il nome del collegamento (opzionale).
 
-4. Type or paste the web link.
+4. Digitare o incollare il collegamento web.
 
-5. Confirm the operation to insert the link.
+5. Confermare l'operazione per inserire il collegamento.
 
 ![](imgs/insert_web_link.png)
 
-#### Tips
-- Give the link a descriptive name to make it easier to find and locate later.
+#### Suggerimenti
+- Dare al collegamento un nome descrittivo per facilitarne la ricerca e la localizzazione in seguito.
 
-- In reading mode, click on the link icon to directly access the web page.
+- In modalità lettura, fare clic sull'icona del collegamento per accedere direttamente alla pagina web.

@@ -4,7 +4,7 @@ Aggiungi Widget Desktop
 ---
 Aggiungendo widget desktop alla schermata principale del dispositivo, è possibile accedere facilmente e rapidamente alle funzioni di modifica degli appunti senza aprire l'applicazione.
 ### Passaggi Operativi
-1. Tocca "Il mio" sulla schermata principale.
+1. Tocca "Io" sulla schermata principale.
 2. Entra in "impostazioni".
 3. Clicca su "Widget" e seleziona il tipo di widget che desideri aggiungere.
 

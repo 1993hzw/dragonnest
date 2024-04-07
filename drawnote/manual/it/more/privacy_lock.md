@@ -15,6 +15,6 @@ Con il Blocco della Privacy, puoi bloccare note e cartelle specifiche.
 #### Suggerimenti
 - Il contenuto bloccato non può essere cercato direttamente.
 
-- Nelle interfacce "Il Mio" e "Blocco Automatico e Blocco della Privacy", puoi impostare il Blocco della Privacy con sblocco tramite impronta digitale o password.
+- Nelle interfacce "Io" e "Blocco Automatico e Blocco della Privacy", puoi impostare il Blocco della Privacy con sblocco tramite impronta digitale o password.
 
 - Il Blocco della Privacy è un meccanismo di blocco temporaneo locale. Questo significa che quando blocchi delle note, le esporti e poi ripristini quelle note su un altro dispositivo, non è necessario sbloccarle nuovamente per visualizzarne il contenuto.

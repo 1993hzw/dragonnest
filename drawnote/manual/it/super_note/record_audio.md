@@ -1,13 +1,13 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [Super Note](/dragonnest/drawnote/manual/en/super_note) >
+[User Manual](/dragonnest/drawnote/manual/en) > [Super Nota](/dragonnest/drawnote/manual/en/super_note) >
 
-Record Audio
+Registra Audio
 ---
-#### Steps
+#### Passaggi
 
-1. Click on the "+" button in the toolbar.
+1. Fare clic sul pulsante "+" nella barra degli strumenti.
 
-2. Select the "Record Audio" option to start recording audio.
+2. Selezionare l'opzione "Registra Audio" per iniziare la registrazione audio.
 
-3. Click the "Stop" button to finish recording.
+3. Fare clic sul pulsante "Stop" per terminare la registrazione.
 
 ![](imgs/record_audio1.png)

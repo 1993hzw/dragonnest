@@ -1,27 +1,27 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [Super Note](/dragonnest/drawnote/manual/en/super_note) >
+[User Manual](/dragonnest/drawnote/manual/en) > [Super Nota](/dragonnest/drawnote/manual/en/super_note) >
 
-Page Settings
+Impostazioni Pagina
 ---
-You can configure the orientation, size, background color, and lines of the canvas.
+È possibile configurare l'orientamento, le dimensioni, il colore di sfondo e le linee della tela.
 
-#### Steps
+#### Passaggi
 
-Click on the "Page Settings" button in the toolbar.
+Fare clic sul pulsante "Impostazioni Pagina" nella barra degli strumenti.
 
 ![](imgs/page_settings1.png)
 
-#### Infinite Canvas
+#### Tela Infinita
 
-We offer three infinite canvas orientations to cater to your specific needs and preferences:
+Offriamo tre orientamenti di tela infinita per soddisfare le vostre esigenze e preferenze specifiche:
 
-- Infinite - Expands infinitely in both horizontal and vertical directions, with a zoom range of 0.02x--200x.
-- Horizontal Infinite - Expands infinitely in the horizontal direction with a zoom range of 0.2x--1x.
-- Vertical Infinite - Expands infinitely in the vertical direction with a zoom range of 0.2x--1x.
+- Infinito - Si espande all'infinito sia in direzione orizzontale che verticale, con un intervallo di zoom da 0,02x a 200x.
+- Infinito Orizzontale - Si espande all'infinito in direzione orizzontale con un intervallo di zoom da 0,2x a 1x.
+- Infinito Verticale - Si espande all'infinito in direzione verticale con un intervallo di zoom da 0,2x a 1x.
 
-#### Canvas Size
+#### Dimensioni della Tela
 
-Click on "Size Ratio" to choose sizes like A4, A3, or customize the dimensions as per your requirement.
+Fare clic su "Rapporto Dimensioni" per scegliere formati come A4, A3 o personalizzare le dimensioni secondo le vostre esigenze.
 
-#### Canvas Background and Note Lines
+#### Sfondo della Tela e Linee delle Note
 
-Adjust the background color, select the line style that suits your needs, and avail a variety of note templates to help you better organize and document your content.
+Regolare il colore di sfondo, selezionare lo stile di linea che meglio si adatta alle vostre esigenze e usufruire di una varietà di modelli di note per aiutarvi a organizzare e documentare meglio i vostri contenuti.

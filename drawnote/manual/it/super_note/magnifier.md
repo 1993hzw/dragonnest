@@ -1,11 +1,10 @@
-[用户手册](/dragonnest/drawnote/manual/zh) > [超级笔记](/dragonnest/drawnote/manual/zh/super_note) >
+[Manuale utente](/dragonnest/drawnote/manual/zh) > [Super Nota](/dragonnest/drawnote/manual/zh/super_note) >
 
-Magnifier
+Lente d'ingrandimento
 ---
-The magnifying glass function can help you view and edit note content more conveniently. Especially when working with small fonts or detailed graphics. It can enlarge text and pictures and provide accurate positioning and convenient operation.
-#### Steps
+La funzione della lente d'ingrandimento può aiutarti a visualizzare e modificare i contenuti delle note in modo più conveniente. Specialmente quando si lavora con caratteri piccoli o grafici dettagliati. Può ingrandire testo e immagini e fornire un posizionamento preciso e un'operazione conveniente.
+#### Passaggi
 
-On the Super Notes page, click the Magnifier glass button on the toolbar.
+Sulla pagina delle Super Nota, fare clic sul pulsante della lente d'ingrandimento nella barra degli strumenti.
 
 ![](imgs/magnifier.png)
-

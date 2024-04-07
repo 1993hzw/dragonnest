@@ -4,7 +4,7 @@ Gestione Dati di Backup
 ---
 #### Passaggi
 
-1. Tocca "Il mio" nella pagina principale.
+1. Tocca "Io" nella pagina principale.
 
 2. Accedi all'opzione "Backup & Ripristino".
 

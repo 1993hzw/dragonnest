@@ -1,6 +1,6 @@
 [User Manual](/dragonnest/drawnote/manual/en) >
 
-Altro
+Altre Funzionalità
 ---
 
 - [Creazione di Modelli](creating_templates.md)

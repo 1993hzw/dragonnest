@@ -1,15 +1,15 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [Super Note](/dragonnest/drawnote/manual/en/super_note) >
+[Manuale Utente](/dragonnest/drawnote/manual/it) > [Super Nota](/dragonnest/drawnote/manual/it/super_note) >
 
-Canvas View
+lmpostazioni della Visualizzazione
 ---
-The canvas view is the interface for viewing and editing notes, containing coordinate and zoom information.
+La visualizzazione della tela è l'interfaccia per visualizzare e modificare le note, contenente informazioni sulle coordinate e lo zoom.
 
-- To facilitate browsing large or content-rich pages, you can set a default view.
+- Per agevolare la navigazione nelle pagine grandi o ricche di contenuti, è possibile impostare una visualizzazione predefinita.
 
 
-- Click the "Jump to Default View" button to quickly return to your set default view position.
+- Fare clic sul pulsante "Vai alla Visualizzazione Predefinita" per tornare rapidamente alla posizione della visualizzazione predefinita impostata.
 
 ![](imgs/canvas_view1.png)
 
-#### Lock Zoom Ratio
-After checking "Lock Zoom Ratio", the canvas will maintain its current zoom level, preventing gesture-based zooming.
+#### Blocca Rapporto di Zoom
+Dopo aver selezionato "Blocca Rapporto di Zoom", la tela manterrà il suo livello di zoom attuale, impedendo lo zoom basato su gesti.

@@ -1,11 +1,11 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [Super Note](/dragonnest/drawnote/manual/en/super_note) >
+[User Manual](/dragonnest/drawnote/manual/en) > [Super Nota](/dragonnest/drawnote/manual/en/super_note) >
 
-Move Toolbar
+Spostare la Barra degli Strumenti
 ---
-#### Steps
+#### Passaggi
 
-1. Click the "⋮" button in the top right corner of the canvas.
+1. Fare clic sul pulsante "⋮" nell'angolo in alto a destra della tela.
 
-2. Choose the toolbar position: "Move Toolbar to the Bottom" or "Move Toolbar to the Top".
+2. Scegliere la posizione della barra degli strumenti: "Sposta la barra degli strumenti in Basso" o "Sposta la barra degli strumenti in Alto".
 
 ![](imgs/move_toolbar1.png)
