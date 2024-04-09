@@ -1,4 +1,4 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [To-Do List](/dragonnest/drawnote/manual/en/to_do) >
+[User Manual](/dragonnest/drawnote/manual/it) > [To-Do List](/dragonnest/drawnote/manual/it/to_do) >
 
 Associare Note
 ---

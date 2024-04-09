@@ -1,4 +1,4 @@
-[Manuale Utente](/dragonnest/drawnote/manual/en) >
+[Manuale Utente](/dragonnest/drawnote/manual/it) >
 
 Lista di cose da fare
 ---

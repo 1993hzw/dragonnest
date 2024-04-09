@@ -1,4 +1,4 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [Text Note](/dragonnest/drawnote/manual/en/text_note) >
+[User Manual](/dragonnest/drawnote/manual/de) > [Text Note](/dragonnest/drawnote/manual/de/text_note) >
 
 Textformatierung
 ---

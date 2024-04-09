@@ -1,11 +1,11 @@
-[User Manual](/dragonnest/drawnote/manual/en) >
+[User Manual](/dragonnest/drawnote/manual/it) >
 
 Altre Funzionalità
 ---
 
 - [Creazione di Modelli](creating_templates.md)
 
-- [Modalità di Lettura e Modalità di Modifica](reading_mode_and_editing_mode.md)
+- [Modalità di Lettura e Modalità Modifica](reading_mode_and_editing_mode.md)
 
 - [Effetto Evidenziatore](highlighter_effect.md)
 

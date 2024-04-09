@@ -1,4 +1,4 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [More](/dragonnest/drawnote/manual/en/more) >
+[User Manual](/dragonnest/drawnote/manual/it) > [More](/dragonnest/drawnote/manual/it/more) >
 
 Salvataggio Automatico
 ---

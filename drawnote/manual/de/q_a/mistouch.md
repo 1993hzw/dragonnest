@@ -1,4 +1,4 @@
-[Benutzerhandbuch](/dragonnest/drawnote/manual/en) > [FAQ](/dragonnest/drawnote/manual/en/q_a) >
+[Benutzerhandbuch](/dragonnest/drawnote/manual/de) > [FAQ](/dragonnest/drawnote/manual/de/q_a) >
 
 Wie kann ich versehentliche Berührungen mit lchen Fingern verhindern?
 ---

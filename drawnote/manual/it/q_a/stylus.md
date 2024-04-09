@@ -1,4 +1,4 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [FAQ](/dragonnest/drawnote/manual/en/q_a) >
+[User Manual](/dragonnest/drawnote/manual/it) > [FAQ](/dragonnest/drawnote/manual/it/q_a) >
 
 Cosa devo fare se non riesco a disegnare con una penna sul canvas?
 ---

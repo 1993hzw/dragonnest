@@ -1,4 +1,4 @@
-[User Manual](/dragonnest/drawnote/manual/en) >
+[User Manual](/dragonnest/drawnote/manual/it) >
 
 Nota di Testo
 ---

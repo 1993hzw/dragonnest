@@ -1,4 +1,4 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [To-Do List](/dragonnest/drawnote/manual/en/to_do) >
+[User Manual](/dragonnest/drawnote/manual/de) > [To-Do List](/dragonnest/drawnote/manual/de/to_do) >
 
 Aufgaben filtern
 ---

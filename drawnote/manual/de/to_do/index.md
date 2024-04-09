@@ -1,4 +1,4 @@
-[Benutzerhandbuch](/dragonnest/drawnote/manual/en) >
+[Benutzerhandbuch](/dragonnest/drawnote/manual/de) >
 
 Aufgabenliste
 ---

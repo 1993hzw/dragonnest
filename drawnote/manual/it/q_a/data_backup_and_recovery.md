@@ -1,4 +1,4 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [FAQ](/dragonnest/drawnote/manual/en/q_a) >
+[User Manual](/dragonnest/drawnote/manual/it) > [FAQ](/dragonnest/drawnote/manual/it/q_a) >
 
 Informazioni sul Backup e Recupero Dati
 ---

@@ -1,4 +1,4 @@
-[Benutzerhandbuch](/dragonnest/drawnote/manual/en) > [Ordner](/dragonnest/drawnote/manual/en/folder) >
+[Benutzerhandbuch](/dragonnest/drawnote/manual/de) > [Ordner](/dragonnest/drawnote/manual/de/folder) >
 
 Ordner sortieren
 ---

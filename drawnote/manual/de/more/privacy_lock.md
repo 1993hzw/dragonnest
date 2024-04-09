@@ -1,4 +1,4 @@
-[Benutzerhandbuch](/dragonnest/drawnote/manual/en) > [Mehr](/dragonnest/drawnote/manual/en/more) >
+[Benutzerhandbuch](/dragonnest/drawnote/manual/de) > [Mehr](/dragonnest/drawnote/manual/de/more) >
 
 Datenschutzsperre
 ---

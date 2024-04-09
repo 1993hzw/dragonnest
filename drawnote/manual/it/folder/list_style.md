@@ -1,4 +1,4 @@
-[Manuale Utente](/dragonnest/drawnote/manual/en) > [Cartella](/dragonnest/drawnote/manual/en/folder) >
+[Manuale Utente](/dragonnest/drawnote/manual/it) > [Cartella](/dragonnest/drawnote/manual/it/folder) >
 
 Stile Elenco
 ---

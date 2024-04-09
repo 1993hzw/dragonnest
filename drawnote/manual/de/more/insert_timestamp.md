@@ -1,4 +1,4 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [More](/dragonnest/drawnote/manual/en/more) >
+[User Manual](/dragonnest/drawnote/manual/de) > [More](/dragonnest/drawnote/manual/de/more) >
 
 Zeitstempel einfügen
 ---

@@ -1,4 +1,4 @@
-[Benutzerhandbuch](/dragonnest/drawnote/manual/en) > [Super-Notiz](/dragonnest/drawnote/manual/en/super_note) >
+[Benutzerhandbuch](/dragonnest/drawnote/manual/de) > [Super-Notiz](/dragonnest/drawnote/manual/de/super_note) >
 
 Auswahlmodus
 ---

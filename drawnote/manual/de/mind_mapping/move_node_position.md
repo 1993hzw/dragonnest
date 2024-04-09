@@ -1,4 +1,4 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [Mind Mapping](/dragonnest/drawnote/manual/en/mind_mapping) >
+[User Manual](/dragonnest/drawnote/manual/de) > [Mind Mapping](/dragonnest/drawnote/manual/de/mind_mapping) >
 
 Verschieben von Knotenpositionen
 ---

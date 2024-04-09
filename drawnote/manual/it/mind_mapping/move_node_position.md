@@ -1,4 +1,4 @@
-[User Manual](/dragonnest/drawnote/manual/en) > [Mind Mapping](/dragonnest/drawnote/manual/en/mind_mapping) >
+[User Manual](/dragonnest/drawnote/manual/it) > [Mind Mapping](/dragonnest/drawnote/manual/it/mind_mapping) >
 
 Spostamento delle Posizioni dei Nodi
 ---
