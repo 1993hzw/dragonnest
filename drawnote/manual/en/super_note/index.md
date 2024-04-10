@@ -21,7 +21,7 @@ Combine handwriting, drawings, text, images, recordings, tables, mind maps, and 
 
 - [Insert Picture](insert_picture.md)
 
-- [Insert Mind Map](Insert_mind_map.md)
+- [Insert Mind Mapping](Insert_mind_map.md)
 
 - [Insert Table](insert_table.md)
 

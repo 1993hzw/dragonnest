@@ -1,6 +1,6 @@
 [User Manual](/dragonnest/drawnote/manual/en) >
 
-Folders
+Folder
 ---
 
 Folders provide an effective way to categorize and manage your notes. You can organize your notes by topic, time, location, and more for easy retrieval and use.

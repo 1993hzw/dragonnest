@@ -13,12 +13,12 @@ Welcome to DrawNote! As a multifunctional integrated application, DrawNote combi
 
 - [Mind Mapping](mind_mapping/index.md)
 
-- [Folders](folder/index.md)
+- [Folder](folder/index.md)
 
 - [To-Do List](to_do/index.md)
 
 - [Data Backup and Recovery](data_backup_and_recovery/index.md)
 
-- [More Features](more/index.md)
+- [More](more/index.md)
 
 - [Frequently Asked Questions](q_a/index.md)

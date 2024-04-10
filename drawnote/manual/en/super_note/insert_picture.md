@@ -1,6 +1,6 @@
 [User Manual](/dragonnest/drawnote/manual/en) > [Super Note](/dragonnest/drawnote/manual/en/super_note) >
 
-Insert Pictures
+Insert Picture
 ---
 #### Steps
 

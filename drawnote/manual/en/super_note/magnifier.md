@@ -1,4 +1,4 @@
-[用户手册](/dragonnest/drawnote/manual/en) > [超级笔记](/dragonnest/drawnote/manual/zh/super_note) >
+[User Manual](/dragonnest/drawnote/manual/en) > [Super Note](/dragonnest/drawnote/manual/en/super_note) >
 
 Magnifier
 ---

@@ -23,7 +23,7 @@ More
 
 - [Auto Save](autosave.md)
 
-- [Automatic Lock](automatic_locking.md)
+- [Auto Lock](automatic_locking.md)
 
 - [Privacy Lock](privacy_lock.md)
 
