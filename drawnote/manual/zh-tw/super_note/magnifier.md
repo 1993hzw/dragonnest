@@ -1,4 +1,4 @@
-[用户手册](/dragonnest/drawnote/manual/zh-tw) > [超级笔记](/dragonnest/drawnote/manual/zh-tw/super_note) >
+[使用手冊](/dragonnest/drawnote/manual/zh-tw) > [超級筆記](/dragonnest/drawnote/manual/zh-tw/super_note) >
 
 放大鏡
 ---
