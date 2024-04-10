@@ -18,6 +18,6 @@ Willkommen bei DrawNote! Als multifunktionale integrierte Anwendung vereint Draw
 
 - [Datensicherung und -wiederherstellung](data_backup_and_recovery/index.md)
 
-- [Weitere Funktionen](more/index.md)
+- [Mehr](more/index.md)
 
 - [Häufig gestellte Fragen](q_a/index.md)

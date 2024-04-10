@@ -1,4 +1,4 @@
-[Benutzerhandbuch](/dragonnest/drawnote/manual/de) > [FAQ](/dragonnest/drawnote/manual/de/q_a) >
+[Benutzerhandbuch](/dragonnest/drawnote/manual/de) > [Häufig gestellte Fragen](/dragonnest/drawnote/manual/de/q_a) >
 
 Was soll ich tun, wenn ich mit dem Finger nicht auf die Leinwand zeichnen kann?
 ---
