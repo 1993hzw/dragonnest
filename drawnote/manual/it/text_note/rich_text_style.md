@@ -1,4 +1,4 @@
-[User Manual](/dragonnest/drawnote/manual/it/text_note) > [Text Note](/dragonnest/drawnote/manual/it/text_note) >
+[Manuale Utente](/dragonnest/drawnote/manual/it/text_note) > [Nota di Testo](/dragonnest/drawnote/manual/it/text_note) >
 
 Stile Testo Ricco
 ---

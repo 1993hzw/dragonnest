@@ -1,4 +1,4 @@
-[User Manual](/dragonnest/drawnote/manual/it) > [Super Nota](/dragonnest/drawnote/manual/it/super_note) >
+[Manuale Utente](/dragonnest/drawnote/manual/it) > [Super Nota](/dragonnest/drawnote/manual/it/super_note) >
 
 Modalità Penna Stilo
 ---
