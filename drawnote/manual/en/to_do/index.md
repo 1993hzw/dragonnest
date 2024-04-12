@@ -8,4 +8,4 @@ The To-Do List helps you easily manage your daily plans and tasks.
 
 - [Associate Notes](associated_notes.md)
 
-- [Filtering To-Do Items](to_do_filter.md)
+- [To Do Filter](to_do_filter.md)

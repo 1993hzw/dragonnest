@@ -1,4 +1,4 @@
-[Benutzerhandbuch](/dragonnest/drawnote/manual/de/mind_mapping) >
+[Benutzerhandbuch](/dragonnest/drawnote/manual/de) >
 
 Mind Mapping
 ---

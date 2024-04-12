@@ -39,4 +39,4 @@ Combina scrittura a mano, disegni, testo, immagini, registrazioni, tabelle, mapp
 
 - [Modalità Selezione](select_mode.md)
 
-- [Vista Tela](canvas_view.md)
+- [lmpostazioni della Visualizzazione](canvas_view.md)

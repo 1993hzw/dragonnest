@@ -35,7 +35,7 @@ Kombinieren Sie Handschrift, Zeichnungen, Text, Bilder, Aufnahmen, Tabellen, Min
 
 - [Audio-Marker](audio_marker.md)
 
-- [Verbundene Notizen](associated_notes.md)
+- [Verknüpfte Notiz](associated_notes.md)
 
 - [Auswahlmodus](select_mode.md)
 

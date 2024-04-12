@@ -12,7 +12,7 @@ Mehr
 
 - [Online-Suche](online_search.md)
 
-- [Notizen exportieren/teilen](export_share_notes.md)
+- [Exportieren/Teilen von Notizen](export_share_notes.md)
 
 - [Zeitstempel einfügen](insert_timestamp.md)
 

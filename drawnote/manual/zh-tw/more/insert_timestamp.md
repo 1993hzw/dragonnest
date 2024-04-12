@@ -1,4 +1,4 @@
-[使用說明](/dragonnest/drawnote/manual/zh-tw) > [更多](/dragonnest/drawnote/manual/zh-tw/more) >
+[使用手冊](/dragonnest/drawnote/manual/zh-tw) > [更多](/dragonnest/drawnote/manual/zh-tw/more) >
 
 插入時間戳
 ---

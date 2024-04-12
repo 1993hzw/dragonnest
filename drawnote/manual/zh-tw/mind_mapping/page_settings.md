@@ -1,4 +1,4 @@
-[使用說明](/dragonnest/drawnote/manual/zh-tw) > [心智圖](/dragonnest/drawnote/manual/zh-tw/mind_mapping) >
+[使用手冊](/dragonnest/drawnote/manual/zh-tw) > [心智圖](/dragonnest/drawnote/manual/zh-tw/mind_mapping) >
 
 頁面設定
 ---

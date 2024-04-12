@@ -1,4 +1,4 @@
-[使用說明](/dragonnest/drawnote/manual/zh-tw) >
+[使用手冊](/dragonnest/drawnote/manual/zh-tw) >
 
 
 
