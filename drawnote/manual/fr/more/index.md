@@ -28,3 +28,5 @@ Plus
 - [Verrouillage de la confidentialité](privacy_lock.md)
 
 - [Ajouter un widget sur le bureau](add_desktop_widget.md)
+
+- [Touches de raccourci et fonctionnalités d'entrée de la souris](shortcut_key.md)

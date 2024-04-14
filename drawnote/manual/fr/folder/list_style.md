@@ -1,4 +1,4 @@
-[Manuel de l'utilisateur](/dragonnest/drawnote/manual/fr) > [Dossier](/dragonnest/drawnote/manual/fr/foldre) >
+[Manuel de l'utilisateur](/dragonnest/drawnote/manual/fr) > [Dossier](/dragonnest/drawnote/manual/fr/folder) >
 
 Style de liste
 ---
