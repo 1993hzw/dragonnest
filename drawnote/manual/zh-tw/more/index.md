@@ -28,3 +28,5 @@
 - [隱私鎖](privacy_lock.md)
 
 - [添加桌面小工具](add_widgets.md)
+
+- [快捷鍵和滑鼠輸入功能](shortcut_key.md)

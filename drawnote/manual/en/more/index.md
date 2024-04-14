@@ -28,3 +28,5 @@ More
 - [Privacy Lock](privacy_lock.md)
 
 - [Add Desktop Widget](add_desktop_widget.md)
+
+- [Shortcut Keys and Mouse Input Functionality](shortcut_key.md)

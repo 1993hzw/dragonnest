@@ -28,3 +28,5 @@ Altre Funzionalità
 - [Blocco della Privacy](privacy_lock.md)
 
 - [Aggiungi Widget Desktop](add_desktop_widget.md)
+
+- [Tasti di Scelta Rapida e Funzionalità di Input del Mouse](shortcut_key.md)

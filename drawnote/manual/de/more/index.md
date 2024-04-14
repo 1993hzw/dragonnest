@@ -26,4 +26,6 @@ Mehr
 
 - [Datenschutzsperre](privacy_lock.md)
 
-- [Desktop-Widget hinzufügen](add_desktop_widget.md)
+- [Desktop-Widget hinzufügen](ashortcut_key.md)
+
+- [Tastenkürzel und Maus-Eingabefunktionalität](add_desktop_widget.md)
