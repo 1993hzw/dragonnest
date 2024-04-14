@@ -3,7 +3,9 @@
 Add Desktop Widget
 ---
 By adding desktop widgets to your device's main screen, you can easily and quickly access note editing functions without opening the application.
-### Operational Steps
+
+### Steps
+
 1. Tap "My" on the main screen.
 2. Enter "settings".
 3. Click "Widgets" and select the type of widget you want to add.

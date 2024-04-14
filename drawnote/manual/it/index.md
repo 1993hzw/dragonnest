@@ -18,6 +18,6 @@ Benvenuti in DrawNote! Come applicazione integrata multifunzione, DrawNote combi
 
 - [Backup e Ripristino Dati](data_backup_and_recovery/index.md)
 
-- [[Altre Funzionalità]](more/index.md)
+- [Altre Funzionalità](more/index.md)
 
 - [Domande Frequenti](q_a/index.md)

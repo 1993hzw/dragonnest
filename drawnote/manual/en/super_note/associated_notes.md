@@ -5,6 +5,7 @@ Associated Notes
 ---
 
 The associated notes feature allows you to easily link related notes, enhancing the organization and search efficiency of your notes.
+
 #### Steps
 
 1. Click the "+" button in the toolbar.

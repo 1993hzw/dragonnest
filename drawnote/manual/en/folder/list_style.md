@@ -2,7 +2,7 @@
 
 List Style
 ---
-#### Operating Steps
+#### Steps
 
 1. Tap on "Folder" on the main page.
 2. Tap on the "List Style" button at the top left corner.

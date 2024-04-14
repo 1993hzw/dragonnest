@@ -4,7 +4,7 @@ Dark Mode and Theme Switching
 ---
 Dark mode provides a more comfortable reading experience, helping to reduce eye strain and protect visual health. This feature allows you to easily switch to a more comfortable dark mode and choose theme colors according to personal preference.
 
-### Operations Steps
+### Steps
 1. Tap on "My" on the main screen.
 2. Go to Settings.
 3. Click on "Dark Mode & Theme".
