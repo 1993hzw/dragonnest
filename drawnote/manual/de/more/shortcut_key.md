@@ -4,7 +4,7 @@ Tastenkürzel und Maus-Eingabefunktionalität
 ---
 Wu's Drawing Note unterstützt Tastenkürzel und Maus-Eingabefunktionalität. Sie können eine Tastatur mit Ihrem Telefon oder Tablet verbinden und Tastenkürzel sowie eine Maus verwenden, um zu bedienen und damit die Effizienz und Bequemlichkeit Ihrer Aufzeichnungen zu verbessern.
 
-#### Schritte zur Bedienung
+#### Schritte
 
 1. Verbinden Sie die Tastatur:
    Verbinden Sie die Tastatur über Bluetooth oder USB mit Ihrem Telefon oder Tablet.
@@ -15,7 +15,7 @@ Wu's Drawing Note unterstützt Tastenkürzel und Maus-Eingabefunktionalität. Si
 3. Maus-Operationen:
    Sie können auch einige Operationen mit der Maus ausführen, wie z.B. mit dem Mausrad scrollen: die Ansicht zoomen, Mausradklick: zur Standardansicht springen.
 
-#### Tipps
+#### Hinweis
 Gängige Tastenkürzel:
 
 Super-Notiz

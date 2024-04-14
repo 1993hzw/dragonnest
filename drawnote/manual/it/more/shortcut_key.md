@@ -4,7 +4,7 @@ Tasti di Scelta Rapida e Funzionalità di Input del Mouse
 ---
 Wu's Drawing Note supporta i tasti di scelta rapida e la funzionalità di input del mouse. Puoi collegare una tastiera al tuo telefono o tablet e utilizzare tasti di scelta rapida e un mouse per operare, migliorando così l'efficienza e la comodità della tua registrazione.
 
-#### Passaggi Operativi
+#### Passaggi
 
 1. Collega la Tastiera:
    Collega la tastiera al tuo telefono o tablet tramite Bluetooth o USB.

@@ -4,7 +4,7 @@ Shortcut Keys and Mouse Input Functionality
 ---
 Wu's Drawing Note supports shortcut keys and mouse input functionality. You can connect a keyboard to your phone or tablet and use shortcut keys and a mouse to operate, thereby improving your recording efficiency and convenience.
 
-#### Operation Steps
+#### Steps
 
 1. Connect the Keyboard:
    Connect the keyboard to your phone or tablet via Bluetooth or USB.
