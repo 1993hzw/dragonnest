@@ -1,4 +1,4 @@
-[Manuel de l'utilisateur](/dragonnest/drawnote/manuel/fr) > [Super Note](/dragonnest/drawnote/manuel/fr/super_note) >
+[Manuel de l'utilisateur](/dragonnest/drawnote/manual/fr) > [Super Note](/dragonnest/drawnote/manual/fr/super_note) >
 
 Déplacer la barre d'outils du crayon
 ---

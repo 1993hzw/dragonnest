@@ -1,4 +1,4 @@
-[Manuel de l'utilisateur](/dragonnest/drawnote/manual/fr) > [FAQ](/dragonnest/drawnote/manual/en/q_a) >
+[Manuel de l'utilisateur](/dragonnest/drawnote/manual/fr) > [FAQ](/dragonnest/drawnote/manual/fr/q_a) >
 
 Que dois-je faire si je ne peux pas dessiner avec un stylet sur le canevas ?
 ---
