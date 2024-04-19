@@ -1,10 +1,10 @@
-[Manual del usuario](/dragonnest/drawnote/manual/es) > [Lista de tareas pendientes](/dragonnest/drawnote/manual/es/to_do) >
+[Manual del usuario](/dragonnest/drawnote/manual/es) > [Tareas](/dragonnest/drawnote/manual/es/to_do) >
 
 Crear un nuevo elemento de la lista de tareas pendientes
 ---
 #### Pasos
 
-1. Navega hasta la página de 'Tareas pendientes'.
+1. Navega hasta la página de 'Tareas '.
 
 2. Haz clic en el botón "+".
 

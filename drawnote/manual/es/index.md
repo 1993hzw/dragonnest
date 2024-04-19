@@ -10,7 +10,7 @@ DrawNote
 
 - [Nota de Texto](text_note/index.md)
 
-- [Mapa Mental](mind_mapping/index.md)
+- [Mapeo mental](mind_mapping/index.md)
 
 - [Carpeta](folder/index.md)
 

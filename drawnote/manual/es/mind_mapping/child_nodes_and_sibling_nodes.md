@@ -1,9 +1,9 @@
-[Manual del usuario](/dragonnest/drawnote/manual/es) > [Mapa mental](/dragonnest/drawnote/manual/es/mind_mapping) >
+[Manual del usuario](/dragonnest/drawnote/manual/es) > [Mapeo mental](/dragonnest/drawnote/manual/es/mind_mapping) >
 
 Diferencia entre nodos hijos y nodos hermanos
 ---
 
-En el mapa mental, "nodos hijos" y "nodos hermanos" son dos conceptos comúnmente utilizados para representar diferentes niveles de relaciones y conexiones:
+En el Mapeo mental, "nodos hijos" y "nodos hermanos" son dos conceptos comúnmente utilizados para representar diferentes niveles de relaciones y conexiones:
 
 - Nodos hijos: Contenido relacionado con el nodo actual en el siguiente nivel, proporcionando información detallada cuando se expande.
 

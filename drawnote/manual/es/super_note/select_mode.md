@@ -1,4 +1,4 @@
-[Manual del Usuario](/dragonnest/drawnote/manual/es) > [Súper Nota](/dragonnest/drawnote/manual/es/super_note) >
+[Manual del Usuario](/dragonnest/drawnote/manual/es) > [Super Nota](/dragonnest/drawnote/manual/es/super_note) >
 
 Modo de Selección
 ---
@@ -9,7 +9,7 @@ El modo de selección proporciona varias herramientas de selección:
 
 - Selección de rectángulo - Selecciona elementos dentro del área rectangular.
 
-- Selección de camino - Selecciona elementos cubiertos por el camino.
+- Selección ruta - Selecciona elementos cubiertos por el camino.
 
 
 #### Pasos

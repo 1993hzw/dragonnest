@@ -1,10 +1,10 @@
-[Manual del Usuario](/dragonnest/drawnote/manual/es) > [Súper Nota](/dragonnest/drawnote/manual/es/super_note) >
+[Manual del Usuario](/dragonnest/drawnote/manual/es) > [Super Nota](/dragonnest/drawnote/manual/es/super_note) >
 
-Insertar Imagen
+Insertar imágenes
 ---
 #### Pasos
 
-1. Haz clic en el botón "Imagen" en la barra de herramientas.
+1. Haz clic en el botón "imágenes" en la barra de herramientas.
 
 2. Toca o desliza un área de la pantalla para insertar imágenes.
 

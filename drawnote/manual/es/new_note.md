@@ -2,13 +2,13 @@
 
 Crear una Nueva Nota
 ---
-DrawNote ofrece una variedad de tipos de notas flexibles para satisfacer diferentes escenarios de usuario, incluyendo Super Nota, Nota de Texto y Mapa Mental.
+DrawNote ofrece una variedad de tipos de notas flexibles para satisfacer diferentes escenarios de usuario, incluyendo Super Nota, Nota de Texto y Mapeo mental.
 
 - Super Nota: Una nota integral que combina escritura a mano, dibujo, texto, imágenes, grabaciones de audio, tablas y mapas mentales. Te permite expresar completamente tu creatividad y talento artístico en un lienzo flexible.
 
 - Nota de Texto: Centrada en la grabación de texto y compatible con ajustes de texto enriquecido así como inserciones de imágenes, haciendo que tus notas sean más diversas y visuales.
 
-- Mapa Mental: Te ayuda a capturar rápidamente ideas y organizar conocimientos, presentando conceptos complejos en una estructura gráfica clara.
+- Mapeo mental: Te ayuda a capturar rápidamente ideas y organizar conocimientos, presentando conceptos complejos en una estructura gráfica clara.
 
 #### Pasos
 

@@ -1,4 +1,4 @@
-[Manual del usuario](/dragonnest/drawnote/manual/es) > [Súper Nota](/dragonnest/drawnote/manual/es/super_note) >
+[Manual del usuario](/dragonnest/drawnote/manual/es) > [Super Nota](/dragonnest/drawnote/manual/es/super_note) >
 
 Notas Asociadas
 ---
@@ -9,7 +9,7 @@ La función de notas asociadas te permite enlazar fácilmente notas relacionadas
 
 1. Haz clic en el botón "+" en la barra de herramientas.
 
-2. Haz clic en "Notas Asociadas" y selecciona la nota que deseas enlazar.
+2. Haz clic en "Nota asociada" y selecciona la nota que deseas enlazar.
 
 3. Nombrar la nota asociada (opcional).
 

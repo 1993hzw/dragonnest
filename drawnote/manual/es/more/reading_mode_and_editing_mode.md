@@ -12,7 +12,7 @@ El modo de lectura y el modo de edición son dos estados de las notas utilizados
 ![Modo de Lectura y Modo de Edición](imgs/reading_mode1.png)
 
 #### Modo de Edición
-- Si actualmente está leyendo una nota, haga clic en el icono "Pluma" en la esquina inferior derecha para cambiar al modo de edición para modificar y editar la nota.
+- Si actualmente está leyendo una nota, haga clic en el icono "Estuche de bolígrafos" en la esquina inferior derecha para cambiar al modo de edición para modificar y editar la nota.
 
 ![Modo de Lectura y Modo de Edición](imgs/editing_mode.png)
 

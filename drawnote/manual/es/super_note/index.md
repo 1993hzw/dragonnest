@@ -1,6 +1,6 @@
 [Manual del usuario](/dragonnest/drawnote/manual/es) >
 
-Súper Nota
+Super Nota
 ---
 
 Combina escritura a mano, dibujos, texto, imágenes, grabaciones, tablas, mapas mentales y más, utilizando un lienzo flexible para expresar completamente tu creatividad y talento artístico.
@@ -9,19 +9,19 @@ Combina escritura a mano, dibujos, texto, imágenes, grabaciones, tablas, mapas 
 
 - [Mover Barra de lápiz](move_pencil_toolbar.md)
 
-- [Modo Estilus](stylus_mode.md)
+- [Modo de Lápiz](stylus_mode.md)
 
 - [Configuraciones de Página](page_settings.md)
 
-- [Función de Pincel](brush_function.md)
+- [Función de Estuche de bolígrafos](brush_function.md)
 
 - [Borrador](eraser.md)
 
 - [Insertar Texto](insert_text.md)
 
-- [Insertar Imagen](insert_picture.md)
+- [Insertar imágenes](insert_picture.md)
 
-- [Insertar Mapa Mental](Insert_mind_map.md)
+- [Insertar Mapeo mental](Insert_mind_map.md)
 
 - [Insertar Tabla](insert_table.md)
 

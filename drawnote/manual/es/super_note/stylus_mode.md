@@ -1,11 +1,11 @@
-[Manual del Usuario](/dragonnest/drawnote/manual/es) > [Súper Nota](/dragonnest/drawnote/manual/es/super_note) >
+[Manual del Usuario](/dragonnest/drawnote/manual/es) > [Super Nota](/dragonnest/drawnote/manual/es/super_note) >
 
 Modo de Lápiz
 ---
 
 #### Pasos
 
-1. Dentro de la página de Súper Nota, toca el botón "⋮" más ubicado en la parte superior derecha de la pantalla.
+1. Dentro de la página de Super Nota, toca el botón "⋮" más ubicado en la parte superior derecha de la pantalla.
 2. Marca la opción de Modo de Lápiz para activarlo.
    ![](imgs/stylus_mode1.png)
 

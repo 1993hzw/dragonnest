@@ -6,11 +6,11 @@ La biblioteca de fuentes puede guardar sus fuentes comúnmente utilizadas. Le pe
 
 #### Pasos
 
-1. Toque "Mi" en la página principal.
+1. Toque "Yo" en la página principal.
 
 2. Acceda a la biblioteca de fuentes.
 
-3. Haga clic en "Cargar Fuente" y seleccione un archivo de fuente para importar.
+3. Haga clic en "Cargar fuente" y seleccione un archivo de fuente para importar.
 
 ![Biblioteca de Fuentes](imgs/font_library.png)
 

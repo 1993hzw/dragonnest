@@ -1,9 +1,9 @@
 [Manual del usuario](/dragonnest/drawnote/manual/es) >
 
-Mapa mental
+Mapeo mental
 ---
 
-El mapa mental te ayuda a capturar rápidamente ideas y organizar el conocimiento, presentando conceptos complejos con una estructura gráfica clara.
+El Mapeo mental te ayuda a capturar rápidamente ideas y organizar el conocimiento, presentando conceptos complejos con una estructura gráfica clara.
 
 - [Configuración de página](page_settings.md)
 

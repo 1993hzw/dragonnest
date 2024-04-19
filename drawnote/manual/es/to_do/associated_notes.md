@@ -1,8 +1,8 @@
-[Manual del Usuario](/dragonnest/drawnote/manual/es) > [Lista de Tareas](/dragonnest/drawnote/manual/es/to_do) >
+[Manual del Usuario](/dragonnest/drawnote/manual/es) > [Tareas](/dragonnest/drawnote/manual/es/to_do) >
 
-Asociar Notas
+Nota de enlace
 ---
-Puedes optar por "Enlazar Notas" al crear un elemento de lista de tareas.
+Puedes optar por "Nota de enlace" al crear un elemento de lista de tareas.
 
 De esta manera, puedes navegar fácilmente a las notas vinculadas simplemente haciendo clic en el elemento de lista de tareas.
 

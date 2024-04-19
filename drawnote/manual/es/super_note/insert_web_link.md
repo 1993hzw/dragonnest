@@ -1,12 +1,12 @@
-[Manual del Usuario](/dragonnest/drawnote/manual/es) > [Súper Nota](/dragonnest/drawnote/manual/es/super_note) >
+[Manual del Usuario](/dragonnest/drawnote/manual/es) > [Super Nota](/dragonnest/drawnote/manual/es/super_note) >
 
-Insertar Enlace Web
+Insertar enlace web
 ---
 #### Pasos
 
 1. Haz clic en el botón "+" en la barra de herramientas.
 
-2. Elige la opción "Insertar Enlace Web".
+2. Elige la opción "Insertar enlace web".
 
 3. Completa el nombre del enlace (opcional).
 

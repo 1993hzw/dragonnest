@@ -6,7 +6,7 @@ Al agregar widgets de escritorio a la pantalla principal de su dispositivo, pued
 
 ### Pasos
 
-1. Toque "Mi" en la pantalla principal.
+1. Toque "Yo" en la pantalla principal.
 2. Ingrese a "configuración".
 3. Haga clic en "Widgets" y seleccione el tipo de widget que desea agregar.
 

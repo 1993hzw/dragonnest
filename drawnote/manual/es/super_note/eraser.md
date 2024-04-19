@@ -1,4 +1,4 @@
-[Manual del usuario](/dragonnest/drawnote/manual/es) > [Súper Nota](/dragonnest/drawnote/manual/es/super_note) >
+[Manual del usuario](/dragonnest/drawnote/manual/es) > [Super Nota](/dragonnest/drawnote/manual/es/super_note) >
 
 Borrador
 ---
@@ -7,7 +7,7 @@ La función de borrador ofrece varios modos para diversos casos de uso.
 
 Haz clic en el botón "Borrador" en la barra de herramientas.
 
-- Modo Normal - Utiliza tecnología de máscara para simular de manera realista el efecto de borrado. Puede borrar varios elementos como líneas, texto e imágenes. Este modo crea marcas de borrado, permitiendo a los usuarios seleccionar elementos borrados.
+- Modo normal - Utiliza tecnología de máscara para simular de manera realista el efecto de borrado. Puede borrar varios elementos como líneas, texto e imágenes. Este modo crea marcas de borrado, permitiendo a los usuarios seleccionar elementos borrados.
 
 
 - Modo de Relleno - Similar al modo normal pero puede borrar rápidamente un área en forma de abanico.
@@ -21,4 +21,4 @@ Haz clic en el botón "Borrador" en la barra de herramientas.
 ![](imgs/eraser.png)
 
 #### Consejos
-- Haz clic en "Limpiar Todo" para vaciar todo el lienzo.
+- Haz clic en "Borrar Todo" para vaciar todo el lienzo.

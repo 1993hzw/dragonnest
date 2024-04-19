@@ -4,7 +4,7 @@ Recuperación de datos
 ---
 #### Pasos
 
-1. Toca "Mi" en la página principal.
+1. Toca "Yo" en la página principal.
 
 2. Accede a la opción "Copia de seguridad y restauración".
 

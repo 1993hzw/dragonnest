@@ -15,6 +15,6 @@ Con el Bloqueo de Privacidad, puede bloquear notas y carpetas específicas.
 #### Consejos
 - El contenido bloqueado no se puede buscar directamente.
 
-- En la interfaz de "Mi" y "Bloqueo Automático y Bloqueo de Privacidad", puede configurar el Bloqueo de Privacidad con desbloqueo mediante huella digital o contraseña.
+- En la interfaz de "Yo" y "Bloqueo Automático y Bloqueo de Privacidad", puede configurar el Bloqueo de Privacidad con desbloqueo mediante huella digital o contraseña.
 
 - El Bloqueo de Privacidad es un mecanismo de bloqueo temporal local. Esto significa que cuando bloquea notas, las respalda y luego restaura esas notas en otro dispositivo, no necesita desbloquearlas nuevamente para ver su contenido.

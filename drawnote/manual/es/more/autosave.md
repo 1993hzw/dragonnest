@@ -6,11 +6,11 @@ El guardado automático evita la pérdida accidental de datos.
 
 #### Pasos
 
-1. Toque "Mi" en la página principal.
+1. Toque "Yo" en la página principal.
 
 2. Acceda a configuración.
 
-3. Haga clic en el botón "Guardado Automático".
+3. Haga clic en el botón "Auto guardado".
 
 4. Active el interruptor y seleccione el tiempo de guardado automático.
 

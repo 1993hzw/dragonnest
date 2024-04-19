@@ -1,4 +1,4 @@
-[Manual del usuario](/dragonnest/drawnote/manual/es) > [Mapa mental](/dragonnest/drawnote/manual/es/mind_mapping) >
+[Manual del usuario](/dragonnest/drawnote/manual/es) > [Mapeo mental](/dragonnest/drawnote/manual/es/mind_mapping) >
 
 Mover posiciones de nodos
 ---

@@ -6,7 +6,7 @@ El bloqueo automático se refiere a la aplicación bloqueándose automáticament
 
 #### Pasos
 
-1. Toque "Mi" en la página principal.
+1. Toque "Yo" en la página principal.
 
 2. Acceda a configuración.
 
