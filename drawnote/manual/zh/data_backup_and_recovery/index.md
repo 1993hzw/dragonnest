@@ -15,4 +15,4 @@
 
 - [管理备份数据](manage_backup_data.md)
 
-![](imgs/entrance1.png)
+![](imgs/entrance.png)

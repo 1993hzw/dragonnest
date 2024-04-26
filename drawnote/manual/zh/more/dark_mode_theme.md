@@ -11,4 +11,3 @@
 4. 在此处，您可以切换深色模式并选择不同的主题颜色以定制个性化界面。
 
 ![](imgs/dark_mode.png)
-![](imgs/dark_mode1.png)

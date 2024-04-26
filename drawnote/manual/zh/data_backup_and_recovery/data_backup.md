@@ -11,4 +11,4 @@
 3.点击"+备份"，即可立即进行备份。
 
 
-![](imgs/data_backup1.png)
+![](imgs/data_backup2.png)

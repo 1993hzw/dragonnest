@@ -14,5 +14,5 @@
 
 4.打开"自动锁定"按钮，选择自动锁定时间。
 
-![](imgs/automatic_locking.png)
-![](imgs/automatic_locking2.png)
+![](imgs/automatic_locking1.png)
+

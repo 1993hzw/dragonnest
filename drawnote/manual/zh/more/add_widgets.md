@@ -8,7 +8,8 @@
 2. 进入设置。
 3. 点击"插件"，选择要添加的插件类型。
 
-![](imgs/add_widgets1.png)
+![](imgs/entrance1.png)
+![](imgs/add_widgets.png)
 
 #### 提示
 您也可以直接在设备桌面进入添加小插件设置，找到该应用程序，然后添加桌面小插件。
