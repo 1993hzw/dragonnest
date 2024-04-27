@@ -12,7 +12,7 @@ La biblioteca de fuentes puede guardar sus fuentes comúnmente utilizadas. Le pe
 
 3. Haga clic en "Cargar fuente" y seleccione un archivo de fuente para importar.
 
-![Biblioteca de Fuentes](imgs/font_library.png)
+![Biblioteca de Fuentes](imgs/font_library1.png)
 
 #### Consejos
 Puede descargar las fuentes que desee desde este sitio web: https://www.fontspace.com/commercial-fonts

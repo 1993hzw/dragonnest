@@ -12,4 +12,4 @@ Automatische Sicherung
 
 4. Aktivieren Sie den Schalter für "Automatische Sicherung" und wählen Sie das Backup-Intervall aus. Um Ihre Daten zu schützen und sich auf unvorhergesehene Umstände vorzubereiten.
 
-![Automatische Sicherung](imgs/automatic_backup1.png)
+![Automatische Sicherung](imgs/automatic_backup.png)

@@ -10,7 +10,7 @@
 
 3.点击“加载字体”，选择字体文件导入。
 
-![](imgs/font_library1.png)
+![](imgs/font_library.png)
 
 #### 提示
 您可以到这个网站下载您想要的字体：https://www.fontspace.com/commercial-fonts

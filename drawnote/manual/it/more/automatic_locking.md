@@ -14,5 +14,4 @@ Il blocco automatico si riferisce all'applicazione che si blocca automaticamente
 
 4. Attiva il pulsante "Blocco automatico" e seleziona il tempo di blocco automatico.
 
-![Blocco Automatico 1](imgs/automatic_locking.png)
-![Blocco Automatico 2](imgs/auto_locking1.png)
+![Blocco Automatico 1](imgs/automatic_locking2.png)

@@ -13,4 +13,4 @@ Sie können zwischen "Cloud-Sicherung" oder "Lokale Sicherung" wählen.
 
 - [Verwalten von Backup-Daten](manage_backup_data.md)
 
-![Eingang](imgs/entrance1.png)
+![Eingang](imgs/my.png)

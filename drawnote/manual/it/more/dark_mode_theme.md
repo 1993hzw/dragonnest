@@ -10,5 +10,4 @@ La modalità oscura offre un'esperienza di lettura più confortevole, contribuen
 3. Clicca su "Modalità Oscura & Tema".
 4. Qui puoi passare alla modalità scura e scegliere diversi colori del tema per personalizzare l'interfaccia a tuo piacimento.
 
-![](imgs/dark_mode_theme.png)
-![](imgs/dark_mode_theme1.png)
+![](imgs/dark_mode_theme2.png)

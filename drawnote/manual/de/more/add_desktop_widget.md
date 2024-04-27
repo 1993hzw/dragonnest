@@ -8,7 +8,7 @@ Durch Hinzufügen von Desktop-Widgets auf den Hauptbildschirm Ihres Geräts kön
 2. Geben Sie "Einstellungen" ein.
 3. Klicken Sie auf "Widgets" und wählen Sie den Typ des Widgets aus, das Sie hinzufügen möchten.
 
-![](imgs/add_widgets1.png)
+![](imgs/settings.png)
 
 #### Hinweis
 Sie können auch direkt auf dem Startbildschirm Ihres Geräts auf die Widget-Einstellungen zugreifen, die Anwendung finden und dann das Desktop-Widget hinzufügen.

@@ -14,5 +14,4 @@ El bloqueo automático se refiere a la aplicación bloqueándose automáticament
 
 4. Active el interruptor "Bloqueo Automático" y seleccione el tiempo de bloqueo automático.
 
-![Bloqueo Automático 1](imgs/automatic_locking.png)
-![Bloqueo Automático 2](imgs/auto_locking1.png)
+![Bloqueo Automático 1](imgs/automatic_locking2.png)

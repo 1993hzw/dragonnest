@@ -14,5 +14,4 @@ Le verrouillage automatique fait référence au verrouillage automatique de l'ap
 
 4. Activez le commutateur "Verrouillage automatique" et sélectionnez le délai de verrouillage automatique.
 
-![Verrouillage automatique 1](imgs/automatic_locking.png)
-![Verrouillage automatique 2](imgs/auto_locking1.png)
+![Verrouillage automatique 1](imgs/automatic_locking2.png)

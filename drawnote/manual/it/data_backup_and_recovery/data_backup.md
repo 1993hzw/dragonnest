@@ -10,4 +10,4 @@ Backup Dati
 
 3. Clicca su "Backup" per avviare un backup immediato.
 
-![Backup Dati](imgs/data_backup.png)
+![Backup Dati](imgs/data_backup1.png)

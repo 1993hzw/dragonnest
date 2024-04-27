@@ -10,4 +10,4 @@ Gérer les données de sauvegarde
 
 3. Maintenez enfoncée une entrée de fichier pour gérer les éléments de restauration de données. Vous pouvez effectuer des opérations de partage, de renommage et de suppression.
 
-![Gérer les données de sauvegarde](imgs/manage_backup_data.png)
+![Gérer les données de sauvegarde](imgs/manage_backup_data1.png)

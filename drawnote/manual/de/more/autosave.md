@@ -14,8 +14,8 @@ Automatisch speichern verhindert versehentlichen Datenverlust.
 
 4. Aktivieren Sie den Schalter und wählen Sie die Automatisches Speichern von bearbeiteten Notizen aus.
 
-![Automatisch speichern 1](imgs/autosave.png)
-![Automatisch speichern 2](imgs/autosave1.png)
+![Automatisch speichern 1](imgs/autosave3.png)
+
 
 #### Hinweis
 - Anpassbare Reaktion auf das Klicken der Zurück-Taste während der Bearbeitung. Reaktionsmethoden umfassen: Erneut klicken, um die Bearbeitung zu beenden, Nach Bestätigung fragen, Bearbeitung beenden und speichern.

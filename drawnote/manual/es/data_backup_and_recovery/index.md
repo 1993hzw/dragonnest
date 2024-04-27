@@ -13,4 +13,4 @@ Puedes elegir entre "copia de seguridad en la nube" o "copia de seguridad local"
 
 - [Gestionar datos de copia de seguridad](manage_backup_data.md)
 
-![Entrada](imgs/entrance1.png)
+![Entrada](imgs/my.png)

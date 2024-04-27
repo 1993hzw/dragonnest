@@ -14,8 +14,7 @@ El guardado automático evita la pérdida accidental de datos.
 
 4. Active el interruptor y seleccione el tiempo de guardado automático.
 
-![Guardado Automático 1](imgs/autosave.png)
-![Guardado Automático 2](imgs/autosave1.png)
+![Guardado Automático 1](imgs/autosave3.png)
 
 #### Consejos
 - Respuesta personalizable para hacer clic en la tecla Atrás durante la edición. Los métodos de respuesta incluyen: Volver a hacer clic para salir de la edición, Pedir confirmación, Salir y guardar.

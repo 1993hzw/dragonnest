@@ -12,7 +12,7 @@ The font library can save your commonly used fonts. Allow you to freely choose t
 
 3. Click "Load Font" and select a font file for import.
 
-![Font Library](imgs/font_library.png)
+![Font Library](imgs/font_library1.png)
 
 #### Tips
 You can download the fonts you want from this website: https://www.fontspace.com/commercial-fonts

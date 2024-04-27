@@ -10,4 +10,4 @@ Datenbackup
 
 3. Klicken Sie auf "Sichern", um ein sofortiges Sichern zu starten.
 
-![Datenbackup](imgs/data_backup.png)
+![Datenbackup](imgs/data_backup1.png)

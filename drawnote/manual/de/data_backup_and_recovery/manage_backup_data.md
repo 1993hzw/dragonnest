@@ -10,4 +10,4 @@ Verwalten von Backup-Daten
 
 3. Drücken Sie lange auf einen Dateieintrag, um Datenwiederherstellungsobjekte zu verwalten. Sie können Freigabe-, Umbenennungs- und Löschvorgänge durchführen.
 
-![Verwalten von Backup-Daten](imgs/manage_backup_data.png)
+![Verwalten von Backup-Daten](imgs/manage_backup_data1.png)

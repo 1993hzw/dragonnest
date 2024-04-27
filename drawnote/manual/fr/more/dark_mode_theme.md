@@ -10,5 +10,4 @@ Le mode sombre offre une expérience de lecture plus confortable, aidant à réd
 3. Cliquez sur "Mode sombre & Thème".
 4. Ici, vous pouvez passer en mode sombre et choisir différentes couleurs de thème pour personnaliser l'interface selon vos préférences.
 
-![](imgs/dark_mode_theme.png)
-![](imgs/dark_mode_theme1.png)
+![](imgs/dark_mode_theme2.png)

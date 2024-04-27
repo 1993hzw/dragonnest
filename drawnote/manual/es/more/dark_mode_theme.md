@@ -10,5 +10,4 @@ El modo oscuro proporciona una experiencia de lectura más cómoda, ayudando a r
 3. Haga clic en "Modo oscuro y Tema".
 4. Aquí, puede cambiar al modo oscuro y elegir diferentes colores de tema para personalizar la interfaz según sus preferencias.
 
-![](imgs/dark_mode_theme.png)
-![](imgs/dark_mode_theme1.png)
+![](imgs/dark_mode_theme2.png)

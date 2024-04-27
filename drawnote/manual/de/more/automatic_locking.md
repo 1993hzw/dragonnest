@@ -14,5 +14,4 @@ Automatische Sperre bezieht sich darauf, dass die Anwendung automatisch gesperrt
 
 4. Aktivieren Sie den Schalter für "Automatische Sperre" und wählen Sie die Zeit für die automatische Sperre aus.
 
-![Automatische Sperrung 1](imgs/automatic_locking.png)
-![Automatische Sperrung 2](imgs/auto_locking1.png)
+![Automatische Sperrung 1](imgs/automatic_locking2.png)

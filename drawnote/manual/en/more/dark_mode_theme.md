@@ -10,5 +10,4 @@ Dark mode provides a more comfortable reading experience, helping to reduce eye 
 3. Click on "Dark Mode & Theme".
 4. Here, you can switch to dark mode and choose different theme colors to customize the interface to your liking.
 
-![](imgs/dark_mode_theme.png)
-![](imgs/dark_mode_theme1.png)
+![](imgs/dark_mode_theme2.png)

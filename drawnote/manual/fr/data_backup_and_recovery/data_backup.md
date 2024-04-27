@@ -10,4 +10,4 @@ Sauvegarde des données
 
 3. Cliquez sur "Sauvegarde" pour lancer une sauvegarde immédiate.
 
-![Sauvegarde des données](imgs/data_backup.png)
+![Sauvegarde des données](imgs/data_backup1.png)

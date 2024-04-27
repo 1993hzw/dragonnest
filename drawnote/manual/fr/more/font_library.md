@@ -12,7 +12,7 @@ La bibliothèque de polices peut enregistrer vos polices couramment utilisées. 
 
 3. Cliquez sur "Charger la police" et sélectionnez un fichier de police à importer.
 
-![Bibliothèque de polices](imgs/font_library.png)
+![Bibliothèque de polices](imgs/font_library1.png)
 
 #### Conseils
 Vous pouvez télécharger les polices que vous souhaitez à partir de ce site web : https://www.fontspace.com/commercial-fonts

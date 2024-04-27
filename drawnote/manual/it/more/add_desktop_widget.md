@@ -8,7 +8,7 @@ Aggiungendo widget desktop alla schermata principale del dispositivo, è possibi
 2. Entra in "impostazioni".
 3. Clicca su "Widget" e seleziona il tipo di widget che desideri aggiungere.
 
-![](imgs/add_widgets1.png)
+![](imgs/settings.png)
 
 #### Suggerimenti
 Puoi anche accedere direttamente alle impostazioni del widget sulla schermata principale del tuo dispositivo, trovare l'applicazione e quindi aggiungere il widget desktop.

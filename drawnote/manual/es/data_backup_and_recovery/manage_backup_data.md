@@ -10,4 +10,4 @@ Gestionar datos de copia de seguridad
 
 3. Mantén pulsada una entrada de archivo para gestionar los elementos de recuperación de datos. Puedes realizar operaciones de compartir, cambiar nombre y eliminar.
 
-![Gestionar datos de copia de seguridad](imgs/manage_backup_data.png)
+![Gestionar datos de copia de seguridad](imgs/manage_backup_data1.png)

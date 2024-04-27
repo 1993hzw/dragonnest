@@ -10,5 +10,4 @@ Der Dunkelmodus bietet ein angenehmeres Leseerlebnis, hilft, die Augenbelastung 
 3. Klicken Sie auf "Dunkelmodus & Thema".
 4. Hier können Sie in den Dunkelmodus wechseln und verschiedene Themenfarben auswählen, um die Benutzeroberfläche nach Ihren Wünschen anzupassen.
 
-![](imgs/dark_mode_theme.png)
-![](imgs/dark_mode_theme1.png)
+![](imgs/dark_mode_theme2.png)

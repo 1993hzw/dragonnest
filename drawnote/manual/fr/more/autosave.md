@@ -14,8 +14,7 @@ La sauvegarde automatique empêche la perte accidentelle de données.
 
 4. Activez le commutateur et sélectionnez l'intervalle de sauvegarde automatique.
 
-![Sauvegarde automatique 1](imgs/autosave.png)
-![Sauvegarde automatique 2](imgs/autosave1.png)
+![Sauvegarde automatique 1](imgs/autosave3.png)
 
 #### Conseils
 - Réponse personnalisable pour cliquer sur la touche Retour pendant l'édition. Les méthodes de réponse incluent : Cliquez à nouveau pour quitter l'édition, Demander confirmation, Quitter et sauvegarder.

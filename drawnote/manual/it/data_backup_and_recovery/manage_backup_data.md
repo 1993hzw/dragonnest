@@ -10,4 +10,4 @@ Gestione Dati di Backup
 
 3. Tieni premuta a lungo una voce di file per gestire gli elementi di ripristino dati. Puoi eseguire operazioni di condivisione, rinomina e cancellazione.
 
-![Gestione Dati di Backup](imgs/manage_backup_data.png)
+![Gestione Dati di Backup](imgs/manage_backup_data1.png)

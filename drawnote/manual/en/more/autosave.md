@@ -14,8 +14,7 @@ Auto save prevents accidental data loss.
 
 4. Enable the toggle and select the auto-save time.
 
-![Auto Save 1](imgs/autosave.png)
-![Auto Save 2](imgs/autosave1.png)
+![Auto Save 2](imgs/autosave3.png)
 
 #### Tips
 - Customizable response for clicking the Back key during editing. Response methods include：Cilck again to exit editing, Ask for confirmation,Exit and save.

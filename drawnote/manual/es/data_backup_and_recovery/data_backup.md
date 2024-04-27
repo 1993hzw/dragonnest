@@ -10,4 +10,4 @@ Copia de seguridad de datos
 
 3. Haz clic en "Copia de seguridad" para iniciar una copia de seguridad inmediata.
 
-![Copia de seguridad de datos](imgs/data_backup.png)
+![Copia de seguridad de datos](imgs/data_backup1.png)
