@@ -15,7 +15,7 @@
 5.点击确认，以恢复数据。
 
 
-![](imgs/data_recovery1.png)
+![](imgs/data_recovery.png)
 
 #### 提示
 备份数据恢复时，有以下三种策略可供选择：
