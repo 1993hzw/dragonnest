@@ -13,5 +13,4 @@
 
 4. 開啟"自動鎖定"按鈕，選擇自動鎖定時間。
 
-![](imgs/automatic_locking.png)
-![](imgs/automatic_locking3.png)
+![](imgs/automatic_locking2.png)

@@ -13,4 +13,4 @@
 
 - [管理備份資料](manage_backup_data.md)
 
-![](imgs/entrance2.png)
+![](imgs/my.png)

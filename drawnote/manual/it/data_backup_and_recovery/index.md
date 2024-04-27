@@ -13,4 +13,4 @@ Puoi scegliere tra "backup su cloud" o "backup locale".
 
 - [Gestione Dati di Backup](manage_backup_data.md)
 
-![Ingresso](imgs/my.png)
+![Ingresso](imgs/my1.png)

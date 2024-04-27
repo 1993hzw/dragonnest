@@ -10,5 +10,4 @@
 3. 點選"深色模式&主題"。
 4. 在此處，您可以切換深色模式並選擇不同的主題顏色以定製個性化介面。
 
-![](imgs/dark_mode_theme.png)
-![](imgs/dark_mode_theme1.png)
+![](imgs/dark_mode_theme3.png)

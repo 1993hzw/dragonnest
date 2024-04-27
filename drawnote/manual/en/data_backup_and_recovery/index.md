@@ -13,4 +13,4 @@ You can choose between "cloud backup" or "local backup".
 
 - [Manage Backup Data](manage_backup_data.md)
 
-![Entrance](imgs/my.png)
+![Entrance](imgs/my1.png)

@@ -13,4 +13,4 @@ Vous pouvez choisir entre la "sauvegarde cloud" ou la "sauvegarde locale".
 
 - [Gérer les données de sauvegarde](manage_backup_data.md)
 
-![Entrée](imgs/my.png)
+![Entrée](imgs/my1.png)
