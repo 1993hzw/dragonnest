@@ -1,4 +1,4 @@
-[Manual do Usuário](/dragonnest/drawnote/manual/pt) > [Mapeamento Mental](/dragonnest/drawnote/manual/pt/mapeamento_mental) >
+[Manual do Usuário](/dragonnest/drawnote/manual/pt) > [Mapeamento Mental](/dragonnest/drawnote/manual/pt/mind_mapping) >
 
 Movendo Posições de Nós
 ---

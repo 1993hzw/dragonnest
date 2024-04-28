@@ -1,4 +1,4 @@
-[Manual do Usuário](/dragonnest/drawnote/manual/pt) > [Nota de Texto](/dragonnest/drawnote/manual/pt/nota_de_texto) >
+[Manual do Usuário](/dragonnest/drawnote/manual/pt) > [Nota de Texto](/dragonnest/drawnote/manual/pt/text_note) >
 
 Estilo de Texto Avançado
 ---

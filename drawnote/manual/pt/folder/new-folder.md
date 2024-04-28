@@ -1,4 +1,4 @@
-[Manual do Usuário](/dragonnest/drawnote/manual/pt) > [Pasta](/dragonnest/drawnote/manual/pt/pasta) >
+[Manual do Usuário](/dragonnest/drawnote/manual/pt) > [Pasta](/dragonnest/drawnote/manual/pt/folder) >
 
 Criar Nova Pasta
 ---
