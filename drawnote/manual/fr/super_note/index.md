@@ -36,4 +36,4 @@ La Super Note combine l'écriture manuscrite, les dessins, le texte, les images,
 
 - [Mode de Sélection](select_mode.md)
 
-- [Vue du la tpile](canvas_view.md)
+- [Vue du la toile](canvas_view.md)
