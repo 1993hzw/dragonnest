@@ -1,6 +1,6 @@
 [Manuel de l'utilisateur](/dragonnest/drawnote/manual/fr) > [Super Note](/dragonnest/drawnote/manual/fr/super_note) >
 
-Vue du la tpile
+vue de la toile
 ---
 La vue du canevas est l'interface pour visualiser et éditer les notes, contenant des informations de coordonnées et de zoom.
 
